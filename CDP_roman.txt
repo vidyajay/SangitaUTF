@@ -1,0 +1,2923 @@
+﻿% caturdaṇḍīprakāśikā of veṅkaṭamakhin
+% ed. Subrahmaṇya śāstri
+% Published by The Music Academy Madras
+
+caturdaṇḍīprakāśikā  - veṅkaṭamakhin
+
+1.vīṇāprakaraṇam 
+
+1.1ab: caturṇāṃ puruṣārthānāṃ tyāgaṃ yasmātkarotyataḥ 
+1.1cd: tyāgarāja iti khyātaṃ somāskandamupāsmahe 
+1.2ab: saṃgītaśāstraṃ vitataṃ samāloḍya dhiyā svayam 
+1.2cd: vidhatte veṅkaṭamakhī caturdaṇḍīprakāśikām  
+1.3ab: asyāṃ vāggeyakāraikasaṃjīvanasudhānidhau
+1.3cd: ādyaṃ vīṇāprakaraṇaṃ śrutiprakaraṇaṃ tataḥ 
+1.4ab: svaraprakaraṇaṃ paścānmelaprakaraṇaṃ tataḥ 
+1.4cd: tato rāgaprakaraṇālāpaprakaraṇe kramāt  
+1.5ab: ṭhāyaprakaraṇaṃ cātha gītaprakaraṇaṃ tataḥ  
+1.5cd: prabandhānāṃ prakaraṇaṃ tālaprakaraṇaṃ tataḥ
+1.6ab: daśaprakaraṇopetā kṛtirvidvadalaṃkṛtiḥ
+1.6cd: tatrāpi prathamoddiṣṭaṃ vīṇālakṣaṇamucyate
+1.7ab: sā ca vīṇā tribhedeti lakṣaṇajñāḥ pracakṣate  
+1.7cd: śudhamelākhyavīṇādyā dvitīyā madhyamelakā 
+1.8ab: tṛtīyā raghunāthendramelavīṇā prakīrtitā
+1.8cd: pratyekametāstisropi vīṇāḥ syurdvividhā matāḥ
+1.9ab: ekaikarāgasaṃbandhisvarāṇāṃ melanaṃ yathā
+1.9cd: madhye tāre ca sā tvekarāgamelābhidhā smṛtā 
+1.10ab: madhye tāre ca sakalaiḥ svarairyuktā tu yā bhavet
+1.10cd: sā sarvarāgamelākhyā vīṇeti smaryate parā
+
+1.11ab: madhyamelākhyavīṇāyāṃ tṛtīyo bheda iṣyate
+1.11cd: pūrvatantrītrayaṃ tyaktvā ṣaḍjayuktāṃ caturthikām  
+1.12ab: tantrīṃ tristhānasārībhiryojayetsaikatantrikā
+1.12cd: kiṃciddīrghaḥ pravālaḥ syādasyāṃ tristhānaśuddhaye  
+1.13ab: tatrādau śuddhamelākhyavīṇāyā lakṣma cakṣmahe
+1.13cd: lakṣyajñena pravīṇena nirmitāyāṃ tu śilpinā  
+1.14ab: vīṇāyāmuparisthāne catustantrīḥ prasārayet
+1.14cd: pittalāracite cādyadvitīye lohaje pare
+1.15ab: pārśvoparisthatantrīṇāṃ vāme catasṛṇāmapi 
+1.15cd: ādyāyāṃ mandraṣaḍjākhyaṃ svaraṃ tantryāṃ niyojayet 
+1.16ab: tataḥ pañcamanāmānāṃ dvitīyāyāṃ niveśayet
+1.16cd: tṛtīyāyāṃ tantrikāyāṃ madhyaṣaḍjaṃ niveśayet 
+1.17ab: madhyamadhyamanāmānāṃ turīyāyāṃ niveśayet
+1.17cd: tisṛṇāṃ pārśvatantrīṇāṃ svarayojanamucyate
+1.18ab: ādyā ṭīpyābhidhā tāraṣaḍjatulyadhvanirbhavet
+1.18cd: dvitīyā tantrikā jñeyā madhyapañcamasaṃmitā
+1.19ab: tṛtīyā madhyaṣaḍjena saṃmitā jhallikābhidhā
+1.19cd: tisṛṇāmapi caitāsāṃ śrutisaṃjñā prakīrtitā
+1.20ab: parvaṇāṃ saṃniveśotha vakṣyate lakṣyasaṃmataḥ
+1.20cd: meroḥ purastātparvāṇi ṣaṭ krameṇa niveśayet
+
+1.21ab: ṣaṭsu teṣvādyayā tantryā mandraṣaḍjābhidhānayā
+1.21cd: krameṇa śuddhariṣabhaḥ śuddhagāṃdhārakastathā
+1.22ab: sādhāraṇākhyagāṃdhāro gāṃdhārontarasaṃjñakaḥ
+1.22cd: śuddhamadhyamanāmā ca varālīmadhyamastathā
+1.23ab: iti svarāḥ prajāyante tantryā cātha dvitīyayā
+1.23cd: mandrapañcamanādinyā ṣaṭsu teṣveva parvasu
+1.24ab: śuddhaśca dhaivataḥ śuddho niṣādaśca tataḥ param
+1.24cd: kaiśikyākhyaniṣādaśca kākalyākhyaniṣādakaḥ
+1.25ab: ṣaḍjarṣabhau ca jāyante vyaktamete svarāḥ kramāt
+1.25cd: madhyaṣaḍjaninādinyā tantryā cātha tṛtīyayā
+1.26ab: sarveṣveteṣu ye jātāstānsvarānkathayāmyaham  
+1.26cd: śuddhāvṛṣabhagāṃdhārau tathā sādhāraṇābhidhaḥ  
+1.27ab: gāṃdhārontarasaṃjñaśca śuddhamadhyama eva ca 
+1.27cd: varālīmadhyamaśceti jāyante kramaśaḥ svarāḥ
+1.28ab:madhyamadhyamanādinyā tantryā cātha turīyayā 
+1.28cd: ṣaṭsu parvasu caiteṣu svarānsamabhidadhmahe
+1.29ab: varālīmadhyamaḥ pūrvaḥ pañcamaḥ śuddhadhaivataḥ 
+1.29cd: tataḥ śuddhaniṣādaśca kaiśikyākhyaniṣādakaḥ
+1.30ab: kākalyākhyaniṣādaścetyete syuḥ kramaśaḥ svarāḥ 
+1.30cd: asyāṃ turīyatantryāṃ yaḥ kākalī ṣaṣṭhaparvajaḥ  
+
+1.31ab: tadagre sapta parvāṇi yathāyogaṃ niveśayet 
+1.31cd: teṣāṃ pravāle dīrghāṇi trīṇi parvāṇi vinyaset
+1.32ab: sarigākhyāstrayastatra prajayante svarāḥ kramāt 
+1.32cd: pīṭhe hrasvāṇi parvāṇi catvāri viniveśayet
+1.33ab: eteṣu mapadhanyākhyāścatvāraḥ syuḥ svarāḥ kramāt 
+1.33cd: śuddhamadhyamadaṃ hrasvaṃ parva pīṭhe yadā bhavet
+1.34ab: tathā pravāle pīṭhaṃ ca vaiṇikairviniveśyatām 
+1.34cd: ekaṃ sarvottaraṃ hrasvaṃ parva pīṭhe niveśayet
+1.35ab: tatrātitāraṣaḍjākhyo dvāviṃśopi svaro bhavet 
+1.35cd: lakṣyajñairgṛhyate soyaṃ raktilābhaikalobhataḥ
+1.36ab: śuddhamelākhyavīṇāyāmetatparvāṣṭake punaḥ 
+1.36cd: dvau ṣaḍjau pañcamaśceti dhruvaṃ parvatrayaṃ sadā
+1.37ab: anyāni pañca parvāṇi tattadrāgānusārataḥ 
+1.37cd: kramādrigamadhanyākhyasvarotpādanasiddhaye
+1.38ab: utpādyotpādya veśyāni yathāyogaṃ vicakṣaṇaiḥ 
+1.38cd: sarvāṇyāhṛtya dīrghāṇi nava hrasvāni pañca ca
+1.39ab: eṣaikarāgamelākhyavīṇaivaṃ sati jāyate 
+1.39cd: asyāṃ turīyatantryāṃ yaḥ kākalī ṣaṣthaparvajaḥ 
+1.40ab: tadagre śuddhavikṛtasvarāṇāṃ dvādaśātmanām  
+1.40cd: siddhyai dvādaśa parvāṇi viniveśyāni vaiṇikaiḥ
+
+
+1.41ab: atitārākhyaṣaḍjārthaṃ hrasvaṃ cānyattrayodaśam 
+1.41cd: teṣu pravāle dīrghāṇi pañca parvāṇi vinyaset
+1.42ab: aṣṭa parvāṇi pīṭhe tu hrasvāni viniveśayet 
+1.42cd: asyāṃ dīrghāṇi parvāṇi militvaikādaśābhavan
+1.43ab: aṣṭau hrasvāni parvāṇi samajāyanta tatra tu 
+1.43cd: tatsarvarāgamelākhyavīṇaivaṃ sati jāyate
+1.44ab: lakṣitaivaṃ śudhamelavīṇā bhedadvayānvitā 
+1.44cd: etasyāmeva vīṇāyāṃ svarāṇamekaviṃśateḥ
+1.45ab: nirūpayāmaḥ sthānāni svarāṃstredhā vibhajya ca 
+1.45cd: tatropari sthitānāṃ tu vāme catasṛṇāmapi 
+1.46ab: ādyayā mandraṣaḍjākhyatantryā tāvaccatuḥsvarāḥ 
+1.46cd: saṃgrāhyāḥ ṣaḍjariṣabhau tathā gāṃdhāramadhyamau 
+1.47ab: pañcamādyā na gṛhyante tasyāṃ jātā api svarāḥ 
+1.47cd: mandrapañcamanāmā yo dvitīyāyāṃ niveśitaḥ
+1.48ab: tasyāṃ trayaḥ svarā grāhyāḥ pañcamo dhaivataśca niḥ 
+1.48cd: ṣadjādayo na gṛhyante jātā pati tataḥ param
+1.49ab: tadevaṃ mandrake sthāne svarāḥ sapta pradarśitāḥ 
+1.49cd: atha madhyasthānake tu tṛtīyāyāṃ trayaḥ svarāḥ
+1.50ab: turīyāyāṃ tu catvāraḥ satyevaṃ sthānagāḥ svarāḥ 
+1.50cd: tatra syurmadhyaṣaḍjāyāṃ madhyaṣaddjādayastrayaḥ 
+
+
+1.51ab: jātā api na gṛhyante tadūrdhvaṃ sthānasiddhaye 
+1.51cd: madhyamadhyamanādinyāṃ turīyāyāmapi svarāḥ
+1.52ab: catvāra eva gṛhyante mapadhanyabhidhāḥ svarāḥ 
+1.52cd: madhyasthānagatā evaṃ svarāḥ sapta pradarśitāḥ
+1.53ab: tasyāmeva turīyāyāṃ madhyasthānaniṣādataḥ 
+1.53cd: agre ṣaḍjādayaḥ sapta tārasthānagatāḥ svarāḥ
+1.54ab: saṃgrāhyā iti saptoktāstārasthānagatāḥ svarāḥ 
+1.54cd: tanmandramadhyatārākhyasthānānāṃ tritaye svarāḥ
+1.55ab: pratisthānaṃ saptasaptetyekaviṃśatirīritāḥ
+1.55cd: dvāviṃśamatitārākhyaṃ caturthamapi ṣaḍjakam
+1.56ab: lakṣyajñāḥ parigṛhṇanti raktilābhaikalobhataḥ
+1.56cd: sthānaprasaṅge baikārarāmo babhrāma tadyathā
+1.57ab: uparisthacatustantrīṣvādyāyāṃ viniveśite 
+1.57cd: anumandrākhyaṣaḍjesminsvarāḥ sarigamābhidhāḥ
+1.58ab: catvāraḥ samupādeyāstvanumandrākhyapañcamaḥ 
+1.58cd: dvitīyāyāṃ niveśyotra padhanīti trayaḥ svaraḥ
+1.59ab: grāhyāstatonumandrākhyasthānagāḥ sapta darśitāḥ 
+1.59cd: svarāstantryāṃ tṛtīyāyāṃ mandraṣaḍjo niveśyate
+1.60ab: tasyāṃ sariganāmānāṃ saṃgṛhyanta trayaḥ svarāḥ 
+1.60cd: turīyāyāṃ tantrikāyāṃ niveśyo mandramadhyamaḥ 
+
+
+1.61ab: tasyāṃ tu mapadhanyākhyāḥ saṃgṛhyante catuḥ svarāḥ 
+1.61cd: mandrasthānasvarāḥ sapta tadevaṃ darśitā iti
+1.62ab: naitatsaṃgacchate mandramadhyatārābhidhāni hi 
+1.62cd: tristhānānīti sakalasaṃgītikamatasthitiḥ
+1.63ab: ādyadvitīyayostantryoḥ svarāḥ sapta tvayeritāḥ 
+1.63cd: anumandrābhidhe sthāne tṛtīyakaturīyayoḥ
+1.64ab: mandrasthānagatāḥ sapta svarāśca parikalpitāḥ 
+1.64cd: tatpurovartinaḥ sapta svarāstāvadamī punaḥ
+1.65ab: madhyasthānagatāḥ kiṃ vā tārasthānagatā uta 
+1.65cd: na tāvadādyastārākhyasthānabhaṅgaprasaṅgataḥ
+1.66ab: na dvitīyopi madhyākhyasthānābhāve kathaṃ punaḥ 
+1.66cd: tārasthānaṃ prajāyetānupanītavivāhavat
+1.67ab: tasmādasmābhiruktaiva rītiḥ sthānavibhājane 
+1.67cd: mandrādiṣvanumandrādivyavahārastu laukikaḥ
+1.68ab: gatānugatikanyāyādbhrāntimātravijṛmbhitaḥ 
+1.68cd: lakṣiteyaṃ śuddhamelavīṇā lakṣyānusārataḥ
+1.69ab: athocyate madhyamelavīṇāyā lakṣaṇaṃ mayā 
+1.69cd: tantryādyā cānumandrākhyapañcamena yutā yadi
+1.70ab: dvitīyā mandraṣaḍjena tantrikā cetsamanvitā 
+1.70cd: mandrapañcamasaṃyuktā tṛtīyā yadi tantrikā
+
+
+1.71ab: turīyā mandraṣaḍjena tantrikā cetsamanvitā 
+1.71cd: tathā bhavenmadhyamelavīṇā pārśve tritantrikā
+1.72ab: tisṛṇāṃ pārśvatantrīṇāṃ vakṣyetha svarayojanam 
+1.72cd: ādyā ṭīpyabhidhā tāraṣaḍjatulyadhvanirbhavet
+1.73ab: dvitīyā tantrikā jñeyā madhyapañcamasaṃmitā 
+1.73cd: tṛtīyā madhyaṣaḍjena saṃmitā jhallikābhidhā
+1.74ab: ityevaṃ madhyamelākhyavāditrasvarayojanam 
+1.74cd: athāsyāḥ parvasaṃdeśaṃ vakṣye lakṣyaikasaṃmatam
+1.75ab: meroḥ purastātparvāṇi ṣaḍasyāmapi vinyaset 
+1.75cd: tantrīcatuṣṭaye caivaṃ pratyekaṃ ṣaṭsu parvasu
+1.76ab: ye svarāḥ saṃprasūyante kramaśāstānpracakṣmahe 
+1.76cd: ādyatantryānumandrākhyapañcamāñcitayā kramāt 
+1.77ab: śuddhaśca dhaivataḥ śuddho niṣādaśca tataḥ param 
+1.77cd: kaiśikyākhyaniṣādaśca kākalyākhyaniṣādakaḥ
+1.78ab: ṣaḍjarṣabhau ca jāyante ṣaṭsu parvasu ṣaṭ kramāt 
+1.78cd: tantryā dvitīyayā mandraṣaḍjagarjitayā punaḥ
+1.79ab: śuddhaśca riṣabhaḥ śuddhagāṃdhārākhyaḥ svarastataḥ 
+1.79cd: sādhāraṇākhyagāṃdhāro gāṃdhārontarasaṃjñakaḥ
+1.80ab: śuddhamadhyamanāmā ca varālīmadhyamastataḥ 
+1.80cd: kramādamī ṣaṭ svarāḥ syuḥ ṣaṭsu teṣveva parvasu 
+
+1.81ab: mandrapañcamaśobhinyā tantryā cātha tṛtīyayā 
+1.81cd: śudhaśca dhaivataḥ śuddhaniṣādaśca tataḥ param
+1.82ab: kaiśikyākhyaniṣādaśca kākalyākhyaniṣādakaḥ 
+1.82cd: ṣaḍjaḥ śuddharṣabhaśceti svarā ṣaṭsu ca parvasu
+1.83ab tantryā turīyayā madhyaṣaḍjagarjitayā punaḥ
+1.83cd: śuddhaśca rṣabhaḥ śuddhagāṃdhārākhyaḥ svarastataḥ 
+1.84ab: sādhāraṇakhyagāṃdhāro gāṃdhārontarasaṃjñakaḥ 
+1.84cd: śuddhamadhyamanāmā ca varālīmadhyamastataḥ
+1.85ab: ete svarāḥ prajāyante ṣaṭsu teṣveva parvasu 
+1.85cd: varālīmadhyamasyāgre trīṇi parvāṇi vinyaset
+1.86ab: parvasu triṣu caiteṣu tantryā tāvatturīyayā 
+1.86cd: krameṇa saṃprasūyante padhanīti trayaḥ svarāḥ
+1.87ab: tadūrdhvaṃ sapta parvāṇi viniveśyāni teṣvatha 
+1.87cd: ādyaṃ tu dīrghaparvaṃ syātpravāle tāraṣaḍjakam  
+1.88ab: rigādiṣaṭsvarotpattyai hrasvaparvāṇi ṣaṭ punaḥ 
+1.88cd: pīṭhe saṃveśanīyāni tadagre parva saptamam
+1.89ab:: atitārākhyaṣaḍjasya sthitaye viniveśayet 
+1.89cd: śuddharṣabhakaraṃ hrasvaṃ parva pīṭhe yadā bhavet
+1.90ab:: tathā pravāle pīṭhaṃ ca vaiṇikairviniveśyatām 
+1.90cd: meroḥ parastādyatparva saptamaṃ pañcamābhidham
+
+1.91ab: anena saha jātāni parvāṇyekādaśa kramāt 
+1.91cd: eteṣu tāraṣaḍjātitāraṣaḍjākhyaparvaṇī
+1.92ab: dve parvaṇī pañcamayoścatvāri syurdhruvāṇi hi 
+1.92cd: anyāni sapta parvāṇi tattadrāgānusārataḥ
+1.93ab: utpādyotpādya veśyani sakalasvarasiddhaye 
+1.93cd: asyāṃ dīrghāṇi parvāṇi daśa hrasvāni sapta ca
+1.94ab: eṣaikarāgamelākhyavīṇaivaṃ sati jāyate 
+1.94cd: pravāle dīrghaparvāṇi veśyāni dvādaśa kramāt
+1.95ab: ekādaśa hrasvaparvāṇyatha pīṭhe niveśayet 
+1.95cd: sarvasthāneṣu sakalasvarāṇāṃ siddhaye yadi
+1.96ab: tatsarvarāgamelākhyavīṇaivaṃ sati jāyate 
+1.96cd: na kaiśikīniṣadosyāmasti pīṭhasthaparvasu
+1.97ab: vādayanti hi tatsthāne kākalīmeva vaiṇikāḥ 
+1.97cd: pīṭhepi kecitkaiśikyāḥ parva hrasvaṃ prakurvate 
+1.98ab: pīṭhe dvādaśa parvāṇi tena jātāni tanmate 
+1.98cd: lakṣitaivaṃ madhyamelavīṇā bhedadvayānvitā
+1.99ab: etasyāmapi vīṇāyāṃ svarāṇāmekaviṃśateḥ 
+1.99cd: śuddhāyāmiva mandrādisthānanītiviniścayaḥ
+1.100ab: prathamādiṣu tantrīṣu tadvadityeva niścayaḥ 
+1.100cd: tantrīrādyānumandrākhyapañcamena samanvitā
+
+1.101ab: madhyamelākhyavīṇāyāṃ tisraḥ sthānavibhājane 
+1.101cd: varāstadraktilābhāya tāṃ nibadhnanti vaiṇikāḥ
+1.102ab: mandraṣaḍjādikāsveva tantrikāsu tisṛṣvataḥ 
+1.102cd: svarānsthānavibhāgena darśayāmyekaviṃśatim
+1.103ab: tatra tantryāṃ dvitīyāyāṃ mandraṣaḍjo niveśyate 
+1.103cd: tasyāṃ grāhyāḥ sarigamāścatvāro na padhādayaḥ
+1.104ab: mandrapañcamanāmā yastṛtīyāyāṃ niveśitaḥ 
+1.104cd: tasyāṃ padhanināmāno grāhyā na sarigādayaḥ
+1.105ab: mandrasthānasvarāḥ sapta tadevaṃ saṃpradarśitāḥ 
+1.105cd: madhyaṣaḍjasametāyāṃ turyatantryāmatha svarāḥ
+1.106ab: sapta grāhyāḥ sarigamapadhanīti kramādamī 
+1.106cd: madhyasthānagatā ete sapta saṃdarśitāḥ svarāḥ
+1.107ab: pravālasthāntimasthūlaparvaprabhṛtiṣu svarāḥ 
+1.107cd: grāhyāḥ ṣaḍjādayaḥ sapta pīṭhastahrasvaparvasu 
+1.108ab: tārasthānagatā evaṃ svarāḥ sapta nidarśitāḥ 
+1.108cd: ekaviṃśatirityuktāḥ svarāḥ sthānatraye sphuṭam
+1.109ab: eteṣu mandraṣaḍjasya ye svarāḥ syuradhastanāḥ 
+1.109cd: tenumandrābhidhasthānasvarā iti vinirṇayaḥ  109
+1.110ab: yetitārasthaṣaḍjasya svarasyāgre vyavasthitāḥ 
+1.110cd: tetitārasvarā jñeyā iti sarvaṃ samajjasam
+
+1.111ab: atrāpi sthānagaṇane rāmo babhrāma tadyathā 
+1.111cd: tantrīrādyānumandrākhyapañcamena yutā yadi
+1.112ab: dvitīyā mandraṣaḍjena tantrikā saṃyutā yadi 
+1.112cd: mandrapañcamasaṃyuktā tṛtīyā tantrikā yadi
+1.113ab: turīyā mandraṣaḍjena tantrikā cetsamanvitā 
+1.113cd: tadā bhavenmadhyamelavīṇetyetadasaṃgatam
+1.114ab: divīyāyāṃ tantrikāyāṃ mandraṣaḍjo niveśitaḥ 
+1.114cd: punaḥ kathaṃ turīyāyāṃ mandraṣaḍjo niveśyate
+1.115ab: uccoccataranādinyaścatasraḥ khalu tantrikāḥ 
+1.115cd: dvitīyaturyayostāsu dvayostantrikayorapi 
+1.116ab: mandraṣaḍjābhidhasyaikasvarasya viniveśanam 
+1.116cd: ayuktamiti naitatkiṃ paśupālopi budhyate
+1.117ab: tasmādasmābhiruktena vartmanaiva vicakṣaṇaiḥ 
+1.117cd: jñātavyaṃ madhyamelāyāṃ tantrīṣu svarayojanam
+1.118ab: sthānatrayasvarāścoktavartmanā tvekaviṃśatiḥ 
+1.118cd: ekaviṃśatisaṃkhyākasvareṣveteṣu vādakaiḥ
+1.119ab: gāyakaiśca caturdaṇḍyāṃ grāhyāḥ saptadaśaiva tu 
+1.119cd: tadā hi vādakāḥ sapta madhyasthānagatānsvarān
+1.120ab: tārasthānagatānsapta ṣaḍjamapyatitāragam 
+1.120cd: dhanī ca mandrasthānasthāvevaṃ saptadaśa svarān
+
+1.121ab: samādāya caturdaṇḍīvādanaṃ kurvatekhilāḥ 
+1.121cd: ayaṃ ca sāraṇīmārgo vaiṇikaiḥ parikalpitaḥ
+1.122ab: madhyasthānasthayordhanyormadhye tvanyataraḥ svaraḥ 
+1.122cd: gṛhyate sāraṇīmārge caturdaṇḍīprasiddhaye
+1.123ab: prāyaśastena saṃjātāḥ ṣoḍaśaiva svarāḥ khalu tathāpi
+1.123cd: mandrasthānasthadhanyākhyasvarayordvayoḥ 
+1.124ab: kvacitkvacidupādānātsvarāḥ saptadaśeritāḥ 
+1.124cd: gāyakāstu svarānsapta mandrasthānasamudbhavān
+1.125ab: madhyasthānasvarānsapta tāraṣaḍjaṃ tathā param 
+1.125cd: dhanī caivānumandrasthāvevaṃ saptadaśa svarān
+1.126ab: samādāya caturdaṇḍīgānaṃ sarvepi kurvate 
+1.126cd: atrāpi cānumandrasthadhanyākhyasvarayordvayoḥ
+1.127ab: sāraṇīmārgasaṃbandhī svaronyatara īritaḥ 
+1.127cd: kvācitkatāmabhipretya svarāḥ saptadaśeritāḥ
+1.128ab: eteṣāmagrato ye syuḥ svarā ye cāpyadhastanāḥ 
+1.128cd: kvacitgītaprabandhādau dṛśyante te svarāḥ khalu
+1.129ab: tatpunaḥ saṃpradāyajñaistānappādyairanādṛtam 
+1.129cd: yadyevaṃ madhyatārākhyasthānagaireva tu svaraiḥ
+1.130ab: nirvāhaḥ syāccaturdaṇḍyāṃ mandrasthānaṃ vṛthā bhavet 
+1.130cd: ityāśaṅkayaiva mandrākhyasthānasāphalyasiddhaye
+
+1.131ab: pakkasāraṇimārgoyaṃ vaiṇikaiḥ parigṛhyate 
+1.131cd: pakkasāraṇimārgastu lakṣyatāmiti cecchṛṇu
+1.132ab: śuddhamelākhyavīṇāyāṃ pakkasāraṇivartmani 
+1.132cd: ye gṛhyante vikalpena tānsvaranabhidadhmahe
+1.133ab: mandrasthānajuṣāṃ saptasvarāṇāṃ gaṇanāvidhau 
+1.133cd: ādyatantryā grahītavyāḥ svarāḥ sarigamābhidhādh 
+1.134ab: catvāra eva ṣaḍjādyāḥ pañcamādirna gṛhyate 
+1.134cd: pakkasāraṇimārge tu tayā tantryādyayā punaḥ
+1.135ab: vikalpena grahītavyaḥ pañcamaḥ śuddhadhaivataḥ 
+1.135cd: atha dvitīyayā mandrapañcamasvarayuktayā
+1.136ab: grāhyāḥ padhanināmānaḥ svarā ca sarigādayaḥ 
+1.136cd: pakkasāraṇimārge tu tayā tantryā dvitīyayā
+1.137ab: upādeyā vikalpena madhyasthānasamudbhavāḥ 
+1.137cd: ṣaḍjaḥ śuddharṣabhaścaiva śuddhagāṃdhāra ityapi
+1.138ab: tantryā tṛtīyayā cātha madhyaṣaḍjena yuktayā 
+1.138cd: madhyasthānasvarāṇāṃ tu gaṇane sarigābhidhāḥ
+1.139ab: traya eva svarā grāhyā na punarmadhyamādayaḥ 
+1.139cd: pakkasāraṇimārge tu tayā tantryā tṛtīyayā
+1.140ab: śuddhamadhyamasaṃjñaśca varālīmadhyamastathā 
+1.140cd: pañcamaśceti saṃgrāhyā vikalpena trayaḥ svarāḥ
+
+1.141ab: madhyasthānasamudbhūtā ityasmābhirviniścitam 
+1.141cd: śuddhamelākhyavīṇāyāṃ pakkasāraṇivartmani
+1.142ab: nirvāhakāścaturdaṇḍyāḥ svarāḥ pañcadaśaiva tu 
+1.142cd: anumandrastayordhanyoḥ sthāne syānmadhyaṣaḍjakaḥ
+1.143ab: ityevaṃ śuddhamelāyāṃ pakkasāraṇivādane 
+1.143cd: ye gṛhyante vikalpena svarāste saṃpradarśitāḥ
+1.144ab: athāto madhyamelākhyavīṇāyāmabhidadhmahe 
+1.144cd: vādane pakkasāraṇyā ye svarāstānvikalpitān
+1.145ab: mandrasthānajuṣāṃ saptasvarāṇāṃ gaṇanāvidhau 
+1.145cd: ādyatantrikayā grāhyāḥ svarāḥ sarigamābhidhāḥ
+1.146ab: catvāra eva na punaḥ pañcamādyāstadudbhavāḥ 
+1.146cd: pakkasāraṇimārge tu te gṛhyante vikalpitāḥ
+1.147ab: mandrapañcamaśobhinyā tantryā cātha dvitīyayā 
+1.147cd: padhanīti svarā grāhyāstrayo na sarigādayaḥ
+1.148ab: pakkasāraṇimārge tu te gṛhyante vikalpitāḥ 
+1.148cd: tataśca madhyamelāyāṃ pakkasāraṇivartmani
+1.149ab: grāhyā mandrasvarāḥ sapta sapta madhyasvarāstathā 
+1.149cd: taraṣaḍjonumandrasthau dhanī saptadaśa svarāḥ
+1.150ab: gṛhyante pakkasāraṇyāṃ gāne daṇḍyāmiva sphuṭam 
+1.150cd: karṇāṭāndhraturuṣkādipadagāneṣu saṃgraham
+
+
+1.151ab: tārasthānarigādīnāṃ kurvate khalu gāyakāḥ 
+1.151cd: gāne ca vādane caiva svarāṇāmekaviṃśateḥ
+1.152ab: viniyogaprakārastu vivicya paridarśitaḥ 
+1.152cd: lakṣitaivaṃ madhyamelavīṇā lakṣyānusārataḥ
+1.153ab: tatonu raghunāthendramelavīṇā nirūpyate 
+1.153cd: tallakṣaṇaṃ tu saṃgītasudhānidhiriti śrute
+1.154ab: cevvayācyutabhūpālaraghunāthanṛpāṅkite 
+1.154cd: asmattātakṛte granthe proktaṃ ślokāld{ṃ likhāmi tān
+
+" pūrvoktavīṇādvaya eva madhyamelākhyavīṇā khalu yā ca tasyām 
+tantrīsametaśrutipañcamāṃ ca tathaiva mandrasthitapañcamāṃ ca 
+
+tadādyatantrīmapi pañcamenānumandrapūrveṇa virājamānām 
+vidhāya tisropi samānanādāstantrīḥ sahādhastanamadhyamena 
+
+ādyaṃ svaraṃ pañcamameva kṛtvā vādyeta vīṇā yadi vaiṇikena 
+eṣācyutaśrīraghunāthabhūpamelākhyavīṇā kathitā tṛtīyā "
+
+1.155ab: ādyaṃ svaraṃ pañcamamityasyārthaḥ kathyate mayā 
+1.155cd: madhyamelākhyavīṇāsthaṃ madhyaṣaḍjābhidhaṃ svaram 
+1.156ab: ādyaṃ kevalasāriṇyā jātaṃ kṛtvātha pañcamam 
+1.156cd: vādayeta tathā madhyamelavīṇāsthamadhyamaḥ
+1.157ab: raghunāthendravīṇāyāṃ ṣaḍjaḥ saṃpadyate tataḥ 
+1.157cd: tathāpi vādanaṃ kuryurvīṇāyāṃ vaiṇikā iti 
+1.158ab: yatsarvarāgamelaikarāgameleti ceritam 
+1.158cd: dvaividhyaṃ madhyamelāyāmasyāmapi tadūhyatām
+1.159ab: tadevaṃ raghunāthendramelavīṇā nirūpitā 
+1.159cd: evaṃ trividhavīṇānāṃ svarūpaṃ ca nirūpitam
+1.160ab: athāsmatkalpitaṃ vīṇādvayaṃ saṃdarśayāmahe 
+1.160cd: nirūpitāyāṃ vīṇāyāmupari dve prasārayet
+1.161ab: tantrike pittalamayī tvādyā lohamayī parā 
+1.161cd: ādyāyāṃ tantrikāyāṃ tu mandraṣaḍjaṃ prayojayet
+1.162ab: tasyāṃ sariganāmānaḥ saṃgṛhyante trayaḥ svarāḥ 
+1.162cd: tantrikāyāṃ dvitīyasyāṃ yojayenmandramadhyamam
+1.163ab: tantrīriyaṃ dvitīyaiva śiṣṭaistristhānaparvabhiḥ 
+1.163cd: yojanīyā bhavenmandravarālīmadhyamādibhiḥ
+1.164ab: eṣā dvitantrikā vīṇā veṅkaṭādhvarikalpitā 
+1.164cd: ekatantryākhyavīṇāyāṃ yādṛśaṃ pūrvamīritam
+1.165ab: parimāṇaṃ pravālasya tādṛśaṃ cātra kīrtitam 
+1.165cd: pūrvavacchrutitantrīṣu svarasaṃyojanādikam
+1.166ab: asyameva dvitantryākhyavīṇāyāmuparisthayoḥ 
+1.166cd: tantryoḥ prathamatantryāṃ hi mandraṣaḍjo niveśitaḥ
+1.167ab: tasyāṃ sarigamābhikhyāñśṛṇuyāma catuḥsvarān 
+1.167cd: tantrikāyāṃ dvitīyasyāṃ yojayenmandrapañcamam
+1.168ab: draṣṭavyamavaśiṣṭaṃ tu pūrvavatsarvamatra ca 
+1.168cd: dvitantrikā ca vīṇaivaṃ veṅkaṭādhvarikalpitā
+1.169ab: tadevamekatantryekā dvitantryau dve tataḥ param 
+1.169cd: śuddhamelāhvayaikātha madhyamelābhidhā parā 
+1.170ab: tṛtīyā raghunāthendramelākhyā parikīrtitā 
+1.170cd: āhatya ṣaḍvidhā vīṇā jātā sāmanyataḥ punaḥ
+
+1.171ab: tatsarvarāgamelaikarāgamelatvabhedataḥ 
+1.171cd: pratyekaṃ dvividhā tasmādvīṇā dvādaśa kīrtitāḥ
+1.172ab: ekatantrīdvitantryādivyavahārastvasau punaḥ 
+1.172cd: ūrdhvatantrīrapekṣyaiva na tisraḥ śrutitantrikāḥ
+1.173ab: dvādaśeti kathaṃ bhedāḥ sphuṭaṃ nirdhāryate tvayā 
+1.173cd: śuddhamelāmadhyamelāraghunāthendramelakāḥ
+1.174ab: iti vīṇātrayepyasminmandrapañcamasaṃgatāḥ 
+1.174cd: tantrikāḥ santi yāstisrastāsu madhyasthamadhyamām
+1.175ab: niveśya vīṇātritayaṃ śakyaṃ kalpayituṃ punaḥ 
+1.175cd: tisṛṇāmapi vīṇānaṃ bhavedbhedatrayaṃ punaḥ
+1.176ab: sarvarāgaikarāgatvabhedasyaivātha yojane 
+1.176cd: ṣaḍ vīṇāḥ sākametābhirbhavantyaṣd tādaśeti cet 
+1.177ab: satyamevaṃ bhavantyetāḥ ṣaḍ vīṇāḥ syurna raktidāḥ 
+1.177cd: tato vīṇā dvādaśaivetyasmākaṃ jayadundubhiḥ
+1.178ab: dvādaśasvapi vīṇāsu bhidyante yāḥ khalūpari 
+1.178cd: tantrikāstāsu sarvāsu catuḥśrutikatāṃ gatāḥ
+1.179ab: niveśyante svarāḥ ṣaḍjaśuddhamadhyamapañcamāḥ 
+1.179cd: nāpare saṃbhavantyarhā viniveśayituṃ svarāḥ 
+1.179ef: tathātve naiva labhyeta sthānatritayasaṃbhavaḥ
+
+iti śrīmadadvaitavidyācāryasāgnicityasarvatomukhātirātrasāgnicityāptavājapeyayājigovindadīkṣitanāgamāmbikāvaradvitīyanandanasya sāgnicityasarvakratuyāji
+-yajñanārāyaṇadīkṣitāvyavahitānujasyācyutavijayarāghavabhūpālapreritasya veṅkaṭeśvaradīkṣitasya kṛtau caturdaṇdīprakāśikāyāmādyaṃ 
+
+
+vīṇāprakaraṇaṃ saṃpūrṇam  
+
+ dvitīyaṃ śrutiprakaraṇam
+
+2.1ab: ādyaprakaraṇe vīṇāṃ saprapañcaṃ nirūpitā 
+2.1cd: tattantrīṣu nirūpyante śrutayotha vibhāgaśaḥ 
+2.2ab: śrutirnāma bhavennādaviśeṣaḥ svarakāraṇam 
+2.2cd: nanu nāsti svaraśrutyorbhedo nādaikarūpayoḥ
+2.3ab: vidyate pariṇāmatvapariṇāmitvasaṃbhavaḥ 
+2.3cd: asti bhedastayoryadvatsvarṇaṭaṅkakirīṭayoḥ
+2.4ab: dvāviṃśatiriti proktāḥ śrutayo bharatādibhiḥ 
+2.4cd: tāśca vīṇāprasiddeṣu suspaṣṭaṃ vibhajāmahe
+2.5ab: svareṣu śuddhavikṛtabhedābhyāṃ dvādaśātmasu 
+2.5cd: tathā hi śuddhariṣabhe śrutayastisra īritāḥ
+2.6ab: tatopi śuddhagāṃdhāre śrutī dve samudāhṛte 
+2.6cd: catasraḥ śrutayaḥ śuddhamadhyame samudāhṛtāḥ
+2.7ab: syātsādhāraṇagāṃdhārastasyādyāṃ śrutimāśritaḥ 
+2.7cd: tasyaiva samupādāya dvitīyakatṛtīyake
+2.8ab: śrutau dviśrutikaḥ prokto gāṃdhārontaranāmakaḥ 
+2.8cd: datvā sādhāraṇākhyāya gāṃdhārāyādimāṃ śrutim  
+2.9ab: dvitīyāṃ ca tṛtīyāṃ cāntaragāṃdharasaṃjñine 
+2.9cd: tatraikaśrutiko jāto madhyamoyaṃ catuḥśrutiḥ 
+2.10ab: catasraḥ śrutayaḥ proktāḥ pañcame gītavedibhiḥ 
+2.10cd: ādāyādyāṃ dvitīyāṃ ca tṛtīyāmapi tacchrutim 
+
+2.11ab: varālīmadhyamaḥ proktaḥ śrutitrayasamanvitaḥ 
+2.11cd: varalīmadhyamāya triśrutirdatvā tu pañcamaḥ
+2.12ab: śrutyaikayā yuto jāto bhavannapi catuḥśrutiḥ 
+2.12cd: tisraḥ saṃgītikaiḥ proktāḥ śrutayaḥ śuddhadhaivate
+2.13ab: svare śuddhaniṣādākhye dve śrutī samudāhṛte 
+2.13cd: catasraḥ śrutayaḥ ṣaḍje tasyādāyādimāṃ śrutim
+2.14ab: kaiśikyākhyaniṣādoyamekaśrutirudāhṛtaḥ 
+2.14cd: dvitīyakatṛtīyābhyaṃ tacchrutibhyāṃ samanvitaḥ
+2.15ab: kākalyākhyaniṣādoyaṃ dviśrutiḥ kathyate budhaiḥ 
+2.15cd: tatkaiśikaniṣādāya śrutimekāṃ śrutidvayīm
+2.16ab: kākalyai ca pradāyāste ṣaḍja ekaśrutiḥ svayam 
+2.16cd: dvāviṃśatirvibhajyaivaṃ śrutayo darśitā mayā
+2.17ab: tā etāḥ śrutivīṇāyāṃ prakāśante pṛthaktayā 
+2.17cd: śrutivīṇāprakārastu varṇyatāmiti cettathā
+2.18ab: madhyamelākhyavīṇāyāṃ tatsvarūpaṃ nirūpyate 
+2.18cd: vihāya śudhamelākhyāṃ vīṇāṃ kimiti kathyate
+2.19ab: madhyamelākhyavīṇāyāṃ śrutivīṇeti tacchṛṇu 
+2.19cd: śuddhamelākhyavīṇāyāṃ śrutivīṇānirūpaṇam
+2.20ab: mandrasthānetha vā madhye tārasthānetha vā bhavet 
+2.20cd: na tāvanmandrake sthāne śrutivīṇānirūpaṇam
+
+2.21ab: yujyate tatra sakalasvarāṇāmapyasaṃbhavāt 
+2.21cd: na hyekatantryupārūḍhā dṛśyante dvādaśa svarāḥ
+2.22ab: śuddhamelākhyavīṇāyāṃ mandrasthāneta eva hi 
+2.22cd: madhyasthānepi yuktaṃ na śrutivīṇānirūpaṇam
+2.23ab: tārasthāne tvekatantryārūḍhāḥ syurdvādaśa svarāḥ 
+2.23cd: tathāpi parvaṇāṃ tatra kṣetrasaṃkocataḥ punaḥ 
+2.24ab: nāvakāśosti tanmadhye śrutiyojakaparvaṇām 2.24cd:
+2.24cd: tadevaṃ śuddhamelāyāṃ śrutivīṇātidurghaṭā 
+2.25ab: tathaiva raghunathendravīṇāyāmapi durghaṭā 
+2.25cd: paraṃ tu madhyamelākhyavīṇāyāṃ sugamā bhavet
+2.26ab: śrutivīṇā tatosmābhistasyāmeva pradarśyate 
+2.26cd: madhyamelākhyavīṇāyāṃ madhyasthānasthaparvasu
+2.27ab: dvādaśasvapi caiteṣu śrutivyañjakaparvaṇām 
+2.27cd: viniveśakramaṃ brūmaḥ śrutibhedaikabodhakam
+2.28ab: merūpakaṇṭhagaṃ śuddharṣabhakṣetrāntaraṃ tridhā 
+2.28cd: vibhajyarṣabhaparvādau dṛśyamānaṃ vināntare
+2.29ab: parvadvayaniveśe syustisropi śrutayaḥ sphuṭāḥ 
+2.29cd: śuddharṣabhe tathā śuddhagāṃdhārakṣetrakaṃ dvidhā 
+2.30ab: vibhajyātha yathāvasthaṃ parvaṃ gāṃdhārabhāsakam 
+2.30cd: vyapekṣya madhye parvaikaṃ yadā pariniveśyata
+
+2.31ab: gāṃdhārasya tadānīṃ syācchrutidvayamatisphuṭam 
+2.31cd: madhyamasya svarasyoktāścatasraḥ śrutayaḥ sphuṭāḥ
+2.32ab: tatra sādāraṇe spaṣṭā gāṃdhāre śrutirekikā 
+2.32cd: antarākhyānagāṃdhārakṣetraṃ dvedhā vibhajya tu
+2.33ab: ekasya parvaṇo madhye tayoryadi niveśanam 
+2.33cd: jāyatentaragāṃdhāre śrutidvayamatisphuṭam
+2.34ab: madhyame śrutireketi spaṣṭaṃ śruticatuṣṭayam 
+2.34cd: catuḥśrutiḥ pañcamosya śrutitrayamupāśritaḥ
+2.35ab: varālīmadhyamaḥ pūrvamākhyātaṃ khalu tadyathā 
+2.35cd: varālīmadhyamaṃ tredhā vibhajyātha yathāsthitam
+2.36ab: varālīmadhyamaṃ parva vyapekṣya tu tadantare 
+2.36cd: parvadvayaniveśe syācchrutidvayamatisphuṭam
+2.37ab: śrutirekā sphuṭā svasminmilitvā tena pañcame 
+2.37cd: catasraḥ śrutayaḥ spaṣṭā dhaivatastriśrutiryathā
+2.38ab: vibhājya trividhaṃ śuddhadhaivatakṣetramapyatha 
+2.38cd: dṛggocarībhavacchuddhadhaivatadyoti parva tat
+2.39ab: dvitvā parvadvayanyāse śrutirtrayamatisphuṭam 
+2.39cd: kṣetraṃ śuddhaniṣādasya vibhajya dvividhaṃ tathā
+2.40ab: dṛṣṭaṃ śuddhaniṣādasya parva hitvā tadantare 
+2.40cd: yadyevaṃ parva tarhi syācchrutidvayamatisphuṭam
+
+2.41ab: catasraḥ śrutayaḥ ṣaḍje prāguktāḥ khalu tadyathā 
+2.41cd: kaiśikyākhyaniṣāde hi tasyaikā dṛśyate śrutiḥ
+2.42ab: kākalyākhyaniṣādaṃ tu dvedhākṛtya tadantare 
+2.42cd: jāyate parvavinyāse spaṣṭaṃ tasya śrutidvayam
+2.43ab: svasyaikā śrutirāhatya ṣaḍje śruticatuṣṭayam 
+2.43cd: ityevaṃ madhyamelāyāṃ śrutivīṇāprakārataḥ
+2.44ab: dvāviṃśatiśrutīnāṃ ca vibhāgakrama īritaḥ 
+2.44cd: nanvādyaṃ ṣaḍjamutsṛjya riṣabhāditayā tvayā
+2.45ab: kimartaṃ śrutivīṇārthaṃ parvanyāsaḥ pradarśitaḥ 
+2.45cd: ucyate nāsti ṣaḍjasya parva yasmādayaṃ punaḥ
+2.46ab: jātaḥ kevalasāraṇyā parvasparśanamantarā 
+2.46cd: na śakyāḥ śrutayo boddhuṃ svare parvavinākṛte
+2.47ab: jñeyāstāḥ khalu parvāntaḥ śrutiparvaniveśanāt 
+2.47cd: tasmādādyamapi tyaktvā ṣaḍjaṃ parvavivarjitam
+2.48ab: riṣabhāditayā proktaṃ śrutiparvaniveśanam 
+2.48cd: yadi ṣaḍjādimatvena śrutivīṇāpradarśanam
+2.49ab: apekṣitaṃ syātkasyāpi tadupāyaḥ prakāśyate 
+2.49cd: madhyamelākhyavīṇāyāṃ śrutivīṇāprakāśanam
+2.50ab: kartuṃ ṣaḍjādimatvena brahmaṇāpi na śakyate 
+2.50cd: na hyekatantryupārūḍhāḥ svarā dvādaśa mandrake
+
+2.51ab: sthāne syurmadhyamelāyāṃ tārasthāne tu yadyapi 
+2.51cd: santyekatantryupārūḍhāḥ svarāḥ sarvepi kiṃ punaḥ
+2.52ab: tatratyaparvaṇāṃ tāvatkṣetrasaṃkocataḥ punaḥ 
+2.52cd: nāvakāśosti tanmadhye śrutijñāpakaparvaṇām
+2.53ab: riṣabhāditayā tasmāddīrgheṣu dvādaśasvapi 
+2.53cd: parvasu śrutivīṇeyaṃ veṅkaṭādhvariṇeritā
+2.54ab: tataḥ ṣaḍjādimatvena śrutivīṇāprakāśanam 
+2.54cd: śuddhamelākhyavīṇāyāṃ tārasthāne kathaṃcana
+2.55ab: tāraṣaḍjādimatvena tadādyaśrutiśālinam 
+2.55cd: ārabhya kaiśikīsaṃjñaniṣādaṃ dvādaśasvapi
+2.56ab: svareṣu pūrvamityeva śrutiparvāṇi vinyaset 
+2.56cd: atrāpi kṣetrasaṃkocānmahyametanna rocate
+2.57ab: bhāsate śrutirityādi svarālītripuṭādiṣu 
+2.57cd: ahameva śrutirvedetyāha gopālanāyakaḥ 
+2.58ab: adyaprabhṛti tāḥ sarve śrutīrjānantu paṇditāḥ 
+
+iti śrīmadadvaitavidyācāryasāgnicityasarvatomukhātirātrasāgnicityāptavājapeyayājigovindadīkṣitanāgamāmbikāvaradvitīyanandanasya 
+sāgnicityasarvakratuyājiyajñanārāyaṇadīkṣitāvyavahitānujasyācyutavijayarāghavabhūpālapreritasya 
+veṅkaṭeśvaradīkṣitasya kṛtau caturdaṇdīprakāśikāyāṃ dvitīyaṃ śrutiprakaraṇaṃ saṃpūrṇam 
+
+ tṛtīyaṃ svaraprakaraṇam
+
+
+3.1.ab:dvitīyasminprakaraṇe śrutayaḥ samudāritāḥ 
+3.1cd: athedānīṃ nirūpyante svarāḥ śrutisamudbhavāḥ
+3.2ab: tatra śuddhasvarāḥ sapta mukhārīmātrabhāsakāḥ 
+3.2cd: catuścatuścatuścaiva ṣaḍjamadhyamapañcamāḥ
+3.3ab: dve dve niṣādagāṃdhārau tristrī riṣabhadhaivatau 
+3.3cd: ityevaṃ bharataślokasaṃkhyātaśrutiśālinaḥ
+3.4ab: vikṛtāstu svarāḥ pañcetyasmābhiravadhāryate 
+3.4cd: ratnākare tu niḥśaṅko vikṛtāndvādaśa svarān
+3.5ab: abravītkecana punaḥ saptāhurvikṛtasvarān 
+3.5cd: sarvametatsamālocya lakṣyamārgānusārataḥ
+3.6ab: svarāḥ pañcaiva vikṛtā iti rāddhāntitaṃ mayā 
+3.6cd: tāṃśca pañca svarānsamyagvivicya vyāharāmahe
+3.7ab: sādhāraṇaśca gāṃdhāro gāṃdhāraścāntarābhidhaḥ 
+3.7cd: dvau tau ca madhyamakṣetrasaṃbhūtau vikṛtasvarau
+3.8ab: varālīmadhyamaścaikaḥ pañcamakṣetrasaṃbhavaḥ 
+3.8cd: ṣaḍjakṣetrasamudbhūtau kaiśikīkākalīsvarau
+3.9ab: evamete svarāḥ pañca vikṛtā iti nirṇayaḥ 
+3.9cd: āhatya śuddhavikṛtāḥ svarā dvādaśa kīrtitāḥ
+3.10ab: svareṣu dvādaśasveṣu keṣāmapyekarūpatā 
+3.10cd: dvairūpyamapi keṣāṃcitkeṣāṃcittu trirūpatā
+
+3.11ab: tathā hi śuddhariṣabhaśuddhadhaivatayoḥ punaḥ 
+3.11cd: tritriśrutyekabhāvena sarvadāpyekarūpatā
+3.12ab: yadā tu śuddhagāṃdhāro gāṃdhāratvaṃ prapadyate 
+3.12cd: tadā dviśrutiko jñeyo mukhārīrāgake yathā
+3.13ab: yadā sa eva jāyeta riṣabhastu tadā punaḥ 
+3.13cd: pañcaśrutiriti jñeyaḥ śrīrāgotra nidarśanam
+3.14ab: evaṃ śuddhaniṣādasya niṣādatvaṃ yadā bhavet 
+3.14cd: tadā dviśrutikatvaṃ syānmukhāryatra nidarśanam
+3.15ab: sa eva yadi jāyeta dhaivatastu tadā punaḥ 
+3.15cd: pañcaśrutiriti jñeyaḥ śaṃkarābharaṇe yathā
+3.16ab: tadevaṃ śuddhagāṃdhāraniṣādau dvau nirūpiṇau 
+3.16cd: sādhāraṇākhyagāṃdhāraḥ śuddharṣabhayuto yadi
+3.17ab: tadā triśrutiko jñeyo bhūpālotra nidarśanam 
+3.17cd: tatraiva pañcaśrutinā riṣabheṇānvayo yadi
+3.18ab: tadaikaśrutitā jñeyā śrīrāgotra nidarśanam 
+3.18cd: yadā riṣabhasaṃjñoyaṃ tadā ṣaṭśrutiko bhavet
+3.19ab: atrodāharaṇaṃ nāṭa evamasya trirūpatā 
+3.19cd: kaiśikyākhyaniṣādasya śuddhadhaivatasaṃgame
+3.20ab: triśrutitvamiti jñeyaṃ bhairavyatra nidarśanam 
+3.20cd: tasyaiva pañcaśrutikadhaivatenānvayo yadi
+
+3.21ab: tadaikaśrutikatvaṃ syācchrīrāgotra nidarśanam 
+3.21cd: sa eva dhaivataścetsyātṣaṭśrutirnāṭake yathā
+3.22ab: iti sādhāraṇākhyāno gāṃdhāraḥ kaiśikābhidhaḥ 
+3.22cd: niṣādaścetyubhāvetau tritrirūpāviti sthitiḥ
+3.23ab: gāṃdhārasyāntarākhyasya yadā śuddharṣabhānvayaḥ 
+3.23cd: tadā pañcaśrutitvaṃ syādrāge gaulādike yathā
+3.24ab: tasyaiva pañcaśrutikariṣabheṇānvayo yadā 
+3.24cd: tadā triśrutikatvaṃ syācchaṃkarābharaṇe yathā
+3.25ab: sa eva dviśrutirjñeyaḥ ṣaṭśrutyṛṣabhasaṃgame 
+3.25cd: yathā nāṭābhidhe rāga iti tasya trirūpatā
+3.26ab: kākalyākhyaniṣādasya śuddhadhaivatasaṃgame 
+3.26cd: pañcaśrutikatā jñeyā yathā gaulādike punaḥ 
+3.27ab: sa eva pañcaśrutikadhaivatenānvito yadi 
+3.27cd: tadā triśrutiko jñeyaḥ śaṃkarabharaṇe yathā 
+3.28ab: tasyaiva dhaivatena syādyadi ṣaṭśrutinānvayaḥ 
+3.28cd: tadā dviśrutikatvaṃ syādrāge nāṭābhidhe yathā
+3.29ab: ityantarākhyagāṃdhārakākalyākhyaniṣādayoḥ 
+3.29cd: pratyekaṃ tritrirūpatvamasmābhirūpavarṇitam
+3.30ab: yadā tu madhyamaḥ śuddhaḥ śuddhagāṃdhārasaṃgataḥ 
+3.30cd: tadā catuḥśrutirjñeyo mukhāryatra nidarśanam
+
+3.31ab: sādhāraṇākhyagāṃdhārasaṃyuktaścetsa eva hi
+3.31cd: tadā triśrutiko jñeyo rāge śrīrāgake yathā
+3.32ab: sa evāntaragāṃdhārayoge tvekaśrutirbhavet 
+3.32cd: gaulādiṣu yathā rāgeṣvityetasya trirūpatā
+3.33ab: evaṃ ṣaḍjasya śuddhena niṣādena sahānvaye 
+3.33cd: catuḥśrutikatā jñeyā mukhāryatra nidarśanam
+3.34ab: sa eva kaiśikīnāmaniṣādenānvito yadi 
+3.34cd: tadā triśrutirityatra śrīrāgaḥ syānnidarśanam
+3.35ab: tasyaiva kākalīnāmnā niṣādenānvayo yadi 
+3.35cd: tadaikaśrutikatvaṃ syādrāge gaulādike yathā
+3.36ab: ityuktaṃ tritrirūpatvaṃ śuddhamadhyamaṣaḍjayoḥ 
+3.36cd: varālīmadhyamasyātha śuddhagāṃdhārasaṃgame
+3.37ab: saptaśrutitvamityarthe varālyeva nidarśanam 
+3.37cd: tasya sādhāraṇākhyena gāṃdhāreṇa yadānvayaḥ
+3.38ab: tadā ṣaṭśrutitā pantuvarālyādiṣu dṛśyate 
+3.38cd: sa evāntaragāṃdhārasaṃbandhī cecchatuḥśrutiḥ
+3.39ab: atrodāharaṇaṃ rāgaḥ śuddharāmakriyābhidhaḥ 
+3.39cd: varālīmadhyamasyaivaṃ trairūpyamupapāditam
+3.40ab: yadā tu pañcamaḥ śuddhamadhyamena samanvitaḥ 
+3.40cd: tadā catuḥśrutirjñeyo mukhāryatra nidarśanam
+
+3.41ab: sa evaikaśrutiryukto varālīmadhyamena cet 
+3.41cd: iti dvairūpyamasmābhiḥ pañcamasya prakalpitam
+3.42ab: tadevaṃ śuddhariṣabhaśuddhadhaivatayoḥ pṛthak 
+3.42cd: ekaikarūpatā śuddhagāṃdhārakaniṣādayoḥ
+3.43ab: tathaiva pañcamasyāpi dvairūpyaṃ pṛthagīritam 
+3.43cd: sādhāraṇākhyagāṃdhārakaiśikyākhyaniṣādayoḥ 
+3.44ab: antarābhidhagāṃdhārakākalyākhyaniṣādayoḥ 
+3.44cd: madhyamasyāpi ṣaḍjasya varālīmadhyamasya ca
+3.45ab: pratyekaṃ tritrirūpatvamasmābhirūpavarṇitam 
+3.45cd: nanvetadekarūpādivarṇane kiṃ phalaṃ tava
+3.46ab: catuścaturitiślokaparyālocanayā yataḥ 
+3.46cd: mukhārimelamātrasthāḥ śuddhāḥ sarve svarāḥ sthitāḥ
+3.47ab: na tu tadvyatiriktānāṃ melānāmekasaptatau 
+3.47cd: pratimelaṃ ca niyatāḥ saptasvaragatā api
+3.48ab: asmābhiḥ kalpayiṣyante melāścāgre dvisaptatiḥ 
+3.48cd: tataḥ sakalamelasthasarvasvarajuṣāmapi
+3.49ab: dvāviṃśatiśrutīnāṃ ca vibhāgāya mayā kṛtam 
+3.49cd: aikarūpyadvirūpatvatrirūpatvanirūpaṇam
+3.50ab: nanvāstāmaikarūpyādivarṇanasya prayojanam 
+3.50cd: ṣāḍavauḍuvarāgeṣu varjyante ye svarāḥ punaḥ
+
+3.51ab: tadāśrayaśrutīnāṃ kiṃ tyāgaḥ kiṃ vottarānvayaḥ 
+3.51cd: atredamuttaraṃ brūmo varjanīyasvarāśrayāḥ
+3.52ab: śrutayo naiva varjyante na ca yāntyuttarasvarān 
+3.52cd: kiṃ tu varjyasvareṣvevānvadhastiṣṭhanti tāḥ punaḥ 
+3.53ab: saṃbhavantyupayoginyaḥ śrutīnāṃ gaṇanāmake 
+3.53cd: pratimelaṃ ca yatsaptaniyatasvarasiddhaye 
+3.54ab: dvāviṃśatiśrutīnāmapyavaśyaṃ bhāva iṣyate 
+3.54cd: yadyevaṃ ṣāḍavatvādivyavasthā naiva saṃbhavet
+3.55ab: tadā sarvepi rāgāḥ syuḥ saṃpūrṇā eva kevalam 
+3.55cd: atra saṃgītaśāstrārtharahasyamidamucyate
+3.56ab: vīṇāvādanagānādisamaye varjitānsvarān 
+3.56cd: samutplutya samutplutya vādayantyeva vādakāḥ
+3.57ab: gāyanti gāyakāścātho iti vādivyavasthitiḥ 
+3.57cd: sarvadā ṣāḍave tyājyasvarāṇāṃ parivarjane
+3.58ab: taduttarasvarāṇāṃ tu jananaṃ naiva saṃbhavet 
+3.58cd: pūrvapūrvasvarābhāve kathaṃ kāryaḥ samudbhavaḥ
+3.59ab: svaraṇāṃ ghaṭate tāvaduttarottarabhāvinām 
+3.59cd: evaṃ nirūpitāḥ śuddhā vikṛtāśca svarāḥ sphud tam 
+3.60ab: atha svarasamūhātmagrāmalakṣaṇamucyate 
+3.60cd: grāmavad grāma ityevamupacāro vivakṣitaḥ
+
+
+
+3.61ab: yathā janasamūhasya loke grāma iti prathā 
+3.61cd: tathā svarasamūhotra grāma ityupacaryate
+3.62ab: kevalasvarabṛndasya grāmatve kathite sati 
+3.62cd: gāmānayetyādivākyeṣvativyāptirbhavedataḥ
+3.63ab: mūrcchanāśuddhakūṭākhyatānādyāśraya ityapi 
+3.63cd: deyaṃ svarasamūhasya viśeṣaṇamiti sthitiḥ
+3.64ab: sa ca grāmastridhā tatra syātṣaḍjagrāma ādimaḥ 
+3.64cd: madhyamagrāmanāmātha gāṃdhāragrāmasaṃjñakaḥ  
+3.65ab: trayaṇāmapi ceteṣāṃ kramāllakṣaṇamucyate 
+3.65cd: ṣaḍjagrāmaḥ pañcame svacaturthaśrutisaṃsthite
+3.66ab: svopāntyaśrutisaṃsthesminmadhyamagrāma iṣyate 
+3.66cd: rimayoḥ śrutimekaikāṃ gāṃdhāraścetsamāśritaḥ
+3.67ab: paśrutiṃ dho niṣādastu dhaśrutiṃ saśrutiṃ śritaḥ 
+3.67cd: gāṃdhāragrāmamācaṣṭe tadā taṃ nārado muniḥ
+3.68ab: grāmeṣveteṣu gāṃdhāragrāmo nāsti mahītale 
+3.68cd: svargaloke paramiti sarveṣāmeva saṃmatam
+3.69ab: asmābhirmadhyamagrāmopyasatprāya itīryate 
+3.69cd: tathā hi madhyamagrāme viśrutiḥ pañcamaḥ khalu
+3.70ab: varālīmadhyamo jātaḥ sa punarlakṣyamārgataḥ 
+3.70cd: madhyamādiprabhṛtiṣu madhyamagrāmajanmasu
+
+3.71ab: rāgeṣu dṛśyate naiva varālīmadhyamastataḥ 
+3.71cd: ayukto madhyamagrāmo lakṣyamārgavirodhataḥ
+3.72ab: eka eva tataḥ ṣaḍjagrāma ityavadhāryate 
+3.72cd: grāmāvayavabhūtotha mūrcchanādirnirūpyate 
+3.73ab: kramātsvarāṇāṃ saptānāmārohaścāvarohaṇam 
+3.73cd: mūrcchanetyucyate tāstu pratimelaṃ ca saptadhā
+3.74ab: tathā hi ṣaḍjamārabhya niṣādāntādhirohaṇāt 
+3.74cd: niṣādādiṣu ṣaḍjāntāvarohānmūrcchanādimā
+3.75ab: evaṃ riṣabhamārabhya ṣaḍjāntamadhirohaṇāt 
+3.75cd: ṣaḍjādi riṣabhantaṃ cāvaroheṇa dvitīyakā
+3.76ab: evameva samunneyaṃ gāṃdhārādisvareṣvapi 
+3.76cd: ataḥ pratisvaraṃ tāvadekaikā mūrcchanā bhavet
+3.77ab: āhatya vakṣyamāṇeṣu dvisaptatividheṣvapi 
+3.77cd: saptasvarasamūhātmameleṣu pratimelakam 
+3.78ab: mūrcchanā sapta sapteti veṅkaṭādhvarikalpitam 
+3.78cd: nirūpyatedhunā tānaḥ svaravistāralakṣaṇaḥ
+3.79ab: tāno dvidhā śuddhatānaḥ kūṭatāna iti kramāt 
+3.79cd: ekaikarāgamātrābhivyaktisaṃpādakastu yaḥ
+3.80ab: sa śuddhatāna ityuktaḥ kūṭatānaḥ sa ucyate 
+3.80cd: yastu rāgadvayasphūrtisādhāraṇatayā sthitaḥ
+
+
+3.81ab: atha svarapariṣkārānalaṃkārānpracakṣmahe 
+3.81cd: te ca triṣaṣṭiruditāḥ śārṅgadevena sūriṇā
+3.82ab: na te punarlakṣyamārge lakṣyante kutracittataḥ 
+3.82cd: aṣṭau prasiddhālaṃkārā lakṣyante tatra jhompaṭaḥ
+3.83ab: dhruvo maṭhyo rūpakaśca jhampā tripuṭa eva ca 
+3.83cd: aṭhatālaikatālau cetyaṣṭālaṃkṛtayaḥ smṛtāḥ 
+3.84ab: athaiteṣāṃ krameṇaiva lakṣaṇaṃ pratipādyate 
+3.84cd: jhompaṭākhyena tālena nibaddho jhompaṭaḥ smṛtaḥ
+3.85ab: tatra jhompaṭatāle dvidvyakṣarau dvau drutau tataḥ 
+3.85cd: laghurekaḥ parijñeyaścaturakṣarasaṃmitaḥ
+3.86ab: āhatyāṣṭākṣaramito jhompaṭaḥ syād dvimātrakaḥ 
+sari, gama, padhanisa, sani, dhapa, magarisa 
+3.86cd: atra dhruvākhyālaṃkāro dvitīyaḥ pratipādyate
+3.87ab: dhruvatālena saṃbaddho dhruvālaṃkāra ucyate 
+3.87cd: dhruvatālaḥ punardvedhā nāṭyadaṇddīdhruvastathā
+3.88ab: vīṇavādyadhruvaśceti nāṭyadaṇḍīdhruve laghuḥ 
+3.88cd: caturakṣaravānādau guruḥ paścāddaśākṣaraḥ
+3.89ab: vīṇāvādyadhruve tyādau laghū dvau caturakṣarau 
+3.89cd: tataḥ ṣaḍakṣaroccārasāṃmito laghuśekharaḥ
+3.90ab: caturdaśākṣaramitāvāhatyaitāvubhau dhruvau 
+3.90cd: dhruvayoranayostāvannāṭyadaṇḍīdhruvaḥ param
+
+3.91ab: prāmāṇikaḥ śāstradṛṣṭaḥ sa eva bhuvi vaiṇikaiḥ 
+3.91cd: vīṇāyāṃ vādyate raktilābhāddhātutrayānvitaḥ
+sarigamagari, sarigari, sarigama, 
+rigamapamaga, rigamaga, rigamapa
+3.92ab: alaṃkārastṛtīyotha lakṣyate maṭhyanāmakaḥ 
+3.92cd: maṭhyatālanibaddho yaḥ sa maṭhya iti kīrtitaḥ
+3.93ab: maṭhyatāle drutastvādāvakṣaradvayasaṃmitaḥ 
+3.93cd: tato laghū dvau vijñeyau caturakṣarasaṃmitau
+3.94ab: āhatyta maṭhyatāloyaṃ daśākṣaramiti smṛtaḥ 
+3.94cd: rūpakākhyaścaturthaścālaṃkāraḥ pratipādyate
+3.95ab: baddho rūpakatālena rūpakaḥ parikīrtitaḥ 
+3.95cd: ādau druto laghuḥ paścāttāle rūpakanāmake
+3.96ab: tena rūpakanāmāyaṃ vijñātavyaḥ ṣaḍakṣaraḥ 
+sari, sarigama, riga, rigamapa
+3.96cd: alaṃkārotha jhampākhyaḥ pañcamaḥ pratipādyate
+3.97ab: jhampatālena saṃyukto jhampālaṃkāra ucyate 
+3.97cd: jhampatalo dvidhā nāṭyavīṇayoḥ paridṛśyate
+3.98ab: tatra syānnāṭyajhampāyāmādau tāvadaṇudrutaḥ 
+3.98cd: ekākṣaramitaḥ paścād druto dvyakṣarasaṃmitaḥ
+3.99ab: tataḥ saptākṣarīkālasaṃmito laghuśekharaḥ 
+3.99cd: vāggeyakārajhampāyāṃ virāmāntadruto mataḥ
+3.100ab: tryakṣaraḥ sa paraṃ saptākṣaroccāraṇasaṃmitaḥ 
+
+3.100cd: laghuśekharanāmaiko jhampatālāvubhāvimau
+3.101ab: daśalaghvakṣaroccārasaṃmitāviti nirṇayaḥ 
+3.101cd :anayorubhayornāṭyajhampā prāmāṇikī smṛtā
+3.102ab: tāmeva raktilābhena kṛtvā dhātutrayānvitām 
+3.102cd: vīṇāyāṃ vādayantīha vaiṇikā iti nirṇayaḥ
+sarigasarisari, ga, mā; rigamarigariga, ma, pāṃ 
+3.103ab: ṣaṣṭhotha tripuṭo nāmālaṃkāraḥ pratipādyate 
+3.103cd: tripuṭākhyena tālena nibaddhastripuṭaḥ smṛtaḥ
+3.104ab: tripuṭe dvau drutāvādau pṛthagdvyakṣarasaṃmitau 
+3.104cd: virāmāntadrutaḥ paścādakṣaratrayasaṃmitaḥ
+3.105ab: āhatya tripuṭastālo jñeyaḥ saptākṣarīmitaḥ 
+ sari, gasa, rigama; riga, mari, gamapaṃ 
+3.105cd: nirūpyated thatālākhyolaṃkāraḥ saptamodhunā
+3.106ab: aṭhatālena saṃyuktamaṭhatālaṃ pracakṣate 
+3.106cd: aṭhatāle drutau dvidvyakṣarakālāvubhau smṛtau
+3.107ab:pañcapañcākṣaramitau laghū dvau tadanantaram 
+3.107cd: caturdaśākṣarīkālo jātastenāṭhatālakaḥ
+sari, iga, asāriga, amāmā; riga, ama, arīgama, pāpā
+3.108ab: aṣṭamaḥ sphuṭamevāthālaṃkāraḥ pratipādyate 
+3.108cd: ekatālena yuktatvādekatālaḥ prakīrtitaḥ
+3.109ab: ekadrutenaikatāla ekatālasya lakṣaṇam 
+3.109cd: lakṣye tvidānīmetādṛgekatālo na raktidaḥ
+3.110ab: ityekatālasthānesminnāditālo niveśitaḥ 
+3.110cd: āditāle tvekalaghuścaturakṣarasaṃmitaḥ
+
+3.111ab: evamaṣṭāvalaṃkārā lakṣitā lakṣasaṃmatāḥ 
+3.111cd: etāndhruvādikānsapta tālānsūlādisaṃjñakān
+3.112ab: tālaṃ ca jhompaṭākhyānaṃ ragaṇaṃ ca kvacitkvacit 
+3.112cd: gītaprakaraṇokteṣu gīteṣu viniveśayet
+3.113ab: etannavātiriktāṃstu na gīteṣu niveśayet 
+3.113cd: prābandheṣu ca saṃyojyāstālaprakaraṇoditāḥ
+3.114ab: tālāḥ sūlādikāścaite sarva eveti nirṇayaḥ 
+3.114cd: yadyapyaṣṭāvalaṃkārā lakṣyavartmani saṃprati
+3.115ab: uktalakṣaṇamārgeṇa dṛśyante naiva kutracit 
+3.115cd: tathāpyanāgatātītasamākhyānagrahatrayam
+3.116ab: anusṛtyeva vīṇāyāṃ raktilobhena vaiṇikaiḥ 
+3.116cd: laghudrutāderadhunā paurvāparyaṃ samāśritam
+3.117ab: alaṃkārānnirūpyaivaṃ gamakānvyāharāmahe 
+3.117cd: svarasya kampo gamakaḥ śrotṛcittasukhāvahaḥ
+3.118ab: svīyasthānaśrutigatacchāyāmanyāśrayāmapi 
+3.118cd: chāyāṃ gamayatītyeṣa gamakaḥ parikīrtitaḥ
+3.119ab: te ca pañcadaśa proktā gamakā bharatātibhiḥ 
+3.119cd: tirupaḥ sphuritaścaiva kampito līna ityapi
+3.120ab: āndolito valiścātha tribhinnaḥ kurulāhatau 
+3.120cd: ullasitaḥ plāvitaśca humphito mudritastathā
+
+
+
+3.121ab: nāmito miśritaśceti bhedāḥ pañcadaśa smṛtāḥ 
+3.121cd: atyalpaḍamarudhvānakampānukṛtisundaraḥ 
+3.122ab: drutaturyāṃśavegena yuktaḥ kampaḥ svarasya ca 
+3.122cd: sa eva tirupo nāma gamakaḥ parikīrtitaḥ
+3.123ab: yastu drutatṛtīyāṃśavegena sahito bhavet 
+3.123cd: svarakampaḥ sa evoktaḥ sphurito nāma nāmataḥ
+3.124ab: dṛśyate sphuritasthāne ḍolo loke vikalpitaḥ 
+3.124cd: lakṣaṇaṃ tasya ḍolasya pūrvācāryairudīritam
+3.125ab: ḍolo muktāphalasyeva calanaṃ luṭhanātmakam 
+3.125cd: drutārdhamānavegena svarakampastu kampitaḥ
+3.126ab: pūrṇadrutapramāṇena vegena sahitastu yaḥ 
+3.126cd: svarakampaḥ sa evokto gamako līnasaṃjñakaḥ
+3.127ab: laghupramāṇavegena svarakampastu yo bhavet 
+3.127cd: tadāndolitanāmānāṃ gamakaṃ tadvido viduḥ
+3.128ab: nānāvakragatasvairabhinnavegaspṛśāṃ tu yaḥ 
+3.128cd: kampaḥ svarāṇāṃ sa punarvalirityabhidhīyate
+3.129ab: valireva ṛjurbhūtvā kurulo nāma kathyate 
+3.129cd: akleśenaiva mandrādisthānatritayasaṃspṛśām
+3.130ab: svarāṇāṃ kampanaṃ loke tribhinna iti kathyate 
+3.130cd: prāgagrimasvarādvegānnivṛttastvāhato mataḥ
+
+
+3.131ab: ya uttarottarāngacchetkrameṇaiva svarotkarān 
+3.131cd: tamullāsitanāmānāṃ gamakaṃ bruvate budhāḥ
+3.132ab: plutapramāṇavegena kampo yaḥ plāvitastu saḥ 
+3.132cd: manojñatarahuṃkāragarbhitasvarakampanam
+3.133ab: humphitaṃ nāma gamakaṃ gamakajñāḥ pracakṣate 
+3.133cd: yo jāyate svare kampastvadharadvayamudraṇāt 
+3.134ab: mudrito nāma gamakaḥ sa eva samudāhṛtaḥ 
+3.134cd: mandro yastvavaroheṇa svarakampaḥ sa nāmitaḥ
+3.135ab: eteṣāṃ miśraṇājjñeyo gamako miśraṇābhidhaḥ 
+3.135cd: tadevaṃ mūrcchanāgrāmagamakādiprabhedavān
+3.136ab: svaro nirūpitaḥ soyaṃ svaraḥ proktaścaturvidhaḥ 
+3.136cd: vādo saṃvādyapi tathā vivādī cānuvādyatha
+3.137ab: prayoge bahudāvṛttaḥ svaro vādīti kathyate 
+3.137cd: śrutayo dvādaśāṣṭau vā yayorantaragocarāḥ
+3.138ab: mithaḥ saṃvādinau tau cetyevaṃ saṃvādilakṣaṇam 
+3.138cd: evaṃ spaṣṭayituṃ vīṇāprastārastāvaducyate
+3.139ab: likhed dvāviṃśatiṃ tiryagrekhāstatra ca vāmataḥ 
+3.139cd: yadvā dakṣiṇato vāpi bhavanti dve ca viṃśatiḥ  
+3.140ab: rekhāgrāṇyatra vāme vā dakṣiṇe vā yathāmati 
+3.140cd: vidyamānāni rekhāgrāṇyādāya dve ca viṃśatim
+
+
+3.141ab: likhiteṣu svarāñśuddhavikṛtāndvādaśātmakān 
+3.141cd: dvādaśānāmapi svasyādyakṣaraistatra likhyate
+3.142ab: saṃketa iti niḥśaṅkaṃ veṅkaṭādhvariṇoditam 
+3.142cd: svareṣu likhiteṣvevaṃ yayostu svarayordvayoḥ
+3.143ab: svasyādhāraśrutiṃ tyaktvā madhye dvādaśa vātha vā 
+3.143cd: aṣṭau cāpyupalabhyante śrutayastu tayordvayoḥ
+3.144ab: mithaḥ saṃvāditā jñeyā sarvatrāvevamiṣyate 
+3.144cd: samau sapau ridhau caiva nigau saṃvādinau mithaḥ
+3.145ab: evaṃ śuddhasvareṣūktaḥ saṃvādisvaranirṇayaḥ 
+3.145cd: sādhāraṇākhyagāṃdhārakaiśikyākhyaniṣādayoḥ
+3.146ab: tathaivāntarakākalyoḥ saṃvādo vikṛteṣvapi 
+3.146cd: śuddharṣabheṇa saṃvādī varālīmadhyamastathā
+3.147ab: śuddhasya madhyamaḥ śuddhaniṣādaścetyubhau svarau 
+3.147cd: śrutyaṣṭakenāntaritāvapi saṃvādino na hi
+3.148ab: evaṃ saṃvādilakṣmoktaṃ vivādī lakṣyatedhunā 
+3.148cd: ekaśrutyantaritatā yayostu svarayordvayoḥ
+3.149ab: tayormitho vivāditvamevaṃ sarvatra kalpayet 
+3.149cd: rigau dhanī ca śuddheṣu svarau syātāṃ vivādinau
+3.150ab: sādhāraṇāntarau caiva kaiśikīkākalīsvarau 
+3.150cd: mitho vivādinau jñeyau vikṛteṣu svareṣvapi
+3.151ab: vivādivādisaṃvādibhinnāḥ syuranuvādinaḥ 
+3.151cd: caturvidhasvareṣveṣu vādī rājā prakīrtyate
+3.152ab: saṃvādī tvanusāritvādasyāmātyo vidhīyate 
+3.152cd: vivādī viparītatvāddhīrairuktau ripūpamaḥ
+3.153ab: svarūpamardanaṃ tena prayoge syādvivādinaḥ 
+3.153cd: svarūpamardanābhāve gītaraktirna labhyate
+3.154ab: śatrūpamardane hi syādrājñāṃ loke prakāśanam 
+3.154cd: nṛpāmātyānusāritvādanuvādī tu bhṛtyavat
+
+
+iti śrīmadadvaitavidyācāryasāgnicityasarvatomukhātirātrasāgnicityāptavājapeyayājigovindadīkṣita nāgamāmbikāvaradvitīyanandanasya 
+sāgnicityasarvakratuyājiyajñanārāyaṇadīkṣitāvyavahitānujasyācyutavijayarāghavabhūpālapreritasya veṅkaṭeśvaradīkṣitasya
+kṛtau caturdaṇdīprakāśikāyāṃ  tṛtīyaṃ svaraprakaraṇaṃ saṃpūrṇam 
+
+
+caturthaṃ melaprakaraṇam
+
+
+4.1ab: tṛtīyesminprakaraṇe svarāḥ samyaṅ nirūpitāḥ 
+4.1cd: atha prakaraṇe turye kurve melanirūpaṇam 
+4.2ab: ṣaḍjasvarasya purataścatvāraḥ kramaśaḥ svarāḥ 
+4.2cd: riṣabhākhyānakāḥ kecitgāṃdhārākhyānakāścate
+4.3ab: tatrādho naiva gāṃdhāraścaturtho riṣabho na hi 
+4.3cd: riṣabhāvapi gāṃdhārau dvitīyakatṛtīyakau
+4.4ab: dvitīyaṃ vā catirthaṃ vā vyapekṣya syāttṛtīyakaḥ 
+4.4cd: riṣabhākhyaḥ sa eva syādgāṃdharopekṣya cādimam
+4.5ab: tṛtīye riṣabhākhyānaścaturthāpekṣayā bhavet 
+4.5cd: sa hi vyapekṣya gāṃdhāraḥ prathamaṃ vā dvitīyakam
+4.6ab: evaṃ ca sati niṣpannaṃ dvitīyakatṛtīyayoḥ 
+4.6cd: gāṃdhāratvaṃ ca riṣabhabhūyamityeva nirṇayaḥ
+4.7ab: tasmadādyadvitīyau ca tṛtīyaścarṣabhā matā 
+4.7cd: teṣvādyo gaulariṣabhaḥ śrīrāgariṣabhaḥ paraḥ
+4.8ab: tṛtīyo nāṭariṣabha iti lakṣyavidāṃ matam 
+4.8cd: ādyaḥ śuddharṣabhaḥ pañcaśrutikarṣabhasaṃjñakaḥ
+4.9ab: dvitīyaśca tṛtīyaḥ ṣaṭśrutikarṣabha ucyate 
+4.9cd: lakṣaṇajñairmayoktāste trayo rarirusaṃjñakāḥ
+4.10ab: dvitīyaśca tṛtīyaśca caturthaśca trayaḥ svarāḥ 
+4.10cd: sāmānyataḥ syurgāṃdhārāsteṣvādyo lakṣyavedibhiḥ
+
+4.11ab: prokto mukhārigāṃdhāro dvitīyo bhairavīyutaḥ 
+4.11cd: gāṃdhārotha tṛtīyastu gaulagāṃdhāra ucyate
+4.12ab: lakṣaṇajñaistu teṣvādyaḥ śuddhagāṃdhāra ucyate 
+4.12cd: sādhāraṇākhyagāṃdhāro dvitīyaḥ parikīrtitaḥ
+4.13ab: tṛtīyontaragāṃdhāra ityahaṃ tu vadāmi tān 
+4.13cd: kramādgagigunāmnastrīnmelaprastārasiddhaye
+4.14ab: ebaṃ ca ṣaḍjātpurato nivasastu caturṣvapi 
+4.14cd: svareṣu prathamāditritayaṃ riṣabhanāmakam
+4.15ab: gāṃdhārākhyaṃ dvitīyāditrayamityeva nirṇayaḥ 
+4.15cd: caturṣveteṣu jātasya rarirvākhyānaśālinaḥ
+4.16ab: gāṃdhāratritayasyāpi pūrvāṅgākhyā mayā kṛtā 
+4.16cd: kathaṃ dvitīyo riṣabho gāṃdhāraḥ prathamo bhavet
+4.17ab: kathaṃ tṛtīyo riṣabho gāṃdhāraḥ syād dvitīyakaḥ 
+4.17cd: viruddhatvātturaṅgatvagotvayoriva sarvathā
+4.18ab: kathaṃ syādriṣabhatvena gāṃdhāratvasya saṃgatiḥ 
+4.18cd: kiṃ ca svareṣu caturṣu riṣabhau dvau parāvubhau
+4.19ab: gāṃdhārāviti yuktaṃ syāttatkathaṃ riṣabhāstrayaḥ 
+4.19cd: gāṃdhārāstraya ityuktamiti cedatra vacmyaham
+4.20ab: viruddhe narṣabhatvaṃ ca gāṃdhāratvamubhe ime 
+4.20cd: kiṃ tu sāpekṣakau dharmau syātāmekatra tena tau
+
+4.21ab: yathā catvara ekasya tanujāḥ sarva eva hi 
+4.21cd: jyeṣṭhā api kaniṣṭhāḥ syustatra cādyastu nānujaḥ 
+4.22ab: na caturthaḥ pūrvajaḥ syād dvirūpāvitaravubhau 
+4.22cd: tṛtīyaṃ vā caturthaṃ vā vyapekṣya syād dvitīyakaḥ 
+4.23ab: putre jyeṣṭhaḥ sa eva syātkaniṣṭhopekṣya cādimam 
+4.23cd: dvitīyo jyeṣṭhatāyuktaścaturthāpekṣayā bhavet
+4.24ab: sa evāvarajopekṣya prathamaṃ ca dvitīyakam 
+4.24cd: prathamādyāstrayastasmādyathā jyeṣṭhā bhavantyamī
+4.25ab: dvitīyādyāstrayaḥ putrāḥ kanīyāṃso yathābhavan 
+4.25cd: evaṃ trayotra riṣabhā jyeṣṭhakalpā bhavantyamī 
+4.26ab: kaniṣṭhakalpā gāṃdhārāstrayopyatra bhavantyamī 
+4.26cd: caturṣveṣu svareṣvetau dvitīyakatṛtīyakau
+4.27ab: riṣabhāvapi gāṃdhārau syātāṃ tasmātsamañjasam 
+4.27cd: tadūrdhve parvaṇi bhavanpañcame śuddhamadhyamaḥ
+4.28ab: masaṃjñako mayāproktastadūrdhve parvaṇi sthitaḥ 
+4.28cd: ṣaṣṭhe varālīrāgasya kurvāṇaḥ pratibhāsanam 
+4.29ab: dvitīyo madhyamaḥ prokto misaṃjñaḥ sa mayā kṛtaḥ 
+4.29cd: saptame parvaṇi vasanpañcamaḥ syātpasaṃjñakaḥ
+4.30ab: pañcamasya purastātsyuścatvāraḥ kramaśaḥ svarāḥ 
+4.30cd: dhaivatāśca niṣādāśca niṣādastatra nādimaḥ
+
+4.31ab: na caturtho dhaivataḥ syād dvirūpāvitaravubhau
+4.31cd: dhaivatau ca niṣādau ca kathyete śāstrakovidaiḥ
+4.32ab: tṛtīyaṃ vā caturthaṃ vā vyapekṣya syād dvitīyakaḥ 
+4.32cd: dhaivatākhyaḥ sa eva syānniṣādopekṣya cādimam
+4.33ab: tṛtīyo dhaivatākhyanaścaturthāpekṣayā bhavet 
+4.33cd: sa evādyaṃ dvitīyaṃ vā vyapekṣya syānniṣādakaḥ 
+4.34ab: evaṃ ca sati niṣpannaṃ dvitīyakatṛtīyayoḥ 
+4.34cd: dhaivatatvaṃ niṣādatvamubhayorubhayoḥ pṛthak
+4.35ab: tasmadādyadvitīyau ca tṛtīyaścāpi dhaivatāḥ 
+4.35cd: gauladhaivata ādyaḥ syātparaḥ śrīrāgadhaivataḥ
+4.36ab: tṛtīyastatra nāṭasya dhaivato lakṣyavinmate 
+4.36cd: śuddhadhaivata ādyonyaḥ pañcaśrutikadhaivataḥ
+4.37ab: tṛtīyo lakṣaṇajñaiḥ ṣaṭśrutiko dhaivataḥ smṛtaḥ 
+4.37cd: asmanmate trayaste syuḥ kramāddhadhidhusaṃjñakāḥ
+4.38ab: dvitīyaśca tṛtīyaśca caturthaśca svarāstrayaḥ 
+4.38cd: sāmānyato niṣādāḥ syusteṣvādyo lakṣyavedinām
+4.39ab: mate mukhārirāgasya niṣādotha dvitīyakaḥ 
+4.39cd: prokto niṣādo bhairavyā gaularāganiṣādakaḥ
+4.40ab: tṛtīyo lakṣaṇajñānāṃ mate teṣu prakīrtitaḥ 
+4.40cd: ādyaḥ śuddhaniṣādonyaḥ kaiśikyākhyaniṣādakaḥ
+
+4.41ab: syātkākalīniṣādonyastṛtīyaḥ parikīrtitaḥ 
+4.41cd: ete trayo mayā tūktāḥ kramānnaninusaṃjñakāḥ
+4.42ab: evaṃ ca pañcamāgretha nivasastu caturṣvapi 
+4.42cd: svareṣu prathamāditritayaṃ dhaivatanāmakam
+4.43ab: niṣādākhyaṃ dvitīyāditrayamityeva nirṇayaḥ 
+4.43cd: caturṣveteṣu jātasya dhadhidhvākhyānaśālinaḥ
+4.44ab: niṣādatritayasyāpi naninvakhyanaśālinaḥ 
+4.44cd: uttarāṅābhidhā proktā melaprastārasiddhaye
+4.45ab: śaṅkā caiva samādhānamubhayaṃ pūrvavadbhavet 
+4.45cd: melo nāma sa ko veti praśnasyottaramucyate
+4.46ab: niyamenaiva saṃgrāhyaḥ ṣaḍjastatpurataḥ kramāt 
+4.46cd: vidyamāneṣu caturṣu svareṣvanyatarāvubhau
+4.47ab: tatrarṣabhaḥ pūrvabhavo gāṃdhārastvanujo bhavet 
+4.47cd: dvayormadhyamayorekaḥ saṃgrāhyo madhyamo bhavet
+4.48ab: niyamena hi saṃgrāhyāḥ pañcamastatpuraḥ sthitaḥ 
+4.48cd: svarāḥ krameṇa catvārasteṣu cānyatarāvubhau
+4.49ab: saṃgrāhyaḥ pūrvajātotra dhaivataḥ parikīrtitaḥ 
+4.49cd: paścādbhavo niṣādaḥ syāditi sapta svarāśca ye
+4.50ab: teṣāṃ ca melanaṃ melo gītavidbhiḥ prakīrtitaḥ 
+4.50cd: bhedā dvisaptatistasya bhavantyasmābhirīritaḥ
+
+4.51ab: yenopāyena melāste dvisaptatiriti sphuṭāḥ 
+4.51cd: tamupāyaṃ pravakṣyāmi lakṣyajñasukhabuddhaye
+4.52ab: ragau ragī ragū caiva rigī rigū rugū tathā 
+4.52cd: ṣaḍ bhedā iti pūrvāṅge draṣṭavyaṃ gītakovidaiḥ
+4.53ab: dhanau dhanī dhanū caiva dhinī dhinū dhunū tathā 
+4.53cd: uttarāṅgepi ṣaḍ bhedā draṣṭavyā gītakovidaiḥ  
+4.54ab: pūrvāṅgagataṣaḍbhedāḥ ṣaḍjādyāḥ syuḥ pṛthakpṛthak 
+4.54cd: uttarāṅgasya ṣaḍbhedāḥ pañcamādyāḥ pṛthakpṛthak
+4.55ab: ādyaḥ pūrvāṅgago bheda uttarāṅgasthitaiḥ kramāt 
+4.55cd: yojyate yadi ṣaḍbhedaiḥ ṣaṇmelāḥ saṃbhantyataḥ
+4.56ab: pūrvāṅgasya dvitīyopi bhedastenaiva vartmanā 
+4.56cd: saṃyojyate yadi tadā ṣaṇmelāḥ saṃbhavantyataḥ
+4.57ab: evaṃ tṛtīyo bhedopi ṣaṇmelotpādako bhavet 
+4.57cd: caturthopi tathaiva syātpañcamopyevameva hi 
+4.58ab: evaṃ ṣaṣṭhopi vijñeyaḥ ṣaṇmelotpattikāraṇam 
+4.58cd: ataḥ pūrvāṅgabhedānāṃ ṣaṇṇāmapi pṛthakpṛthak
+4.59ab: uttarāṅgasthitaiḥ ṣaḍbhirbhedaiḥ saṃyojane kṛte 
+4.59cd: ṣaṭṣaṇmelaprakāreṇa melāḥ ṣaṭtriṃśadāgatāḥ 
+4.60ab: ṣaṭtriṃśanmelakeṣveṣu pratimelaṃ ca madhyamaḥ 
+4.60cd: masaṃjño yadi madhye syātpūrvamelābhidhāstadā
+
+4.61ab: eteṣveva tu ṣaṭtriṃśanmeleṣu pratimelakam 
+4.61cd: masaṃjñamadhyamasthāne misaṃjño yadi madhyamaḥ
+4.62ab: niveśyate tadā teṣāṃ bhaveduttaramelatā 
+4.62cd: ityasmābhiḥ samunnītā jātā melā dvisaptatiḥ
+4.63ab: nanu tyaktvā masaṃjñaṃ tu kevalaṃ madhyamaṃ punaḥ 
+4.63cd: misaṃjñakasya tatsthāne madhyamasya niveśanāt
+4.64ab: ta eva pūrvamelāḥ kiṃ bhavantyuttaramelakāḥ 
+4.64cd: iti cokte sadṛṣṭāntaṃ parihāraṃ pracakṣmahe
+4.65ab: kaṭāhasaṃbhṛtaṃ kṣīraṃ kevalaṃ dadhibindunā 
+4.65cd: yathā saṃyogamāsādya dadhibhāvaṃ prapadyate
+4.66ab: tathaiva pūrvamelāste madhyamena misaṃjñinā 
+4.66cd: kevalenāpi saṃyuktā bhajantyuttaramelatām
+4.67ab: dvisaptateśca melānāṃ prastāraṃ lakṣayedhunā 
+4.67cd: ṣaṭ paṅktīrvilikhetpūrvaṃ ṣaṇmelotpattisiddhaye  67
+4.68ab: ekaikasyāṃ paṅktikāyāṃ sapta sapta gṛhāṃ  likhet 
+4.68cd: catuṣkamekamevaṃ ca sati niṣpadyate punaḥ
+4.69ab: tathaivaikādaśānyāni catuṣkāṇi likhetkramāt 
+4.69cd: catuṣkāṇi tadetāni jātāni dvādaśa sphuṭam
+4.70ab: dvādaśasvapi caiteṣu catuṣkeṣu sthitāḥ grahāḥ 
+4.70cd: sapta sapta hi teṣvādyadvitīyakatṛtīyakāḥ
+
+4.71ab: gṛhāḥ pūrvāṅgasaṃyuktāḥ kartavyā iti nirṇayaḥ 
+4.71cd: pañcamā atha ṣaṣṭhāśca saptamāśca gṛhāstathā
+4.72ab: uttarāṅgeṇa saṃyuktāḥ kartavyā iti nirṇayaḥ 
+4.72cd: caturthāḥ pūrvameleṣu masaṃjñena yutā gṛhāḥ
+4.73ab: ta evottarameleṣu misaṃjñena yutā matāḥ 
+4.73cd: tataśca dvādaśasveṣu catuṣkeṣūktavartmanā
+4.74ab: jātāḥ praticatuṣkaṃ ca ṣaṭṣaṇmelaprakārataḥ 
+4.74cd: melāḥ dvisaptatiḥ śrīmadveṅkaṭādhvarikalpitāḥ
+4.75ab: tadevamanayā rītyā melānāṃ ca dvisaptatiḥ 
+4.75cd: sphuṭaprabuddhayesmābhiḥ svareṣu dvādaśasvapi
+4.76ab: ragau rigītyevamādyaḥ saṃketaḥ parikalpitaḥ 
+4.76cd: tatsaṃketaprakāreṇa svareṣu dvādaśasvapi
+4.77ab: sapta sapta samādāya pratimelamapi svarān 
+4.77cd: vidyād dvisaptatiṃ melānuktaprastāravartmanā
+4.78ab: atha vijñāya tatvena melānedvyadhikasaptatim 
+4.78cd: teṣāṃ prayogasamaye ragau rigīti matkṛtaḥ
+4.79ab: saṃketo naiva saṃgrāhyaḥ kiṃ tu pūrvaprasiddhaye 
+4.79cd: vyavahāraḥ sarigamapadhanītyeva saṃjñayā
+4.80ab: dvisaptateśca melānāṃ kartavya iti nirṇayaḥ 
+4.80cd: nanu dvisaptatirmelā bhavatā parikalpitāḥ
+
+4.81ab: prasiddhāḥ punareteṣu melāḥ katicideva hi 
+4.81cd: dṛśyante nanu sarvepi tena tatkalpanaṃ vṛthā
+4.82ab: kalpanāgauravanyāyāditi cedidamucyate 
+4.82cd: anantāḥ khalu deśāstaddeśasthā api mānavāḥ
+4.83ab: teṣu sāṃgītakairuccāvacasaṃgītakovidaiḥ 
+4.83cd: ye kalpayiṣyamāṇāśca kalpyamānāśca kalpitāḥ
+4.84ab: asmadādibhirajñātā ye ca śāstraikagocarāḥ 
+4.84cd: ye ca deśīyarāgāstadrāgasāmānyamelakāḥ
+4.85ab: yena pantuvarālyākhyakalyāṇipramukhā api 
+4.85cd: nānādeśīyarāgāstadrāgasāmanyamelakān
+4.86ab: saṃgrahītuṃ samunnītā ete melā dvisaptatiḥ 
+4.86cd: tataścaiteṣu vaiyarthyaśaṅkā kiṃkāraṇaṃ bhavet
+4.87ab: na hi saṃghaṭate vṛttaratnākaranirūpite 
+4.87cd: tatra prastāralabdhānāṃ vṛttānāṃ nikurumbake
+4.88ab: asmadādiprasiddhānyavṛttavaiyarthyaśaṃsanam 
+4.88cd: na hi saṃghaṭate tālaprastārajanite punaḥ
+4.89ab: tālajāle prasiddhānyatālavaiyarthyaśaṃsanam 
+4.89cd: yadi kaścinmadunnītamelebhyastaddvisaptateḥ
+4.90ab: nyūnaṃ vāpyadhikaṃ vāpi prasiddhairdvādaśasvaraiḥ 
+4.90cd: kalpayenmelanaṃ tarhi mamāyāso vṛthā bhavet
+
+4.91ab: na hi tatkalpane phālalocanopi pragalbhate 
+4.91cd: tasmādyathaikapañcāśadvarṇāḥ syurmātṛkābhidhāḥ
+4.92ab: na hīyante na vardhante tathā melā dvisaptatiḥ 
+4.92cd: evaṃ sāmānyato melāḥ proktā hyadhikasaptatiḥ
+4.93ab: athaiteṣveva ye melā lakṣyavartmani viśrutāḥ 
+4.93cd: teṣvahaṃ katicinmelāld{ṃ  lakṣyalakṣaṇasaṃgatān 
+4.94ab: pratimelamapi spaṣṭaṃ śrutīdvāviṃśatiṃ tathā 
+4.94cd: lakṣaṇaṃ vacyate paścāduddeśastāvadāditaḥ
+4.95ab: pūrvoktamelaprastāraḥ krameṇa kriyatedhunā 
+4.95cd: ādimaḥ sarvamelānāṃ mukhārīmela ucyate
+4.96ab: melaḥ sāmavarālyākhyarāgasyātaḥ paraṃ mataḥ 
+4.96cd: tato bhūpālamelotha hejjujjīmela īritaḥ
+4.97ab: vasantabhairavīmelo gaulamelastataḥ param 
+4.97cd: bhairavīmela āharyā melaḥ śrīrāgamelakaḥ
+4.98ab: kāmbhojimelo melotha śaṃkarabharaṇasya ca 
+4.98cd: sāmantamelo deśākṣīmelo nāṭasya melakaḥ
+4.99ab: melaḥ śuddhavarālyākhyarāgasyātaḥ paraṃ mataḥ 
+4.99cd: melaḥ pantuvarālyāśca śuddharāmakriyāyutaḥ
+4.100ab: melaḥ siṃharavākhyosmatsṛṣdtarāgasya 
+4.100cd: melakaḥ  kalyāṇīrāgamelaścetyāhatyaikonaviṃśatiḥ
+
+
+4.101ab: asmādatiprasiddhanāṃ deśabhedapracāriṇām 
+4.101cd: uccāvacānāṃ rāgāṇāṃ melastāvad dvisaptatau
+4.102ab: meleṣu pūrvameleṣu śārīrānuguṇatvataḥ 
+4.102cd: buddhimadbhiḥ samunneyā iti sarvaṃ samañjasam
+4.103ab: yadvā sāmantarāgoyaṃ śrīrāge melake gataḥ 
+4.103cd: rāgaprakaraṇe brūmo rāgānmelaviśeṣajān
+4.104ab: uddiṣṭānāṃ tu melānāmadhunā lakṣma cakṣmahe 
+4.104cd: pratimelamatispaṣṭaṃ śrutīrdvāviṃśatiṃ tathā
+4.105ab: śuddhaiḥ saptasvarairyukto mukhārīmela ucyate 
+4.105cd: catuścatuścatuścaiva ṣaḍjamadhyamapañcamāḥ
+4.106ab: dve dve niṣādagāṃdhārau tristrī riṣabhadhaivatau 
+4.106cd: ityasya śrutayaḥ pūrvairdvāviṃśatirudāhṛtāḥ
+4.107ab: pūrvoktamelaprastāre bhedoyaṃ prathamo mataḥ 
+ iti mukhārīmelaḥ 1
+4.107cd: ṣaḍjaḥ śuddhāśca rigamāḥ śuddhau pañcamadhaivatau
+
+4.108ab: niṣādaḥ kākalīnāmetyetairyuktaḥ svaraistu yaḥ 
+4.108cd: melaḥ sāmavarālyākhyarāgasyāyamudāhṛtaḥ
+4.109ab: ṣaḍja ekarṣabhe tisro dve ge ca mapayoḥ pṛthak 
+4.109cd: catasraśca catasraśca dhe tisraḥ pañca nau smṛtāḥ
+4.110ab: ityasya śrutayo jñeyā dvāviṃśatiriti sphuṭam 
+4.110cd: pūrvoktamelaprastāre bhedoyaṃ syāttṛtīyakaḥ
+
+iti sāmavarālīmelaḥ  2
+
+4.111ab: ṣaḍjaḥ śuddharṣabhaḥ sādhāraṇagāṃdhāra eva ca 
+4.111cd: śuddhāśca mapadhā jñeyāḥ kaiśikyākhyo niṣādakaḥ 
+4.112ab: ebhiḥ saptasvarairyuktaḥ prokto bhūpālamelakaḥ 
+4.112cd: tisrastisraśca tisraśca tisraḥ sarigamāśrayāḥ
+4.113ab: catasraḥ pañcame tisro dhaivate tisra eva nau 
+4.113cd: ityasya śrutayo jñeyā dvāviṃśatiriti sphuṭam
+4.114ab: pūrvoktamelaprastāre jāto bhedoyamaṣd tamaḥ 
+ iti bhūpālamelaḥ  3 
+4.114cd: gāṃdharontaranāmānye svarāḥ śuddhāḥ prakīrtitāḥ 
+4.115ab: etāvansvarasaṃbhūto hejjujjīmela īritaḥ 
+4.115cd: ṣaḍje ca tisra ṛṣabhe tisro ge pañca madhyame
+4.116ab: ekā syātpe catasraḥ syurdha tisro dve niṣādake 
+4.116cd: ityasya śrutayo jñeyā dvāviṃśatiriti sphuṭam
+4.117ab:ayaṃ trayodaśo bhedo melaprastārake bhavet 
+ iti hejjujjimelaḥ 
+4.117cd: ṣaḍjaḥ śuddharṣabhaścaiva gāṃdārontarasaṃjñakaḥ
+4.118ab: śuddhāśca mapadhāḥ kaiśikyābhidhāno niṣādakaḥ 
+4.118cd: vasantabhairavīmelaḥ svarairetaiḥ samutthitaḥ
+4.119ab: ṣaḍje tisrastu riṣabhe tisro ge pañca madhyame 
+4.119cd: ekaiva pe catasraḥ syustisrastisro dhaniśritāḥ
+4.120ab: ityasya śrutayo jñeyā dvāviṃśatiriti sphuṭam 
+4.120cd: ayaṃ ca melaprastāre jñeyo bhedaścaturdaśa
+
+ iti vasantabhairavīmelaḥ
+4.121ab: ṣaḍjaḥ śuddharṣabhaścaiva gāṃdhārontarasaṃjñakaḥ 
+4.121cd: mapadhākhyāḥ svarāḥ śuddhāḥ kākalyākhyaniṣādakaḥ 
+4.122ab: etāvatsvarasaṃbhūto gaulamelaḥ prakīrtitaḥ 
+4.122cd: ekā ṣaḍje ti riṣabhe tisro ge pañca madhyame
+4.123ab: ekaiva pe catasraḥ syustisro dhe pañca nau matāḥ 
+4.123cd: itasya śrutayo jñeyā dvāviṃśatiriti sphuṭam
+4.124ab: ayaṃ pañcadaśo bhedo melaprastārake smṛtaḥ 
+iti gaulamelaḥ 6
+4.124cd: ṣaḍjaśca pañcaśrutikarṣabhaḥ sādhāraṇāhvayaḥ
+4.125ab: gāṃdhāro madhyamaḥ śuddhaḥ pañcamaḥ śuddhadhaivataḥ 
+4.125cd: kaiśikyākhyaniṣādaścetyetāvatsvarasaṃbhavaḥ
+4.126ab: bhairavī nāma rāgaḥ syāditi melasamāhvayaḥ 
+4.126cd: ṣaḍje tisra ṛṣabhe pañcaikā ge tisro madhyame
+4.127ab: catasraḥ pe dhe ca tisro niṣāde tisra eva ca 
+4.127cd: ityasya śrutayosmabhirdvāviṃśatirudīritāḥ 
+4.128ab: viṃśabhedakasaṃbhūto melaprastārake smṛtaḥ 
+ iti bhairavīmelaḥ 7
+4.128cd: ṣaḍjaśca pañcaśrutiko riṣabhaśca tathā paraḥ 
+4.129ab: sādhāraṇākhyagāṃdhāraḥ śuddhāśca mapadhāstathā 
+4.129cd: kākalyākhyaniṣādaścetyāharīmelake svarāḥ
+4.130ab: ekā ṣaḍjetha riṣabhe pañca ge tvekikā matā 
+4.130cd: tisraścatasro mapayordhe tisraḥ pañca nau smṛtāḥ
+4.131ab: ityasya śrutayosmābhirdvāviṃśatirudāhṛtāḥ 
+4.131cd: bhedoyamekaviṃśosmanmelaprastārake smṛtaḥ 
+ityāharīmelaḥ 8
+4.132ab: ṣaḍjaśca pañcaśrutiriṣabhākhyaḥ svaraḥ paraḥ 
+4.132cd: sādhāraṇākhyagāṃdhāraḥ śuddhau madhyamapañcamau
+4.133ab: catuḥśrutirdhaivataśca kaiśikyākhyaniṣādakaḥ 
+4.133cd: etaiḥ saptasvarairjātaḥ śrīrāgasya tu melakaḥ
+4.134ab: tisraḥ ṣaḍjetha riṣabhe pañca ge tvekikaiva me 
+4.134cd: tisraḥ pe tu catasraḥ syurdhe pañcaikaiva nau smṛtāḥ
+4.135ab: ityasya śrutayosmābhirdvāviṃśatirudāhṛtāḥ 
+4.135cd: ayaṃ dvāviṃśako bhedo melaprastārake bhavet
+ iti śrīrāgamelaḥ 9
+4.136ab: ṣaḍjotha pañcaśrutiko riṣabhontarasaṃjñakaḥ 
+4.136cd: gāṃdhāraśca mapau śuddhau pañcaśrutikadhaivataḥ
+4.137ab: kaiśikyākhyaniṣādaśca kāmbhojīmelake svarāḥ 
+4.137cd: ṣaḍje tisrastu riṣabhe pañca tisrastu ge smṛtāḥ
+4.138ab: ekaiva me catasraḥ pe dhe pañcaikā niṣādake 
+4.138cd: ityasya śrutayosmābhirdvāviṃśatirudīritāḥ
+4.139ab: aṣṭaviṃśatyayaṃ bhedo melaprastārake smṛtaḥ 
+ iti kāmbhojīmelaḥ 10
+4.139cd: ṣaḍjaśca pañcaśrutiko riṣabhaścāntarābhidhaḥ 
+4.140ab: gāṃdhārastu mapau śuddhau pañcaśrutikadhaivataḥ 
+4.140cd: kākalyākhyaniṣādaścetyetāvatsvarasaṃbhavaḥ
+
+
+4.141ab: śaṃkarābharaṇākhyānarāgarājasya melakaḥ 
+4.141cd: ṣaḍja ekarṣabhe pañca tisro ge tvekikaiva me
+4.142ab: catasraḥ pe pañca dhe ca niṣāde tisra eva ca 
+4.142cd: ityasya śrutayosmābhirdvāviṃśatirudāhṛtāḥ
+4.143ab: ekonatriṃśabhedoyaṃ melaprastārake smṛtaḥ  
+iti śaṃkarābharaṇamelaḥ 11
+4.143cd: ṣaḍjaḥ pañcaśrutiścātha riṣabhontaranāmakaḥ
+4.144ab: gāṃdhāraśca mapau śuddhau ṣaṭśrutirdhaivatastathā 
+4.144cd: kākalyākhyaniṣādaśca svarāḥ sāmantamelake
+4.145ab: ṣaḍja ekarṣabhe pañca tisro ge caikikā ca me 
+4.145cd: catasraḥ pañcame dhe tu ṣaṭ tathā dvau niṣādake
+4.146ab: ityasya śrutayosmābhirdvāviṃśatirudīritāḥ 
+4.146cd: pūrvoktamelaprastāre triṃśabhedoyamucyate 
+iti sāmantamelaḥ  12
+4.147ab: ṣaḍjaḥ ṣaṭśrutiko nāma riṣabhontarasaṃjñakaḥ 
+4.147cd: gāṃdhārastu mapau śuddhau pañcaśrutikadhaivataḥ
+4.148ab: kākalyākhyaniṣādaścetyetāvatsvarasaṃbhavaḥ 
+4.148cd: deśākṣī nāma rāgaḥ syāditi melasamāhvayaḥ
+4.149ab: ekā ṣaḍje ca riṣabhe ṣaḍ ge dve caikikā ca me 
+4.149cd: catasraḥ pe pañca dhe ca niṣāde tisra eva ca
+4.150ab: ityasya śrutayosmābhirdvāviṃśatirudīritāḥ 
+4.150cd: pañcatriṃśakabhedoyaṃ melaprastārake smṛtaḥ 
+ iti deśākṣīmelaḥ 13
+
+
+4.151ab: ṣaḍjaḥ ṣaṭśrutiko nāma riṣabhontarasaṃjñakaḥ 
+4.151cd: gāṃdhārastu mapau śuddhau ṣaṭśrutidhaivataḥ svaraḥ  
+4.152ab: kākalyākhyaniṣādaścetyetāvatsvarasaṃbhavaḥ 
+4.152cd: nāṭābhidhānarāgaḥ syāditi melasamāhvayaḥ 
+4.153ab: ekā ṣaḍje ca riṣabhe ṣaḍ ge dve caikitā ca me 
+4.153cd: catasraḥ pañcame dhe ca ṣaṭ tathā dve niṣādake  153
+4.154ab: ityasya śrutayosmābhirdvāviṃśatirudīritāḥ 
+4.154cd: ṣaṭtriṃśabhedasaṃbhūto melaprastarake smṛtaḥ
+ iti nāṭamelaḥ  14
+4.155ab: varālīmadhyamaścātha kākalyākhyaniṣādakaḥ 
+4.155cd: śeṣāḥ śuddhasvarāḥ śuddhavarālīmelasaṃjñakaḥ 
+4.156ab: ṣaḍja ekarṣabhe tisro gāṃdhāre dve ca sapta me 
+4.156cd: ekaiva pañcame tisro dhaivate pañca nau smṛtāḥ
+4.157ab: ityasya śrutayosmābhirdvāviṃśatirudīritāḥ 
+4.157cd: ekonacatvāriṃśoyaṃ melaprastārake smṛtaḥ  
+ iti śuddhavarālīmelaḥ 15
+4.158ab: ṣaḍjaḥ śuddharṣabhaḥ sādhāraṇagāṃdhārasaṃjñakaḥ 
+4.158cd: varālīmadhyamaścaiva śuddhau pañcamadhaivatau
+4.159ab: kākalyakhyaniṣādasścetyetāvatsvarasaṃbhavaḥ 
+4.159cd: melaḥ pantuvarālyākhyo rāgaśca parikīrtitaḥ
+4.160ab: ṣaḍja ekarṣabhe tisra stisro ge madhyame tu ṣaṭ 
+4.160cd: pañcame tvekikā tisro dhaivate pañca nau smṛtāḥ
+
+4.161ab: ityasya śrutayosmābhirdvāviṃśatirudāhṛtāḥ 
+4.161cd: melaprastārake pañcacatvāriṃśoyamucyate
+ iti pantuvarālīmelaḥ 16
+4.162ab: ṣaḍjaḥ śuddharṣabhaścaiva gāṃdharontaranāmakaḥ 
+4.162cd: varālīmadhyamaścātha śuddhau pañcamadhaivatau
+4.163ab: kākalyākhyaniṣādaścetyetatsaptasvaroditaḥ 
+4.163cd: śuddharāmakriyākhyānarāgameloyamucyate
+4.164ab: ṣaḍja ekarṣabhe tisro gāṃdhāre pañca madhyame 
+4.164cd: catasraḥ pañcame tvekā dhe tisraḥ pañca nau smṛtāḥ
+4.165ab: ityasya śrutayosmābhirdvāviṃśatirudāhṛtāḥ 
+4.165cd: bhedoyamekapañcāśo melaprastārake smṛtaḥ 
+ iti śuddharāmakriyāmelaḥ  17
+4.166ab: ṣaḍjasvaraśca riṣabhaḥ pañcaśrutisamanvitaḥ 
+4.166cd: sādhāraṇākhyagāṃdhāro varālīmadhyamastathā
+4.167ab: śuddhaśca pañcamaścaiva pañcaśrutikadhaivataḥ 
+4.167cd: kaiśikyākhyaniṣādaścetyetatsaptasvaroditaḥ
+4.168ab: melaḥ siṃharave rāge veṅkaṭādhvarikalpite 
+4.168cd: ṣaḍje tisrotha riṣabhe pañca ge tvekikaiva me
+4.169ab: ṣaḍeva pañcame tvekā dhe pañcaikaiva nau smṛtāḥ 
+4.169cd: ityasya śrutayaḥ proktā mayā dvāviṃśatiḥ sphuṭam
+4.170ab: bhedoyamaṣṭapañcāśo melaprastāra iṣyate  
+ iti siṃharavamelaḥ  18
+4.170cd: ṣaḍjasvaraśca riṣabhaḥ pañcaśrutisamanvitaḥ
+
+4.171ab: gāṃdhārontarasaṃjñaśca varālīmadhyamastathā 
+4.171cd: śuddhaśca pañcamaḥ pañcaśrutiko dhaivatastathā
+4.172ab: kākalyākhyaniṣādaśca kalyāṇīmelake svarāḥ 
+4.172cd: ṣaḍja ekarṣabhe pañca gāṃdhāre tisra eva me
+4.173ab: catasraḥ pañcame tvekā pañca dhe tisra eva nau 
+4.173cd: ityasya śrutayosmābhirdvāviṃśatirudīritāḥ
+4.174ab: pañcaṣaṣṭitamo bhedo melaprastārake smṛtaḥ 
+ iti kalyāṇīmelaḥ 19
+4.174cd: asmābhirdarśitā itthaṃ lakṣyalakṣaṇasaṃgatāḥ 
+4.175ab: ekonaviṃśatirmelāḥ saṃprati pracaranti ye 
+4.175cd: atedānīṃ vicāryante rāmāmātyena lakṣitāḥ
+4.176ab: melaprakaraṇe melāḥ svaramelakalānidhau 
+4.176cd: tathā hi viṃśatiṃ melānāha rāmo vimūd dhadhīḥ
+4.177ab: yujyate tatkathaṃ veti tatpṛcchāmo vayaṃ punaḥ 
+4.177cd: taduktarītyā sāraṅganāṭakedāragaulayoḥ
+4.178ab: saṃprāptamekamelatvaṃ melā syurviṃśatiḥ katham 
+4.178cd: nanu viṃśatimelānāṃ madhye pañcadaśasvapi
+4.179ab: meleṣu pañcamelānāmantarbhāvastvayeritaḥ 
+4.179cd: anyasya punaranyasminnāntarbhāvo bhaviṣyati
+4.180ab: antarākhyānagāṃdhārakākalyākhyaniṣādayoḥ 
+4.180cd: sthāne pratinidhitvena saṃgṛhyete yadā svarau
+
+
+4.181ab: cyutamadhyamagāṃdhāracyutaṣaḍjaniṣādakau 
+4.181cd: tathā viṃśatimelānaṃ madhye pañcadaśasvapi
+4.182ab: meleṣu pañcamelānāmantarbhāvastvayeritaḥ 
+4.182cd: sāraṅganāṭakedāragaulameladvayepi ca
+4.183ab: aviśeṣeṇa bhavatā saṃgrāhyatve sadharmakau 
+4.183cd: cyutamadhyamagāṃdhāracyutaṣaḍjaniṣādakau
+4.184ab: antasya punaranyasminnantarbhāvo bhavettadā 
+4.184cd: tato viṃśatimeloktivyāghātoyaṃ duruttaraḥ 
+4.185ab: melānāṃ viṃśateryāni lakṣmāṇyuktāni hi tvayā 
+4.185cd: tāni sarvāṇi dṛśyante viruddhānyeva kevalam
+4.186ab: tatra sthālīpulākākhyanyāyena katicitpunaḥ 
+4.186cd: lakṣaṇāni pradarśyante rāma yeṣveva mohitaḥ
+4.187ab: na hi tānyatra śakyante dūṣaṇāni tvayerite 
+4.187cd: granthe gaṇayituṃ doṣasahasragrathane mayā
+4.188ab: tathā hi bhairavīrāgaḥ śaṃkarābharaṇastathā 
+4.188cd: gauḍirāgaśca kathitastvayā śrīrāgamelajāḥ
+4.189ab: tatkathaṃ bhairavīśuddhadhaivatenānvitā khalu 
+4.189cd: śaṃkarābharaṇo rāgontaragāṃdhāravāṃstathā
+4.190ab: sakākalīniṣādaśca gauḍīrāgastvayaṃ punaḥ 
+4.190cd: jāto mālavagaulākhyarāgamelādisaṃsthitaḥ
+
+4.191ab: rāgāṇāṃ punareteṣāṃ janma śrīrāgamelataḥ 
+4.191cd: kathaṃ vikatthase rāma rāma rāma tava bhramaḥ
+4.192ab: yaccoktaṃ bhavatā śuddharāmakrīrāgamelataḥ 
+4.192cd: pāḍīrāgardradeśyākhyarāgajanma bhavediti
+4.193ab: taddoṣaghātaye rāma rāmasmaraṇamātanu 
+4.193cd: pāḍyārdradeśirāgau ca prasiddhau gaulamelajau
+4.194ab: yadapyāveditā rāma rāma buddhivirāmatā 
+4.194cd: deśākṣīmela evaiṣa kaiśikyākhyaniṣādakam
+4.195ab: prāpya kannaḍagaulaḥ syādgaulasyātimṛṣāvahā 
+4.195cd: karṇāṭagaulaḥ śrīrāgamelodbhavanato na kim
+4.196ab: yacca kannaḍagaulasya mele samupajāyate 
+4.196cd: ghaṇṭārava iti proktaṃ pātakenāmunā punaḥ
+4.197ab: satyaṃ na mokṣyase rāma rāmasetuṃ gatopi vā 
+4.197cd: bhairavīmelasaṃbhūto rāgo ghaṇṭāravaḥ khalu
+4.198ab: yadapyuktaṃ tvayā nādarāmakrīrāgamelake 
+4.198cd: sādhāraṇākhyagāṃdhāraḥ saṃgrāhya iti tatvataḥ
+4.199ab: apūrvavayakāratvamāvedayati rāma te 
+4.199cd: nādarāmakriyāmelagāṃdhāropyantarābhidhaḥ
+4.200ab: yaccoktaṃ rītigaulākhyarāgamelasya lakṣaṇam 
+4.200cd: śudhāḥ sarigamāḥ pañca pañcaśrutikadhaivataḥ
+4.201ab: kaiśikyākhyaniṣādaścetyatra rāmakriyastathā 
+4.201cd: bhairavīrāgamelottho rītigaulaḥ prakīrtyate
+4.202ab: śuddharṣabhaśca gāṃdhāraḥ pañcaśrutikadhaivataḥ 
+4.202cd: yacca kedāragaulākhyarāgamelasya lakṣaṇe
+4.203ab: saṃgrāhyaścyutaṣaḍjākhyaniṣāda iti kalpitam 
+4.203cd: tatra sthānenu śocami tava rāmābhidhāṃ punaḥ
+4.204ab: kaiśikyākhyaniṣādo hi mele kedāragaulake 
+4.204cd: yadapyuktaṃ tvayā rāma hejjujjīrāgamelake
+4.205ab: kākalyākhyaniṣādastu saṃgrāhya iti tatpunaḥ 
+4.205cd: atitucchaṃ yatastasminmele śuddhaniṣādakaḥ
+4.206ab: gṛhyate nikhilairlokairvādakairgāyakairapi 
+4.206cd: yaccoktaṃ bhavatā rāma kāmbhojīmelalakṣaṇam
+4.207ab: ganī antarakākalyau ridhau pañcaśrutī tathā 
+4.207cd: śeṣāḥ śuddhāśca samapāḥ kāmbhojīmelake tviti
+4.208ab: tattāvattava gītajñabahiṣkāryatvasādhanam 
+4.208cd: kāmbhojīrāgamelasya kaiśikyākhyaniṣādakaḥ
+4.209ab: iti no vetti kiṃ vīṇāvādināṃ gṛhadāsyapi 
+4.209cd: tasmādvaikārarāmoktānmelānviśvasya vaiṇikaiḥ 
+4.209ef: kāntārakūpe veṣṭavyamuddhṛtya bhujamucyate
+
+
+
+iti śrīmadadvaitavidyācāryasāgnicityasarvatomukhātirātrasāgnicityāptavājapeyayājigovindadīkṣitanāgamāmbikāvaradvitīyanandanasya 
+sāgnicityasarvakratuyājiyajñanārāyaṇadīkṣitāvyavahitānujasyācyuta vijayarāghavabhūpālapreritasya veṅkaṭeśvaradīkṣitasya
+kṛtau caturdaṇdīprakāśikāyāṃ  caturthaṃ melaprakaraṇaṃ saṃpūrṇam 
+
+
+pañcamaṃ rāgaprakaraṇam
+
+
+5.1ab: turyaprakaraṇe melāḥ saprapañcamudirītāḥ 
+5.1cd: atha melodbhavā rāgā lakṣsyante nātivistaram
+5.2ab: rañjayanti manāṃsīti rāgāste daśa lakṣaṇāḥ 
+5.2cd: bhavanti te mataṅgādyaiḥ prāpitāstāni ca kramāt
+5.3ab: lakṣaṇāni daśoktāni lakṣyante tāvadāditaḥ 
+5.3cd: grahāṃśau mandratārau ca nyāsāpanyāsakau tathā
+5.4ab: atha saṃnyāsavinyāsau bahutvaṃ cālpatā tathā 
+5.4cd: lakṣaṇāni daśaitāni rāgāṇāṃ munayobruvan
+5.5ab: daśānāmapi caiteṣāṃ kramāllakṣaṇamucyate 
+5.5cd: yenādau gīyate gītaṃ svareṇa sa bhaved grahaḥ
+5.6ab: bahuśo gīyate yena svareṇāṃśaḥ sa kathyate 
+5.6cd: aṃśasvarastvasāveva jīvasvara iti smṛtaḥ
+5.7ab: nīcaiḥ svareṇa yadgānaṃ sa mandrasvara ucyate 
+5.7cd: uccaiḥ svareṇa yadgānaṃ sa tārasvara ucyate
+5.8ab: nyāsasvaraḥ sa kathito yena gītaṃ samāpyate 
+5.8cd: avāntarasamaptiṃ yo rāgasyāpi tanoti saḥ
+5.9ab: apanyāsaḥ smṛto nyāsastvātyantikasamāptikṛt 
+5.9cd: iti bhedo bhavennyāsāpanyasasvarayordvayoḥ
+5.10ab: saṃnyāso nāma gītādyakhaṇḍabhāgasamāptikṛt 
+5.10cd: gītakhaṇḍādyāvayavasyānte tiṣṭhati sa svaraḥ
+
+5.11ab: vinyāsa etau saṃnyāsavinyāsau bharatādibhiḥ 
+5.11cd: antarbhūtāvapanyāsasvara eveti kīrtitau
+5.12ab: alaṅghanaṃ tathābhyāso bahutvaṃ dvividhaṃ matam 
+5.12cd: svarasyāsparśanaṃ yatra laṅghanaṃ tatra kīrtitam
+5.13ab: sākalyena svarasparśastvalaṅghanamiti smṛtam 
+5.13cd: yadekasya svarassyaiva nairantaryeṇa vāthavā
+5.14ab: vyavadhānena vā bhūyo bhūyopyuccāraṇaṃ hi tat 
+5.14cd: abhyāsa iti śaṃsanti bahutvaṃ dvividhaṃ tataḥ
+5.15ab: alpatvaṃ ca dvidhā proktamanabhyāsācca laṅghanāt 
+5.15cd: pūrvoktābhyāsarāhityamanabhyāsaḥ prakīrtitaḥ
+5.16ab: pūrvoktālaṅghanābhāvo laṅghanaṃ parikīrtitam 
+5.16cd: lakṣaṇāni daśāpyevaṃ lakṣitāni mayā sphuṭam
+5.17ab: athaitallakṣaṇānrāgānuddiśāmi kramādaham 
+5.17cd: rāgāstāvaddaśavidhā bharatādyairudīritāḥ
+5.18ab: grāmarāgāścoparāgā rāgā bhāṣāvibhāṣikāḥ 
+5.18cd: tathaivāntarabhāṣākhyā rāgāṅgākhyāstataḥ param 
+5.19ab: bhāṣāṅgāṇi kriyāṅgāṇi hypāṅgānīti ca kramāt 
+5.19cd: daśastveteṣu rāgeṣu grāmarāgādayaḥ punaḥ
+5.20ab: rāgāstvantarabhāṣāntā mārgarāgā bhavanti ṣaṭ 
+5.20cd: tato gandharvalokena prayojyāste vyavasthitāḥ
+
+5.21ab: tasmādrāgaṅgabhāṣāṅgakriyāṅgopāṅgasaṃjñitāḥ 
+5.21cd: rāgāścatvāra evaite deśīrāgāḥ prakīrtitāḥ
+5.22ab: tatra ratnākaragranthe śārṅgadevena dhīmatā 
+5.22cd: catuḥṣaṣṭyadhikaṃ rāgaśatadvayamudīritam
+5.23ab: lakṣyante tena kutrāpi lakṣyavartmani saṃprati 
+5.23cd: tataḥ prasiddhivaidhuryāttyktvā rāgāṃstu tānpunaḥ
+5.24ab: sarvatra lakṣyamārgetra saṃprati pracaranti ye 
+5.24cd: tānasmatparamācāryatānappāryasamuddhṛtān
+5.25ab: rāgānnirūpayiṣyāmi lakṣyalakṣaṇasaṃmatān 
+5.25cd: grahāṃśanyāsamandrādivyavasthā teṣu yadyapi
+5.26ab: deśītvātsarvarāgeṣu naikāntena pravartate 
+5.26cd: tathāpi lakṣyamāśritya gānalakṣmānusṛtya ca
+5.27ab: rāgāṇāṃ lakṣaṇaṃ brūmaḥ saṃprati pracaranti ye 
+5.27cd: nirūpyamāṇarāgāṇāṃ ṣaḍjādikramato bruve
+5.28ab: likhyante pañcabhiḥ padyai rāgāḥ ṣaḍjagrahasvarāḥ 
+5.28cd: nāṭaḥ saurāṣṭrasāraṅganāṭau śuddhavasantakaḥ 
+5.29ab: guṇḍakriyā mecabaulirnādarāmakriyastathā 
+5.29cd: varālī lalitā pāḍirāgaḥ sālagabhairavī
+5.30ab: śrīrāgārabhidhanyāsiśaṃkarābharaṇābhidhāḥ 
+5.30cd: rāgā hindolabhūpālahindolādyavasantakāḥ
+
+
+5.31ab: āharyābherisāmantā vasantādyā ca bhairavī 
+5.31cd: hejjujjirmālavaśrīśca śuddharāmakriyā tathā
+5.32ab: kāmbhojī ca mukhārī ca devagāndhārikā tathā 
+5.32cd: nāgadhvaniḥ sāmarāgastathā sāmavarālikā
+5.33ab: ekatriṃśadime rāgāḥ ṣaḍjanyāsagrahāṃśakāḥ 
+5.33cd: gurjarī bhinnaṣaḍjaśca revagutistrayopyamī 
+5.34ab: rinyāsāṃśagrahāḥ proktā mataṅgabharatādibhiḥ 
+5.34cd: nārāyaṇākhyadeśākṣī deśākṣī rāga eva ca
+5.35ab: nārāyaṇyatha karṇāṭo baṅgālaśceti viśrutāḥ 
+5.35cd: ime rāgāstu catvāro ganyāsāṃśagrahāḥ smṛtāḥ
+5.36ab: jayantaseno bahulī madhyādirime trayaḥ 
+5.36cd: magrahā madhyamanyāsā māṃśakāḥ parikīrtitāḥ
+5.37ab: āndhālī caiva sāverī panyāsāṃśagrahe ubhe 
+5.37cd: rāgo mallaharī ghaṇṭāravo velāvalī tathā
+5.38ab: bhairavī ceti catvāro dhanyāsāṃśagrahāḥ smṛtāḥ 
+5.38cd: gaulakedāragaulau dvau cchāyāgaulābhidhastathā
+5.39ab: rītigaulaḥ pūrvagaulo gaulo nārāyaṇābhidhaḥ 
+5.39cd: rāgaḥ kannaḍagaulaśca sapta gaulā ime punaḥ
+5.40ab: niṣādagrahaninyāsaniṣādāṃśāḥ prakīrtitāḥ 
+5.40cd: catuḥpañcādaduddiṣṭā iti rāgā grahādibhiḥ
+
+
+5.41ab: athaiteṣāṃ kramāllakṣma lakṣyalakṣaṇasaṃgatam 
+5.41cd: nāṭo bhāṣāṅgarāgotra vādī ṣaḍjaḥ svaro mataḥ 
+5.42ab: saṃvādī pañcamo jñeyo ganī proktau vivādinau 
+5.42cd: anuvādī ridhadvandvaṃ cāyaṃ sāyaṃ pragīyate
+5.43ab: avarohe nidhagarivarjamenaṃ pracakṣate 
+5.43cd: saṃpūrṇarāgaścaivaiṣa saṃmato ganavedinām
+5.44ab: saurāṣṭrarāgo melasya gaulasyābhyudayaḥ paraḥ 
+5.44cd: saṃpūrṇaścaiṣa vādī ca ṣaḍjaḥ saṃvādinau mapau
+5.45ab: niṣādaścānuvādīha ridhau dvau ca vivādinau 
+5.45cd: sarvavelāsu gātavyaḥ khyātaḥ saṃgītavedibhiḥ
+5.46ab: sāraṅganāṭaḥ saṃpūrṇaḥ saṃbhūto gaulamelataḥ 
+5.46cd: asyāpi ca bhavedvādī ṣaḍjaḥ saṃvādinau mapau
+5.47ab: vivādinau ganī cānuvādinau dhaivatarṣabhau 
+5.47cd: sāyaṃ cāyaṃ pragātavyaḥ saṃgītāmbudhipāragaiḥ
+5.48ab: rāgaḥ śuddhavasantākhyo rāgāṅgo gīyate prage 
+5.48cd: śaṃkarābharaṇākhyātarāgamelasamudbhavaḥ
+5.49ab: āha baikārarāmastvārohe pañcamavarjanāt 
+5.49cd: ṣāḍavatvaṃ na tad yuktaṃ yasmādasyāvarohaṇāt
+5.50ab: ārohepi prayogosti tasmātsaṃpūrṇarāgatā 
+5.50cd: dinasya carame yāme gītaḥ soyaṃ śubhāvahaḥ
+
+
+5.51ab: guṇḍakriyā gaulamelajātā saṃpūrṇatāmatā 
+5.51cd: nādaramakriyārāgaḥ saṃpūrṇasvarasaṃgataḥ
+5.52ab: geyaḥ sāyāhnasamaye gaulamelasamudbhavaḥ 
+5.52cd: varālirāgaḥ saṃpūrṇo vādī ṣad djotha kathyate
+5.53ab: saṃvādinau mapau jñeyau ganī caiva vivādinau 
+5.53cd: riṣabho hyanuvādī syātsarvadāpyeṣa gīyate
+5.54ab: prage prageyā lalitā pavarjā gaulamelajā 
+5.54cd: pāḍīrāgo gaulamelaprabhūtaḥ ṣāḍavo mataḥ
+5.55ab: galopaścarame yāme dinasya parigīyate 
+5.55cd: śrīrāgamelasaṃbhūto rāgaḥ sālagabhairavī
+5.56ab: saṃpūrṇasvarasaṃyuktā yāme geyā turīyake 
+5.56cd: śrīrāgaḥ paripūrṇopi gadhayoḥ sthānavarjitaḥ
+5.57ab: geyaḥ sāyhnasamaye sarvasaṃpadpradāyakaḥ 
+5.57cd: ārabhīnāmako rāgaḥ saṃpūrṇasvarasaṃgataḥ
+5.58ab: melastvasya sa eva syācchaṃkarābharaṇaḥ svayam 
+5.58cd: dhanyāsirāgo rāgāṅgo jātaḥ śrīrāgamelataḥ
+5.59ab: ridhalopādauḍuvoyaṃ prātargītaḥ śubhapradaḥ 
+5.59cd: śaṃkarābharaṇo rāgaḥ pūrṇaḥ sāyaṃ pragīyate 
+5.60ab: hindolasaṃjñako rāgo bhairavīmelasaṃbhavaḥ 
+5.60cd: auḍuvī ridhalopena sarvakāleṣu gīyate
+
+
+
+5.61ab: bhūpālaḥ prātarudgeya auḍuvī manivarjanāt 
+5.61cd: eṣa rāgāṅgarāgeṣu gaṇitaḥ śārṅgasūriṇa
+5.62ab: āharīmelajaḥ pūrṇo hindolādyavasantakaḥ 
+5.62cd: saṃpūrṇastvāharīrāgaḥ ṣaḍjapañcamakau kramāt 
+5.63ab: vādisaṃvādinau tatra ganī caiva vivādinau 
+5.63cd: anuvādisvarau jñeyau ridhau sāyaṃ pragīyate
+5.64ab: ābherirāgaḥ pūrṇoyamāharīmelasaṃbhavaḥ 
+5.64cd: sāmantarāgaḥ pūrṇotra vadisaṃvādinau sapau
+5.65ab: vivādinau nigāvanye svarāḥ syuranuvādinaḥ 
+5.65cd: śaṃkarābharaṇacchāyaḥ sāyameṣa pragīyate
+5.66ab: vasantabhairavīrāgaḥ saṃpūrṇopyalpapañcamaḥ 
+5.66cd: prātargātavya ityevaṃ khyāto vātātmajanmanā
+5.67ab: hejjujjirāgaḥ saṃpūrṇo yāmehno gīyatentime 
+5.67cd: ṣāḍavī mālavaśrīḥ syādrāgāṅgamṛṣabhojjhitaḥ
+5.68ab: melaḥ śrīrāgamelasya sarvakāleṣu gīyate 
+5.68cd: saṃpūrṇaḥ śuddharāmakrī vādī ṣad djotra kathyate
+5.69ab: saṃvādī pañcamaḥ prokto ganī caiva vivādinau 
+5.69cd: anuvādī ridhadvandvaṃ geyaṃ sāyaṃ pragīyate
+5.70ab: kriyāṅgarāgoyamiti bharatādyairudīritam 
+5.70cd: kāmbhojirāgaḥ saṃpūrṇopyārohe manivakritaḥ
+
+5.71ab: sāyaṃ saṃgīyate soyaṃ saṃgītāgamapāragaiḥ 
+5.71cd: mukhārirāgaḥ saṃpūrṇo vādisaṃvādināviha 
+5.72ab: sapau vivādinau tvatra ganī caivānuvādinau 
+5.72cd: ridhāviti ca boddhavyaṃ gātavyaḥ sarvadāpyayam
+5.73ab: saṃpūrṇo devagāndhārīrāgaḥ śrīrāgamelajaḥ 
+5.73cd: gātavyaḥ prātarevaiṣa nāgadhvanirathocyate
+5.74ab: saṃpūrṇarāgo rāgāṅgaṃśaṃkarābharaṇotthitaḥ 
+5.74ab: śaṃkarābharaṇānmelātsaṃbhūtaḥ sāmarāgakaḥ
+5.75ab: saṃpūrṇaḥ satataṃ geyo mandramadhyamabhūṣitaḥ 
+5.75cd: rāgaḥ sāmavarālyākhyaḥ sāmavedasamudbhavaḥ
+5.76ab: saṃpūrṇo gīyate nityamityekatriṃśadīritāḥ 
+5.76cd: rāgāḥ salakṣaṇāḥ samyakṣaḍjanyāsagrahāṃśakāḥ 
+5.77ab: atharṣabhagrahāṇāṃ trirāgāṇāṃ lakṣma cakṣmahe 
+5.77cd: saṃpūrṇo gurjarīrāgo rāgāṅgo gaulamelajaḥ
+5.78ab: prage pragīyaḥ kathitastvavarohe dhavarjitaḥ 
+5.78cd: bhinnaṣaḍjākhyarāgoyaṃ jāto bhūpālamelataḥ
+5.79ab: saṃpūrṇaḥ prathame yāme dinasya parigīyate 
+5.79cd: revaguptistu hejjujjimelottho manivarjanāt 
+5.80ab: auḍuvaścarame yāme divasasyaiṣa gīyate 
+5.80cd: catvārotha nirūpyante rāgā gāndhārakagrahāḥ
+
+5.81ab: nārāyaṇādyadeśākṣiḥ saṃpūrṇo gīyate prage 
+5.81cd: śaṃkarābharaṇākhyānarāgamelasamudbhavaḥ
+5.82ab: saṃpūrṇa eva deśākṣīrāgaḥ prātaḥ pragīyate 
+5.82cd: melo nārāyaṇīrāgaḥ śaṃkarābharaṇoditaḥ
+5.83ab: saṃpūrṇastveṣa gātavyaḥ prātaḥ saṃgītakovidaiḥ 
+5.83cd: rāgaḥ karṇāṭabaṅgālo bhāṣāṅgaṃ gaulamelajaḥ
+5.84ab: prātaḥkāleṣu gātavyaḥ ṣāḍavoyaṃ nivarjitaḥ 
+5.84cd: sarvadāpyeṣa gātavyo gītajñaiḥ śubharaktidaḥ
+5.85ab: manyāsāṃśagrahā rāgā nirūpyante trayodhunā 
+5.85cd: jayantasenākhyarāgo jātaḥ śrīrāgamelataḥ
+5.86ab: rivarjitaḥ ṣāḍavoyaṃ sāyaṃkāle pragīyate 
+5.86cd: madhyamādistu rāgāṅgarāgaḥ śrīrāgamelajaḥ
+5.87ab: ridhalopādauḍuvoyaṃ sāyaṃkāle pragīyate 
+5.87cd: raktiretasya rāgasya muralyāṃ dṛśyatedhikā
+5.88ab: bahulī gaulamelottho rāgo madhyamavarjanāt 
+5.88cd: ṣāḍavo gīyate soyaṃ sāyaṃkāle vicakṣaṇaiḥ
+5.89ab: panyāsāṃśagrahau rāgau nirūpyete mayādhunā 
+5.89cd: nigalopādauḍuvoyamāndhālīrāga īritaḥ
+
+5.90ab: melaḥ śrīrāgamelasya kathyate gītavedibhiḥ 
+5.90cd: gaulamelasamudbhūtaḥ sāverīrāga īritaḥ
+5.91ab: ārohe ganilopoyaṃ prātargīto vicakṣaṇaiḥ 
+5.91cd: nirūpyantedhunā rāgāścatvāro dhaivatagrahāḥ 
+5.92ab: khyātā malaharī gaulamelajātā nilopataḥ 
+5.92cd: ṣāḍavatvaṃ gatā prātargātavyā gītakovidaiḥ
+5.93ab: ghaṇṭāravākhyarāgastu bhairavīmelasaṃbhavaḥ 
+5.93cd: saṃpūrṇasvarasaṃyuktaḥ sarvakāleṣu gīyate
+5.94ab: velāvalī tu bhāṣāṅgaṃ jātaḥ śrīrāgamelataḥ 
+5.94cd: saṃpūrṇabhāvaṃ bhajate prabhāte caiṣa gīyate
+5.95ab: sāyāhnarāgaḥ saṃpūrṇastūpāṅgaṃ bhairavī smṛtaḥ 
+5.95cd: vādī ṣaḍjotra saṃvādī pañcamaḥ syādvivādinau
+5.96ab: svarau niṣādagāṃdhārau ridhau caivānuvādinau 
+5.96cd: nirūpyante sapta rāgā ninyāsāṃśagrahā mayā 
+5.97ab: gaulastu ṣāḍavo rāgo rāgāṅgaṃ dhaivatojjhitaḥ 
+5.97cd: vādisaṃvādināvatra rigau śaśvatpragīyate
+5.98ab: kedāragaulaḥ saṃpūrṇaḥ kāmbhojīmelasaṃbhavaḥ 
+5.98cd: geyosau sutarāṃ raktidāyako gāyakottamaiḥ 
+5.99ab: upāṅgarāga ityevamūcire bharatādayaḥ 
+5.99cd: gaulamelodbhavaśchāyāgaulaḥ saṃpūrṇatāṃ gataḥ
+5.100ab: rītigaulākhyarāgastu bhairavīmelasaṃbhavaḥ 
+5.100cd: saṃpūrṇaścaiṣa gātavyaḥ soyaṃ saṃgītakovidaiḥ
+
+5.101ab: pūrvagaulasya melaḥ syācchuddhagaulaśca yaḥ smṛtaḥ 
+5.101cd: saṃpūrṇaścaiṣa gātavyaḥ sāyāhne gītakovidaiḥ
+5.102ab: nārāyaṇādyagaulastu saṃpūrṇaḥ parikīrtitaḥ 
+5.102cd: kedāragaulamelotthaḥ sāyāhne tveṣa gīyate
+5.103ab: rāgaḥ kannaḍagauloyaṃ jātaḥ śrīrāgamelataḥ 
+5.103cd: saṃpūrṇopi kadācitsyādārohe tyaktamadhyamaḥ 
+5.104ab: rāgaḥ siṃharavo nāma ṣaḍjanyāsagrahāṃśakaḥ 
+5.104cd: soyamasmābhirunnītaḥ saṃpūrṇo gīyate sadā
+5.105ab: lakṣitāḥ pañcapañcāśaditi rāgāḥ sphuṭaṃ mayā 
+5.105cd: gītaṭhāyaprabandhā hi tānappāryaiḥ pravartitāḥ  
+5.106ab: deśīyarāgāḥ kalyāṇīpramukhāḥ santi koṭiśaḥ 
+5.106cd: gītaṭhāyaprabandheṣu naite yogyā kadācana
+5.107ab: kalyāṇirāgaḥ saṃpūrṇa ārohe manivarjitaḥ 
+5.107cd: gītaprabandhayogyopi turuṣkāṇāmatipriyaḥ 
+5.108ab: rāgaḥ pantuvarālyākhyaḥ saṃpūrṇaḥ pāmarapriyaḥ 
+5.108cd: gītaṭhāyaprabandhānāṃ dūrād dūrataraḥ smṛtaḥ 
+5.109ab: evaṃ prakāreṇonneyā rāgā deśasamudbhavāḥ 
+5.109cd: ānanyātsaṃkarāccaiva nāsmābhirlakṣitāḥ pṛthak
+ 
+
+iti śrīmadadvaitavidyācāryasāgnicityasarvatomukhātirātra sāgnicityāptavājapeyayājigovindadīkṣita nāgamāmbikāvaradvitīyanandanasya 
+sāgnicityasarvakratuyājiyajñanārāyaṇadīkṣitāvyavahitānujasyācyutavijayarāghavabhūpālapreritasya veṅkaṭeśvaradīkṣitasya
+kṛtau caturdaṇdīprakāśikāyāṃ  pañcamaṃ rāgaprakaraṇaṃ saṃpūrṇam 
+
+ṣaṣṭhamālāpaprakaraṇam
+
+
+
+6.1ab: evaṃ rāgaprakaraṇe rāgāḥ samyaṅ nirūpitāḥ 
+6.1cd: athālāpaprakaraṇe teṣāmālāpa ucyate
+6.2ab: tatrālāpeṣu sarvatrāpyādāvākṣiptikā smṛtā 
+6.2cd: ākṣiptikaiva lokesminnāyattamiti gīyate 
+6.3ab: pīnatvena yathakṣiptaṃ svanirvāhāya bhojanam 
+6.3cd: rāgeṇāpi tathākṣiptetyādāvākṣiptikā matā
+6.4ab: ākṣiptikānantaraṃ tu kartavyā rāgavardhanī 
+6.4cd: iyameva janairloke yaḍupityabhidhīyate
+6.5ab: yasmādākṣiptikodbhūtaṃ rāgaṃ vardhayate sphuṭam 
+6.5cd: tasmādākhyāyate rāgavardhanītyabhidhānataḥ
+6.6ab: rāgavardhanyasāveva proktā karaṇamityapi 
+6.6cd: tato vidārī gātavyā loke muktāyisaṃjñitā
+6.7ab: ādyadvitīyayo rāgavardhanyośchedakatvataḥ 
+6.7cd: vidārīti vadantyevamuttaratrāpi yojyatām
+6.8ab: anantaraṃ samudgeyā dvitīyā rāgavardhanī 
+6.8cd: tasyā eva ca lokesmindvedhā yaḍupiti prathā 
+6.9ab: tadvidārī dvitīyātha tṛtīyā rāgavardhanī 
+6.9cd: tṛtīyā tadvidārī ca kartavyā tadanantaram
+6.10ab: seyaṃ tṛtīyakā rāgavardhanī tadvidārikā 
+6.10cd: vikalpena kvacitsyātāṃ na syātāṃ vā kvacitkvacit
+
+6.11ab: tataḥ sthāyī bhavettatra sthāyiśabdārtha ucyate 
+6.11cd: yatropaveśyate tānaḥ svare sthāyī sa kathyate
+6.12ab: tatrādau madhyaṣaḍjākhyaḥ sthāyī tallakṣma cakṣmahe 
+6.12cd: madhyaṣaḍjaṃ samārabhya tāraṣaḍjāvadhi kramāt
+6.13ab: bhavantyaṣṭau svarā rāge saṃpūrṇe sapta ṣāḍave 
+6.13cd: auḍuve ṣaṭ kramātteṣāmārohaḥ kramataḥ punaḥ
+6.14ab: ekaikasya svarasyaiṣāṃ tānadvitayasaṃkhyayā 
+6.14cd: madhyaṣaḍjāditārāntasvareṣvaṣṭasvapi smṛtāḥ 
+6.15ab: dvyaṣṭa tānā madhyaṣaḍjanyāsavanto bhavantyamī 
+6.15cd: tānadvayaṃ svare yasmingīyate tatpuraḥsthitāḥ
+6.16ab: na saṃgrāhyāḥ svarāḥ kiṃ tu svādhaḥsthāne gateṣvapi 
+6.16cd: āmandrarṣabhamārohāvarohakramataḥ svarān
+6.17ab: yathāyogaṃ samādāya vinyasyenmadhyaṣaḍjake 
+6.17cd: avarohepyevameva viśeṣastu pradarśyate
+6.18ab: tānadvayaṃ tāraṣaḍje gītvā tāraniṣādake 
+6.18cd: tānadvayaṃ yathā gāyettasminavasare punaḥ
+6.19ab: na saṃspṛśedevameva pañcame madhyame tathā 
+6.19cd: gāṃdhārarṣabhayormadhyaṣadjepi ca pṛthakpṛthak 
+6.20ab: tānadvaye gīyamāne spṛśennādhastanasvarān 
+6.20cd: tadevamavarohe tu grāhyā nādhastanāḥ svarāḥ
+
+
+6.21ab: ārohe tvagrimā naiva svarā grāhyā iti sthitiḥ 
+6.21cd: atrarohevarohe ca dvau dvau tānau pratisvaraṃ 
+6.22ab: tayorādimatāne tu na kāryo niṣkramaḥ svare 
+6.22cd: kiṃ tu svarasparśamātraṃ tataḥ sthāne dvitīyake
+6.23ab: kṣaṇamātraṃ svare sthitvā paścāttānaṃ samāpayet 
+6.23cd: niyamoyaṃ madhyaṣaḍjasthāyimātre prakīrtitaḥ
+6.24ab: tadevaṃ madhyaṣaḍjākhyaḥ sthāyī samanuvarṇitaḥ 
+6.24cd: evaṃ madhyaniṣādākhyasvarādāmandraṣaḍjakam
+6.25ab: sapta svarāḥ saṃbhavanti teṣu saptasvareṣvapi 
+6.25cd: nidhapādyāḥ svarā ye ye sahantevasthitiṃ pṛthak
+6.26ab: tānsvarānsthāyinaḥ kṛtva paścādārohamārgataḥ 
+6.26cd: tattatsvarāpekṣayāṣṭau svarā grāhyā yathākramam
+6.27ab: tadūrdhvaṃ vidyamānāṃstu svarāṃstāṃścaiva saṃspṛśet 
+6.27cd: evaṃ mandrasvareṣvevārohe tānacatuṣṭayam
+6.28ab: avarohe catustānāngītasthāyisvareṣvatha 
+6.28cd: nyāsaḥ kartavya ityevaṃ saṃpradāyaḥ pradarśitaḥ
+6.29ab: samāpyaivaṃ sthāyividhiṃ kuryāttadanuvartanam 
+6.29cd: vardhanīmeva lokesminnāhurmakaraṇīṃ janāḥ
+6.30ab: vardhanyāśca bhavenmandraṣaḍje tāvadupakramaḥ 
+6.30cd: nyāsastu madhyaṣaḍjetha caturthī rāgavardhanī 
+
+
+6.31ab: tatastadanusāreṇa caturthī syādvidārikā 
+6.31cd: sādhāraṇaṃ sarvarāgeṣvetadālāpalakṣaṇam
+6.32ab: tānappākṛtapañcāśadrāgālāpeṣu matkṛtam 
+6.32cd: ālāpalakṣaṇamidaṃ lakṣyatāṃ lakṣyakovidaiḥ
+
+iti śrīmadadvaitavidyācāryasāgnicityasarvatomukhātirātrasāgnicityāptavājapeyayājigovindadīkṣitanāgamāmbikāvaradvitīyanandanasya 
+sāgnicityasarvakratuyājiyajñanārāyaṇadīkṣitāvyavahitānujasyācyutavijayarāghavabhūpālapreritasya veṅkaṭeśvaradīkṣitasya
+kṛtau caturdaṇdīprakāśikāyāṃ ṣaṣṭhamālāpaprakaraṇaṃ saṃpūrṇam 
+
+
+saptamaṃ ṭhāyaprakaraṇam
+
+
+7.1ab: evaṃ ṣaṣṭhaprakaraṇe proktamālāpalakṣaṇam 
+7.1cd: saptametha prakaraṇe ṭhāyalakṣaṇamucyate 
+7.2ab: tattadrāgānusāreṇa yatra kutrāpi ca svare 
+7.2cd: sthitvā svaraṃ tamevātha sthāyinaṃ parikalpya ca
+7.3ab: tatpurovartiṣu catuḥsvareṣvatha yathākramam 
+7.3cd: tattadrāgānusāreṇārohe tānacatuṣṭayam
+7.4ab: avarohe tathā tānacatuṣṭayamiti kramāt 
+7.4cd: gītvā tānāṣṭakaṃ pañcādārabhya sthāyinaṃ svaram
+7.5ab: yaduktaṃ kaścidākalpya vinyasyenmandraṣaḍjake 
+7.5cd: sthāyisthitasya tasyaiva yaḍupasyābhidhīyate
+7.6ab: loke makariṇītyevaṃ saṃjñā muktāyikā tataḥ 
+7.6cd: ṭhāyasāmānyalakṣmedaṃ veṅkaṭādhvariṇoditam
+7.7ab: paramo gururasmākaṃ tānappācāryaśekharaḥ 
+7.7cd: sarveṣāmapi rāgāṇāmetallakṣmānusārataḥ 
+7.8ab: ṭhāyānprakalpayāmāsa lakṣyamasya tadeva saḥ
+
+iti śrīmadadvaitavidyācāryasāgnicityasarvatomukhātirātrasāgnicityāptavājapeyayājigovindadīkṣitanāgamāmbikāvaradvitīyanandanasya 
+sāgnicityasarvakratuyājiyajñanārāyaṇadīkṣitāvyavahitānujasyācyutavijayarāghavabhūpālapreritasya veṅkaṭeśvaradīkṣitasya
+kṛtau caturdaṇdīprakāśikāyāṃ saptamaṃ ṭhāyaprakaraṇaṃ saṃpūrṇam 
+
+ aṣṭamaṃ gītaprakaraṇam
+
+
+8.1ab: evaṃ ṭhāyaprakaraṇe ṭhāyāḥ samyaṅ nirūpitāḥ 
+8.1cd: aṣṭametha prakaraṇe gītajātaṃ nirūpyate
+8.2ab: nanu gīyata ityevaṃ vyutpatyālāpaṭhāyayoḥ 
+8.2cd: prabandhānāṃ ca gītatvamasti tatkiṃ nirūpyate
+8.3ab: iti ceducyate gītaśabdoyaṃ yogataḥ punaḥ 
+8.3cd: prabandhālāpaṭhāyānāṃ vācakaḥ syāttathāpyasau
+8.4ab: rūḍhyā sālagasūḍākhyagītabhedaikavācakaḥ 
+8.4cd: athaḥ sālagasūḍākhyaṃ gītamatra nirūpyate
+8.5ab: tatra sālagasūḍetiśabdasyārthaḥ pradarśyate 
+8.5cd: sūḍa ityeṣa deśīyaśabdo gītakavācakaḥ
+8.6ab: sa ca sūḍo dvidhā śuddhaśchāyālaga iti kramāt 
+8.6cd: tatra brūmaḥ prakaraṇe śuddhasūḍobhidhāsyate
+8.7ab: atha cchāyālagaḥ sūḍaśchāyā nāma samānatā 
+8.7cd: śuddhacchāyā śuddhasāmyaṃ tāṃ chāyāṃ lagatītyayam
+8.8ab: gacchatīti yatastasmācchāyālaga iti smṛtaḥ 
+8.8cd: chāyālageti śabdāpabhraṃśaḥ sālaga ityayam
+8.9ab: śuddhatvaṃ cātra śāstroktaniyamena samanvayaḥ 
+8.9cd: evaṃ sālagasūḍeti śabdasyārthaḥ pradarśitaḥ
+8.10ab: sa ca sālagasūḍākhyo dhruvādiḥ saptadhā mataḥ 
+8.10cd: ādyo dhruvastato maṭṭaḥ pratimaṭṭo nisārukaḥ
+
+8.11ab: aṭṭatālastato rāsa ekatālīti ca kramat 
+8.11cd: tatrāpi prathamoddiṣṭadhruvalakṣaṇamucyate
+8.12ab: ādau khaṇḍadvayaṃ kārye bhinnamātvekadhātukam 
+8.12cd: tatkhaṇḍadvayamudgrāho vijñeyastadanantaram
+8.13ab: udgrāhasvarataḥ kiṃciduccasvarasamanvitam 
+8.13cd: khaṇḍaṃ kuryādidaṃ khaṇḍatrayaṃ dvirgeyamiṣyate
+8.14ab: tato dvikhaṇḍa ābhogaḥ stutyanāmāṅkitaḥ smṛtaḥ 
+8.14cd: uccasvaraikakhaṇḍaḥ syādābhoga iti kecana
+8.15ab: udgrāhasyādyakhaṇḍe ca nyāso yatra sa tu dhruvaḥ 
+8.15cd: taṃ ca dhruvaṃ dvyaṣṭavidhaṃ vadanti bharatādayaḥ
+8.16ab: ekādaśākṣarātkhaṇḍādekaikākṣaravardhitaiḥ 
+8.16cd: khaṇḍairdhruvā dvyaṣṭavidhāḥ ṣaḍviṃśatyakṣarāvadhi
+8.17ab: jayantaḥ śekharotsāhau tato madhuranirmalau 
+8.17cd: kuntalaḥ komalaścāro nandanaścandraśekharaḥ
+8.18ab: kāmado vijayākhyaśca kaṃdarpo jayamaṅgalaḥ 
+8.18cd: tilako lalitaśceti saṃjñāsteṣāṃ kramādimāḥ
+8.19ab: āditālena śṛṅgāre jayanto gīyate budhaiḥ 
+8.19cd: śekharo gīyate vīre rase niḥsārutālataḥ
+8.20ab: utsāhaḥ pratimaṭṭena hāsye tālena gīyate 
+8.20cd: madhuro bhogado geyaḥ karuṇe hayalīlayā
+
+
+8.21ab: krīḍātālena śṛṅgāre gīyate nirmalo dhruvaḥ 
+8.21cd: laghuśekharatālena kuntalo gīyatedbhute 
+8.22ab: keralo vipralambhe ca jhompatālena gīyate 
+8.22cd: harṣado gīyate cāro vīre niḥsālutārataḥ
+8.23ab: nandano vīraśṛṅgāre tvekatālena gīyate 
+8.23cd: vīre hāsye ca śṛṅgāre pratimaṭṭena gīyate
+8.24ab: abhīṣṭaphaladaḥ śrotṛgātṛṛṇāṃ candraśekharaḥ 
+8.24cd: pratimaṭṭena śṛṅgāre gātavyaḥ kāmadadhruvaḥ
+8.25ab: hāsye dvitīyatālena gāyanti vijayadhruvam 
+8.25cd: kaṃdarpo hāsyaśṛṅgārakaruṇeṣvāditālataḥ
+8.26ab: krīḍātālena śṛṅgāre gātavyo jayamaṅgalaḥ 
+8.26cd: tilako vīraśṛṅgāre tvekatālyā pragīyate
+8.27ab: pratimaṭṭena śṛṅgāre gīyate lalitadhruvaḥ 
+8.27cd: syādvarṇaniyamaḥ sarvakhaṇḍe khaṇḍadvaye yathā
+8.28ab: iti dhruvaṃ nirūpyātha maṭṭalakṣaṇamucyate 
+8.28cd: yatidvayaṃ vaikayatiryatrodgrāhākhyakhaṇḍake
+8.29ab: dhruvakhaṇḍaṃ tatastacca dvivāraṃ geya iṣyate 
+8.29cd: tad gītvā dhruvamāgatya cābhogo gīyate sakṛt
+8.30ab: dhruve nyāsastataḥ proktaḥ sa maṭṭo maṭṭatālakaḥ 
+8.30cd: jayapriyo maṅgalaśca sundaro vallabhastathā
+
+8.31ab: kalāpaḥ kamalaśceti ṣaḍ bhedā maṭṭake matāḥ 
+8.31cd: ṣaṭprakāro maṭṭatālastena gītiśca vidyate
+8.32ab: vīre jayapriyo geyo maṭṭena jagaṇātmanā 
+8.32cd: ādyantayorlaghurmadhye guruścejjagaṇaḥ smṛtaḥ
+8.33ab: geyo bhagaṇamaṭṭena śṛṅgāre maṅgalābhidhaḥ 
+8.33cd: ādau gururlaghudvandvaṃ paścāccedbhagaṇaḥ smṛtaḥ
+8.34ab: yuktaḥ sagaṇamaṭṭena śṛṅgāre sundaro mataḥ 
+8.34cd: ādau laghudvayaṃ cānte guruścetsagaṇo mataḥ
+8.35ab: jñeyo ragaṇamaṭṭena vallabhaḥ karuṇe rase 
+8.35cd: ādyantayorgururmadhye laghuścedragaṇo mataḥ
+8.36ab: virāmāntena nagaṇo maṭṭatālena gīyate 
+8.36cd: hāsye rase kalāpākhyaḥ kamalastvadbhute rase
+8.37ab: virāmāntadrutadvandvopari laghvāttamaṭṭataḥ 
+8.37cd: nagaṇastrilaghuḥ prokta iti maṭṭo nirūpitaḥ
+8.38ab: athoddeśakrameṇaiva pratimaṭṭo nirūpyate 
+8.38cd: maṭṭavatpratimaṭṭasya lakṣmodgrāhādike matam
+8.39ab: pratimaṭṭābhidhastālaviśeṣotra prakīrtitaḥ 
+8.39cd: pratimaṭṭaścaturdhā syādamarastārasaṃjñitaḥ
+8.40ab: vicāraḥ kuntanāmā cetyeteṣāṃ lakṣaṇaṃ bruve 
+8.40cd: amaro guruṇaikena śṛṅgāre gīyate rase
+
+
+8.41ab: virāmāntadrutadvandvāllaghudvandvena gīyate 
+8.41cd: tārākhyaḥ pratimaṭṭosau rasayorvīraraudrayoḥ
+8.42ab: laghutrayādvirāmāntādvicāraḥ karuṇe bhavet 
+8.42cd: virāmamadhyakalaghutrayātkuntodbhute smṛtaḥ
+8.43ab: pratimaṭṭaṃ nirūpyaivaṃ niḥsārorlakṣaṇaṃ bruve 
+8.43cd: baddhā niḥsārutālena niḥsāruriti kīrtitā
+8.44ab: vaikundānandakāntārasamarā vāñchitastathā 
+8.44cd: viśālaśceti niḥsārugītabhedā ṣad dīritāḥ
+8.45ab: drutadvandvopari laghudvandvādvaikunda ucyate 
+8.45cd: bhavedānanda ānando virāmāntadrutadvayāt
+8.46ab: vipralambhe tu kāntāro laghuna guruṇā smṛtaḥ 
+8.46cd: laghudvayādvirāmāntātsamaro nāma kīrtitaḥ
+8.47ab: laghudvayāddrutadvandvādvāñchitaḥ kathyate budhaiḥ 
+8.47cd: laghudrutadvaye punarlaghubhiḥ syādviśālakaḥ
+8.48ab: niḥsārukaṃ nirūpyaivamaṭṭatālobhidhīyate 
+8.48cd: maṭṭatālena saṃyuktamaṭṭatālaṃ pracakṣate
+8.49ab: niḥśaṅkaḥ śaṅkhaśīlau ca cārotha makarandakaḥ 
+8.49cd: vijayaśceti ṣaḍbhedānaṭṭatāle pracakṣate
+8.50ab: lagurubhyāṃ drutadvandvānniḥśaṅko vismaye bhavet 
+8.50cd: laghordrutadvayena syācchaṅkhaḥ śṛṅgāravīrayoḥ
+
+
+8.51ab: śānte śīlo virāmāntāddrutadvandvāllaghurbhavet 
+8.51cd: drutadvandvopari laghugurubhyāṃ cāra īritaḥ
+8.52ab: makarando drutadvandvānantaraṃ guruṇā smṛtaḥ 
+8.52cd: vijayastu drutadvandvānantaraṃ laghunā smṛtaḥ
+8.53ab: ityaṭṭatālaḥ kathito rāsakotha nirūpyate 
+8.53cd: nibaddho rāsatālena rāsakaḥ sa caturvidhaḥ
+8.54ab: vinādo varado nandaḥ kambukaścetyanukramāt 
+8.54cd: ālāpāntād dhruvapadādvinodaḥ kautuke smṛtaḥ
+8.55ab: dhruvādālāpamadhyāttu varado devatāsmṛtau 
+8.55cd: khaṇḍamādyaṃ dvikhaṇḍasyodgrāhasyālāpanirmitam
+8.56ab: yasyāsau rāsako nando gīyatedbhuta eva saḥ 
+8.56cd: ālāpāderdhruvapadātkambujaḥ karuṇe bhavet
+8.57ab: sarveṣu rāsakeṣveṣu dvikhaṇḍodgrāhakalpanā 
+8.57cd: ityuktvā rāsakaṃ gītamekatālī nirūpyate
+8.58ab: ekatālī bhavedekatālyā sā ca tridhā smṛtā 
+8.58cd: ramā ca candrikā tadvadvipuletyatha lakṣaṇam
+8.59ab: sakṛddviyatirudgrāhontarastvakṣaranirmitaḥ 
+8.59cd: yasyāmasau ramā nāma prathamo bheda iṣyate
+8.60ab: udgrāho dvidalo yasyāmālāparacitontaraḥ 
+8.60cd: ekatālī candrikā sā dvitīyo bheda iṣyate
+
+8.61ab: ālāpapūrvakodgrāhā vipulākhyaikatālikā 
+8.61cd: ālāpī gamakālaptirakṣarairvarjitā matā 
+8.61ef: saptasālagasūḍānāmiti lakṣaṇamīritam
+
+iti śrīmadadvaitavidyācāryasāgnicityasarvatomukhātirātrasāgnicityāptavājapeyayājigovindadīkṣitanāgamāmbikāvaradvitīyanandanasya 
+sāgnicityasarvakratuyājiyajñanārāyaṇadīkṣitāvyavahitānujasyācyutavijayarāghavabhūpālapreritasya veṅkaṭeśvaradīkṣitasya
+kṛtau caturdaṇdīprakāśikāyāṃ  aṣṭamaṃ gītaprakaraṇaṃ saṃpūrṇam 
+
+navamaṃ prabandhaprakaraṇam
+
+
+9.1ab: evaṃ gītaprakaraṇe gītaṃ samyaṅ nirūpitam 
+9.1cd: navametha prakaraṇe prabandhoyaṃ nirūpyate 
+9.2ab: nanu prabadhyata iti vyutpatyā nāsti bhinnatā 
+9.2cd: gītaprabandhayostasmātpṛthakprakaraṇaṃ vṛthā
+9.3ab: ucyate ṣaḍbhiraṅgaiśca caturbhirdhātubhiśca yaḥ 
+9.3cd: nibaddhaḥ svarasaṃdarbhastasminneva hi bhūriśaḥ
+9.4ab: prabandha iti lokānāṃ vyavahāro nirīkṣyate 
+9.4cd: ataḥ prabandhaśabdotra nirūḍhaḥ paṅkajādivat
+9.5ab: gītaprabandhayorevaṃ bhedo yadi na kalpyate 
+9.5cd: kutaḥ sidhyeccaturdaṇḍī kutto gopālanāyakaḥ
+9.6ab: prayuktaṃ tu caturdaṇḍītyato gītaprabandhayoḥ 
+9.6cd: bhedātpṛthakprakaraṇaṃ prabandhārthaṃ pravartate
+9.7ab: nibaddhaḥ ṣaḍbhiraṅgaiśca caturbhirdhātubhiśca yaḥ 
+9.7cd: svaraughaḥ sa prabandhaḥ syadityuktaṃ tatra kāni tu
+9.8ab: ṣaḍaṅgānīti cetbrūmaḥ svaraśca birudaṃ padam 
+9.8cd: tenakaḥ pāṭatālau cetyetānyaṅgāni ṣaṭ punaḥ
+9.9ab: prabandhasyāṅgino jñeyānyanyadratnākare sphuṭam 
+9.9cd: tatra svarāstu ṣaḍjādyāḥ śabdā dhvanyātmakā iti 
+9.10ab: svaraprakaraṇe proktaṃ prabandhāṅgasvarāstviha 
+9.10cd: sarigādyāḥ sapta varṇāḥ ṣaḍjādidhvanivācakāḥ 
+
+
+9.11ab: svarābhivyaktisaṃyuktāḥ svaraśabdena kīrtitāḥ 
+9.11cd: saṃbuddhyantapadaireva neturyadupabaddhate 
+9.12ab: varṇanaṃ dhairyaśauryāderbirudaṃ nāma tanmatam 
+9.12cd: kriyākārakasaṃbandharūpeṇa yadi badhyate
+9.13ab: tadevaṃ dhairyaśauryādervarṇanaṃ tatpadaṃ smṛtam 
+9.13cd: ato na saṃkarāśaṅkā birudasya padasya ca  
+9.14ab: tenako nāma teneti śabdasya vikṛtirbhavet 
+9.14cd: vikṛtatvaṃ ca bhāṇḍīrabhāṣayāsya samāgatam
+9.15ab: soyaṃ teneti śabdaśca tacchabdopanibandhanaḥ 
+9.15cd: tacchabdaśca bhavennityakalyāṇabrahmavācakaḥ
+9.16ab: oṃ tatsaditi nirdeśāttatvamasyādivākyataḥ 
+9.16cd: tathā ca yatprabandheṣu tena teneti dṛśyate
+9.17ab: tasyāyamarthastenāyaṃ brahmaṇā maṅgalātmanā 
+9.17cd: prabandhe lakṣita iti pāṭo vādyākṣarotkaraḥ
+9.18ab: rudravīṇāsamudbhūtāḥ pāṭāstakatanādayaḥ 
+9.18cd: śaṅkhādimukhavādyotthāḥ pāṭāsthulathugādayaḥ
+9.19ab: urovādyabhavāḥ pāṭā dhiṃtadhiṃtakiṇādayaḥ 
+9.19cd: evamanyepi vijñeyāḥ pāṭā lakṣyānusārataḥ 
+9.20ab: tālastālaprakaraṇe saprapañcobhidhāsyate 
+9.20cd: ityaṅgāni ṣaḍuktāni nirūpyantetha dhātavaḥ
+
+
+9.21ab: dhāturnāma prabandhasyāvayavaḥ sa caturvidhaḥ 
+9.21cd: udgrāhaḥ prathamastatra tato melāpakadhruvau 
+9.22ab: ābhogaścetyathaiteṣāṃ kramāllakṣaṇamucyate 
+9.22cd: prabandhasyādimo bhāga udgrāhaḥ parikīrtitaḥ
+9.23ab: ādāvudgṛhyate gītamanenārabhyate yataḥ 
+9.23cd: mithomelanahetutvādudgrāhadhruvayordvayoḥ
+9.24ab: melāpakaḥ prabandhasya dvitīyo bhāga ucyate 
+9.24cd: dhruvatvāddhruvasaṃjñastu tṛtīyovayavaḥ smṛtaḥ
+9.25ab: prabandhasya yadābhogaṃ paripūrtiṃ karoti tat 
+9.25cd: ābhogaḥ sa prabandhasya turīyāvayavaḥ smṛtaḥ
+9.26ab: dhruvābhogāntare jāto yatastenāntarābhidhaḥ 
+9.26cd: pañcamopyaparo dhāturyadyapyasti tathāpyasau
+9.27ab: gīteṣvevaṃ paraṃ dṛṣṭastrikhaṇḍeṣveva teṣvapi 
+9.27cd: upayuktāḥ prabandhasya catvāro dhātavastataḥ
+9.28ab: ṣaḍaṅgairlakṣitairitthaṃ caturbhirdhātubhiśca yaḥ 
+9.28cd: nibaddhaḥ svarasaṃdarbhaḥ sa prabandha iti sthitam
+9.29ab: sa ca pañcavidhaḥ prokto medinījātimānatha 
+9.29cd: ānandinījātimāṃśca dīpanījātimāṃstathā
+9.30ab: bhāvanījātimāṃścātha tārāvalyākhyajātimān 
+9.30cd: tatra svarādibhiḥ ṣaḍbhiraṅgairyuktā tu medinī
+
+9.31ab: aṅgapañcakasaṃyuktā jātirānandinī smṛtā 
+9.31cd: caturaṅgayutā jātirdīpanīti prakīrtitā
+9.32ab: aṅgatrayavatī jātirākhyātā bhāvanī budhaiḥ 
+9.32cd: jātiraṅgadvayopetā tārāvalyabhidhīyate
+9.33ab: ekāṅgasaṃgatā jātirna nibandheṣu vidyate 
+9.33cd: etābhijātibhiryuktā ye prabandhāstu pañcabhiḥ
+9.34ab: te tattajjātimatsaṃjñāṃ bhajantīti vyavasthitiḥ 
+9.34cd: parityaktāṅganāmāni pañcāṅgādyāsu jātiṣu
+9.35ab: tattajjātiprabandhānāṃ lakṣaṇeṣu pracakṣmahe 
+9.35cd: punaḥ prabandhastrividho mataṅgādyairudīritaḥ
+9.36ab: dvidhātukastridhātuśca caturdhāturiti kramāt 
+9.36cd: atra sāṃgītikaireṣā paribhāṣāvadhāryatām 
+9.37ab: prabandhamātra udgrāhadhruvau dvau niyatau smṛtau 
+9.37cd: vinodgrāhaṃ prabandhasyārambha eva na saṃbhavet
+9.38ab: dhruvatvameva nāstyetaddhruvasya ca vivarjane 
+9.38cd: evaṃ sthite prabandhoyaṃ dvidhaturiti yatra tu 
+9.39ab: tatrodgrāhadhruvau grāhyau melāpābhogavarjanāt 
+9.39cd: athocyate caturdhātuḥ prabandha iti yatra tu 
+9.40ab: tatrodgrāhādayo grāhyāścatvāropi ca dhātavaḥ 
+9.40cd: yatra tūktaṃ prabandoyaṃ tridhāturiti tatra kim 
+
+
+9.41ab: melāpakasya saṃtyāga ābhogasyeti saṃśayaḥ 
+9.41cd: bhavatyeva tathāpyagre prabandheṣu tridhātuṣu
+9.42ab: vinābhogaṃ prabandhasya tridhātoḥ kvāpyadarśanāt 
+9.42cd: tyāgo melāpakasyaiva veditavyastridhātuṣu 
+9.43ab: saṃpradāyodhunā kaścitprabandheṣu pradṛśyate 
+9.43cd: iha prabandhā ye yuktāḥ pṛthagābhogadhātunā
+9.44ab: teṣvābhogaṃ dvidhā kṛtvā pūrvārdhaṃ tālavarjitam 
+9.44cd: ālāparūpaṃ kāryaṃ talloke vākyamitīryate
+9.45ab: dvitīyārdhaṃ tālayuktaṃ kartavyamiti nirṇayaḥ 
+9.45cd: tatrādyārdhe prabandhasya gātuścākhyāṃ prayojayet
+9.46ab: dvitīyārdhaṃ tu varṇasya nāmadheyamiti sthitiḥ 
+9.46cd: ālāpadhātoḥ sarvatra svarūpamidameva hi
+9.47ab: lakṣye tvidānīṃ kaivāḍaprabandhādiṣu keṣucit 
+9.47cd: ābhogā vartamānā ye teṣvevoktaprakārataḥ
+9.48ab: ālapakhaṇḍānālāparūpakhaṇḍatvamiṣyate 
+9.48cd: tattu sarvatra kartavyaṃ prabandhābhogadhātuṣu
+9.49ab: punaḥ prabandho niryuktāniryuktatvena ca dvidhā 
+9.49cd: niryuktaḥ sa bhavecchandastālarāgādikasya yaḥ
+9.50ab: niyamenopabaddhaḥ syāttasyaiva niyamaṃ vinā 
+9.50cd: nibaddhaḥ syādaniryuktaśchandastālādikasya ca
+
+9.51ab: niyatastvamukenaiva cchandasā tvamunaiva ca 
+9.51cd: tālenāmukarāgeṇāpyanayaiva ca bhāṣayā
+9.52ab: prabandhoyaṃ nibaddhaḥ syādityevaṃ rūpa ucyate 
+9.52cd: evaṃ niyamarāhityamevāniyama īritaḥ 
+9.53ab: tatra tāvatprabandhānāṃ dvidhātutvaṃ tridhātutā 
+9.53cd: niryuktatvaṃ tadanyatvaṃ tattallakṣma tu vakṣyate
+9.54ab: idānīṃ tu prabandhānāṃ lakṣaṇaṃ vaktumāditaḥ 
+9.54cd: medinyādikrameṇaiva tattajjātīmatopi ca
+9.55ab: prabandhānuddiśāmyatra prabandhasukhabuddhaye 
+9.55cd: śrīraṅgaḥ śrīvilāsaśca pañcabhaṅgirataḥ param
+9.56ab: pañcānanomātilakau karaṇaṃ siṃhalīlakaḥ 
+9.56cd: medinījātimantomī prabandhāḥ sapta kīrtitāḥ
+9.57ab: pañcatāleśvaro varṇasvaro vastvābhidhānakaḥ 
+9.57cd: vijayastripadākhyaśca tato haravilāsakaḥ
+9.58ab: caturmukhaḥ paddhaḍī śrīvardhano harṣavardhanaḥ 
+9.58cd: ānandinījātimantaḥ prabandhā daśa kīrtitāḥ
+9.59ab: sudarśanaḥ svarāṅgaśca tribhaṅgiścaiva kandukaḥ 
+9.59cd: vadanaṃ ceti pañcaite dīpanījātisaṃyutāḥ
+9.60ab: varṇo gadyaṃ tataḥ kandaḥ kaivāḍaścāṅgacāriṇī 
+9.60cd: vartanyāryā ca gāthā ca tataḥ krauñcapadaḥ smṛtaḥ
+
+9.61ab: kalahaṃsastoṭakaśca haṃsalīlaścatuṣpadī 
+9.61cd: vīraśrīrmaṅgalācāro daṇḍakaścetyamī punaḥ
+9.62ab: dvaṣṭa prabandhā uddiṣṭā bhāvanījātisaṃgatāḥ 
+9.62cd: elā ḍheṅkī jhompaṭaśca lambharāsaikatalikā
+9.63ab: cakravākaḥ svarārthaśca mātṛkā dhvanikuṭṭinī 
+9.63cd: tripadī ṣaṭpadī caiva jhampaṭaścaccarī tathā
+9.64ab: caryā ca rāhaḍī caiva dhavalo maṅgalastathā 
+9.64cd: ovī lolī ḍhollarī ca dantī dvāviṃśa ityamī 
+9.65ab: tārāvalījātimantaḥ prabandhāḥ parikīrtitāḥ 
+9.65cd: ityekajātimantomī prabandhāḥ ṣaṣṭirīritāḥ
+9.66ab: atra prabandhāḥ kīrtyante jātidvayasamanvitāḥ 
+9.66cd: hayalīleti ca tathā gajalīletyubhāvapi 
+9.67ab: tārāvalīdīpanībhyāṃ sametāviti nirṇayaḥ 
+9.67cd: dvipadī ca dvipathako vṛttaṃ ceti trayastvamī
+9.68ab: prabandhā bhāvanītārāvalījātidvayānvitāḥ 
+9.68cd: ghaṭanāmā prabandhastu dīpanībhāvanīyutaḥ
+9.69ab: iti dvijātimantomī ṣaṭ prabandhāḥ prakīrtitāḥ 
+9.69cd: tālārṇavastathā rāgakadambaścetyubhau smṛtau
+9.70ab: medinīpramukhābhiśca pañcabhirjātibhiryuto 
+9.70cd: atoddiṣṭaprabandhānāṃ kramāllakṣaṇamucyate
+
+9.71ab: śrīraṅgasya prabandhasya catasraḥ khaṇḍikāḥ smṛtāḥ 
+9.71cd: pratikhaṇḍikamekaiko rāgastālaśca vāñchitaḥ
+9.72ab: pratikhaṇḍikamapyante prayojyaṃ niyamātpadam 
+9.72cd: tadanyāni svarādīni pañcāṅgānyaicchikakramāt
+9.73ab: prayojyānyatra cādyārdhaṃ pratikhaṇḍikamasti yat 
+9.73cd: sa udgrāho dvitīyārdhaṃ dhruva ityeṣa nirṇayaḥ
+9.74ab: na sto melāpakābhogāvābhogavirahepi ca 
+9.74cd: turīyāyāḥ khaṇḍikāyā ante nāmāṅkanaṃ padaiḥ
+9.75ab: gātṛnetṛprabandhānāṃ kāryaṃ tena dvidhātukaḥ 
+9.75cd: prabandhoyaṃ bhavecchandastālādyaniyamena ca 
+9.76ab: nibaddhatvādaniryukta iti śrīraṅgalakṣaṇam  
+9.76cd: śrīvilāsaprabandhasya kartavyāḥ pañcakhaṇd dikāḥ
+9.77ab: pratikhaṇḍikamekaiko rāgastālaśca vāñchitaḥ 
+9.77cd: pratikhaṇḍikamapyante prayoktavyāḥ svarāḥ param
+9.78ab: aicchikena krameṇaiva yojyaṃ śiṣṭāṅgapañcakam 
+9.78cd: dvidhātutvādikaṃ sarvaṃ śrīraṅgavaditi sthitiḥ
+9.79ab: pañcabhaṅgiprabandhasya khaṇḍike dve prakalpayet 
+9.79cd: pratikhaṇḍikamekaiko rāgastālaśca vāñchitaḥ
+9.80ab: tenakonte prayoktavyaḥ pratikhaṇḍikamatra tu 
+9.80cd: śiṣṭamanyatparijñeyaṃ śrīraṅgākhyaprabandhavat
+
+
+
+9.81ab:pañcabhaṅgirasāveva dvayoḥ khaṇḍikayoḥ pṛthak 
+9.81cd: ante padānvitaḥ syāccettadā pañcānano bhavet
+9.82ab:anyatpūrvavadunneyamatomātilakābhidhe 
+9.82cd: prabandhe khaṇḍikāstisraḥ kartavyāḥ pratikhaṇd dikam 
+9.83ab:rāgastālastathaikaiko vāñchitaḥ pratikhaṇḍitam 
+9.83cd: ante tu birudaṃ yojyamanyacchrīraṅgavadbhavet
+9.84ab:śrīraṅgādyāstu pañcomātilakāntā ime smṛtāḥ 
+9.84cd: ṣaḍbhiraṅgairnibaddhatvānmedinījātisaṃgatāḥ
+9.85ab: athoddeśakramaprāptaṃ karaṇaṃ lakṣyate sphuṭam 
+9.85cd: iṣṭasvare prabandhasyārambho mokṣoṃśakasvare
+9.86ab: rāsastālo drutākhyastu laya etaiḥ sametatā 
+9.86cd: jñeyaṃ karaṇasāmānyalakṣma taccāṣṭadhā matam
+9.87ab: svarādyaṃ pāṭapūrvaṃ ca bandhādyaṃ ca padādimam 
+9.87cd: tenādyaṃ birudādyaṃ ca citrādyaṃ miśrapūrvakam
+9.88ab: eteṣāṃ lakṣaṇānyaṣṭakaraṇānāṃ kramādbruve 
+9.88cd: yatodgrāhadhruvau sāndrasvarabaddhau padaiḥ punaḥ
+9.89ab: ābhogaḥ syādgātṛnetṛprabandhāhvayacihnitaḥ 
+9.89cd: tattu svarādyakaraṇaṃ tadvadanyādyapi sphuṭam
+9.90ab: kiṃ tūdgrāhasvarasthāne teṣāṃ bhedosti tad bruve 
+9.90cd: syātpāṭakaraṇaṃ baddhaṃ hastapāṭayutaiḥ svaraiḥ
+
+9.91ab: kramavyatyāsabhedena tadapi dvividhaṃ smṛtam 
+9.91cd: ādau svarāstato hastapāṭaścetkrama ucyate
+9.92ab: prathamaṃ hastapāṭotha svarāścettadudīritam 
+9.92cd: vyatyāsapāṭakaraṇaṃ mataṅgabharatādibhiḥ
+9.93ab: svarairmurajapāṭaiśca yatodgrāhadhruvāvubhau 
+9.93cd: krameṇopanibadhyete tadbandhakaraṇaṃ viduḥ
+9.94ab: svaraiḥ padairviracyete yatodgrāhadhruvau kramāt 
+9.94cd: tadā padādyaṃ karaṇaṃ manyante gītakovidāḥ
+9.95ab: yatrodgrāhaḥ svarairbaddhastenakaistu dhruvo bhavet 
+9.95cd: tattenakaraṇaṃ nāma prabandhaṃ paricakṣate
+9.96ab: svaraiśca birudaiḥ syātāṃ yatrodgrāhadhruvau kramāt 
+9.96cd: birudādyaṃ tathā proktaṃ karaṇaṃ lakṣyakovidaiḥ
+9.97ab: svaraiśca hastapāṭaiśca yatodgrāho viracyate 
+9.97cd: pāṭairmurajasaṃbhūtaiḥ padaiśca syādatha dhruvaḥ
+9.98ab: taccitrakaraṇaṃ nāma prabandhaṃ sūrayo viduḥ 
+9.98cd: svaraiḥ pāṭaistenakaiśca yatodgrāho nibadhyate
+9.99ab: taireva ceddhruvopi syāttanmiśrakaraṇaṃ viduḥ 
+9.99cd: nanu citrasya miśrasya ko bheda iti cecchṛṇu
+9.100ab: tilataṇḍulavajjāto mithovayavasaṃkaraḥ 
+9.100cd: citratvaṃ miśratā nāma bhavetkṣīrāmbunoriva
+
+
+9.101ab: mithovayavasāṃkaryamiti bhedastayordvayoḥ 
+9.101cd: nirūpitāni karaṇānyevaṃ navavidhānyapi
+9.102ab: vyatyāsapāṭakaraṇaprabandhena saha sphuṭam 
+9.102cd: navaitāni tridhātutvātpratyekaṃ kālabhedataḥ
+9.103ab: maṅgalārambhakādyākhyāviśeṣaiḥ saptaviṃśatiḥ 
+9.103cd: ityuktaṃ śārṅgiṇā tattu vyāmohaikaprayojanam
+9.104ab: niryuktoyaṃ prabandhaḥ syāttālasya niyamo yataḥ 
+9.104cd: ya āditāla ityukta ekena laghunā yutaḥ 
+9.105ab: rāsatāla iti proktaḥ sa evātreti nirṇayaḥ 
+9.105cd: melāpakasya virahāttridhāturiti kīrtitaḥ
+9.106ab: svarādīnāṃ ṣaḍaṅgānāṃ karaṇeṣu navasvapi 
+9.106cd: paryāyeṇa niviṣṭatvānmedinījātimānayam
+9.107ab: athoddeśakramaprāptaḥ siṃhalīlo nirūpyate 
+9.107cd: svaraiḥ pāṭaiśca birudaistenakaiśca krameṇa ca
+9.108ab: viracyate siṃhalīlānāmnā tālena sa smṛtaḥ 
+9.108cd: prabandhaḥ siṃhalīlākhyaḥ siṃhalīle drutāstrayaḥ
+9.109ab: ādyantayorlaghūpetāstvatra ca svarapāṭakaiḥ 
+9.109cd: udgrāhaṃ kalpayeddhātuṃ virudaistenakairdhruvam
+9.110ab: padaiḥ kuryadathābhogaṃ tenāyāṃ syāttridhātukaḥ 
+9.110cd: niryuktastālaniyamādaṅgaiḥ ṣaḍbhiḥ svarādibhiḥ
+
+
+9.111ab: nibaddhatvādbhavatyeṣa medinījātisaṃgataḥ 
+9.111cd: tadevaṃ medinījātiprabandhāḥ sapta lakṣitāḥ
+9.112ab: ānandinījātimatāmathoddiṣṭaḥ purā hi yaḥ 
+9.112cd: pañcatāleśvaro nāma prabandhaḥ sa nirūpyate
+9.113ab: atālaḥ prathamaṃ rāgālāpaḥ syāttadanantaram 
+9.113cd: parasparaṃ bhinnadhātumātukaṃ padapañcakam
+9.114ab: caccatpuṭākhyatālena yuktam dvirgeyamiṣyate 
+9.114cd: ante pratipadaṃ caccatpuṭenaiva samanvitān  
+9.115ab: svarānaicchikapāṭāṃśca krameṇa parikalpayet 
+9.115cd: pañcamasya padasyānte pūrvaṃ pāṭāstataḥ svarāḥ
+9.116ab: geyā iti tatastatra vyutkramaḥ svarapāṭayoḥ 
+9.116cd: evaṃvidhānāṃ pañcānāṃ padānāṃ samanantaram
+9.117ab: caccatpuṭasya tālasyaivāvṛttadvayamānataḥ 
+9.117cd: pāṭaiḥ paṭahasaṃbhūtairantaraṃ parikalpayet
+9.118ab: tatasścācapuṭākhyānatālena padapañcakam 
+9.118cd: parasparaṃ bhinnadhātuyuktaṃ dvirgeyamiṣyate
+9.119ab: ante pratipadaṃ cācapuṭenaiva yutānsvarān 
+9.119cd: pāṭāṃśca pūrvavadgāyetpañcamasya padasya tu
+9.120ab: ante svarāṇāṃ pāṭānāṃ vyutkramaḥ pūrvavadbhavet 
+9.120cd: tatascācapuṭasyaiva tvāvṛttadvayamānataḥ
+
+
+9.121ab: hauḍukkapāṭaiḥ kalayedantaraṃ tadanantaram 
+9.121cd: ṣaṭpitāputrakākhyena tālena padapañcakam
+9.122ab: pūrvavadracayedante tathā pratipadaṃ svarāḥ 
+9.122cd: pāṭāśca kramato geyāḥ ṣaṭpitāputrakānvitāḥ
+9.123ab: pañcamasya padasyānte pūrvavadvyutkramastayoḥ 
+9.123cd: ṣaṭpitāputrakasyāyaṃ tālasyāvṛttayugmataḥ
+9.124ab: antaraṃ śaṅkhasaṃbhūtaiḥ pāṭairviracayettataḥ 
+9.124cd: saṃpakveṣṭākatālena ṣaṭ padāni prakalpayet
+9.125ab: dvirgānaṃ ca mithobhinnadhātutvādi ca pūrvavat 
+9.125cd: pūrvavacca pratipadamante syuḥ svarapāṭakāḥ
+9.126ab: pāṭairmurajasaṃbhūtairantaraṃ parikalpayet 
+9.126cd: tata udghaṭṭatālenābhogaṃ drutalayānvitam
+9.127ab: gātṛnetṛprabandhākhyābhūṣitaṃ parikalpayet 
+9.127cd: atrābhoge drutalayākhyānādanyeṣu dhātuṣu
+9.128ab: madhyo vilambito vā syāllaya ityavagamyatām 
+9.128cd: ābhogānte ca kurvīta tenakaṃ tadanantaram
+9.129ab: prabandhādisthitālāpe mokṣa evaṃvidhastu yaḥ 
+9.129cd: pañcatāleśvaro nāma soyamanvarthasaṃjñakaḥ 
+9.130ab: sa ca dvedhā vīrarase gīto vīrāvatārakaḥ 
+9.130cd: śṛṅgāre tu rase gītaḥ śrṛṅgāratilakaḥ smṛtaḥ
+
+9.131ab: tālaprakaraṇe caccatpuṭādirlakṣyayiṣyate 
+9.131cd: tatra ca pratitālaṃ yadādyamasti padadvayam
+9.132ab: udgrāhaḥ sa tadanyāni padāni syāddhruvastataḥ 
+9.132cd: anantarastadābhogaścaturdhāturayaṃ tataḥ
+9.133ab: nanvantarasya niyamo gīteṣveva puroditaḥ 
+9.133cd: satyaṃ vacanasāmarthyātprabandheṣvapi kutracit
+9.134ab: bhaviṣyatyantaro vidyā niṣādasthapateriva 
+9.134cd: tālānāṃ niyamāccaiva niryukta iti kīrtyate
+9.135ab: pañcāṅgo birudābhāvādānandinyākhyajātimān 
+9.135cd: atha varṇasvaraṃ brūmo yatra syādaicchikaḥ kramaḥ
+9.136ab: svarāṇāmapi pāṭānāṃ padānāṃ tenakasya ca 
+9.136cd: tenake ca bhavenmokṣaḥ sa varṇasvara ucyate
+9.137ab: caturdhā sa svarasyādau vinyāsaḥ prathamo bhavet 
+9.137cd: pāṭanāmādivinyāso dvitīyaḥ parikīrtitaḥ
+9.138ab: padānamādivinyāsāttṛtīyo bheda ucyate 
+9.138cd: tenānāmādivinyāsāccaturtho bheda iṣyate
+9.139ab: ekasminnādivinyaste svarādiṣu caturṣvapi 
+9.139cd: tadanyeṣāṃ trayaṇāṃ syādvinyāsaḥ vāñchitakramāt
+9.140ab: atra svarādiṣu dvābhyāmudgrāhaṃ parikalpayet 
+9.140cd: dvābhyāṃ dhruvamathābhogaṃ padaiḥ kuryādatastvayam
+
+
+9.141ab: syāttridhāturaniryuktastālādyaniyamātmakaḥ 
+9.141cd: pañcāṅgo birudābhāvādānandinyākhyajātimān
+9.142ab: pañca vastuprabandhasya pādāṃstāvatprakalpayet 
+9.142cd: teṣvādye ca tṛtīye ca pañcame ca pṛthakpṛthak
+9.143ab: ekaikalaghuvarṇākhyamātrāḥ pañcadaśa smṛtāḥ 
+9.143cd: dvitīyaturyayoraṅghryormātrā dvādaśa kīrtitāḥ
+9.144ab: eteṣu pañcapādeṣvapyādyaṃ pādadvayaṃ punaḥ 
+9.144cd: prathamārdhaṃ smṛtaṃ tacca svarapāṭāntamiṣyate
+9.145ab: śiṣṭaṃ pādatrayaṃ proktamaparārdhamidaṃ punaḥ 
+9.145cd: kartavyaṃ svaratenāntaṃ tato dodhakanāmakam
+9.146ab: vṛttaṃ kuryāttu tallakṣma cchandaḥśāstre nirūpitam 
+``dodhakavṛttamidaṃ bhabhabhā gau''
+9.146cd: idamevāsya vṛttasya lakṣmodāharaṇaṃ tathā
+9.147ab: atrodgrāhastenakāntamardhadvayamatha dhruvaḥ 
+9.147cd: dodhakaḥ syādathābhogastenoktoyaṃ tridhātukaḥ
+9.148ab: tālādiniyamābhāvadaniryuktaśca pañcabhiḥ 
+9.148cd: aṅgairabirudairyogādānadinyākhyajātimān  
+9.149ab: vijayākhyaprabandhasya lakṣaṇaṃ tvatha cakṣmahe 
+9.149cd: tenaiḥ svarairya udgrāhe dhruve pāṭaiḥ padairapi
+9.150ab: padāntarairathābhoge geyo vijayatālakaḥ 
+9.150cd: vijayākhyastridhātuḥ sa niryukto niyatatvataḥ
+
+
+9.151ab: pañcāṅgo birudābhāvadānandinyākhyajātimān 
+9.151cd: tripadākhyaprabandhasya lakṣma samyakpracakṣmahe
+9.152ab: yatra pāṭairbhavedekaḥ pādotha birudaiḥ paraḥ 
+9.152cd: svarairanyastu sonvarthasaṃjñakastripadāhvayaḥ
+9.153ab: atrādyapāda udgrāho dvitīyastu dhruvaḥ smṛtaḥ 
+9.153cd: ābhogastu padaiḥ kāryastatopyeṣa tridhātukaḥ
+9.154ab: aniryuktaśca tālāderaṃśasyāniyamatvataḥ 
+9.154cd: pañcāṅgastenakābhāvādānandinyākhyajātimān
+9.155ab: brūmo harivilāsasya lakṣaṇaṃ lakṣyasaṃmatam 
+9.155cd: padaiśca birudairādyaḥ khaṇḍo yatra prakalpyate
+9.156ab: pāṭairdvitīyakhaṇḍotha tenakaistu tṛtīyakaḥ 
+9.156cd: soyaṃ haravilāsākhyaḥ prabandhaḥ parikīrtyate
+9.157ab: atrādyakhaṇḍa udgrāho dvitīyakatṛtīyakau 
+9.157cd: dhruvaḥ padāntaraiḥ kārya ābhogotastridhātukaḥ 
+9.158ab: tālādiniyamābhāvādaniryuktaśca kīrtitaḥ 
+9.158cd: pañcāṅgaśca svarābhāvādānandinyākhyajātimān
+9.159ab: caturmukhaprabandhasya lakṣma samyakpracakṣmahe 
+9.159cd: yatra ti sthāyivarṇena svarairekoṅghririṣyate 
+9.160ab: tatastvārohivarṇena pāṭairaṅghrirdvitīyakaḥ 
+9.160cd: tatovarohivarṇena padairaṅghristritīyakaḥ 
+
+9.161ab: tataḥ saṃcārivarṇena tenairaṅghristurīyakaḥ 
+9.161cd: udgrāhe ca samāptiḥ syātsa caturmukha ucyate
+9.162ab: uktaṃ sthāyyādivarṇānāṃ lakṣma ratnākare sphuṭam 
+9.162cd: gānakriyocyate varṇaḥ sā caturdhā nirūpitā
+9.163ab: sthāyyārohyavarohī ca saṃcārītyatha lakṣaṇam 
+9.163cd: sthitvā sthitvā prayogaḥ syādekaikasya svarasya yaḥ
+9.164ab: sthāyī varṇaḥ sa vijñeyaḥ parāvanvarthanāmakau 
+9.164cd: etatsaṃmiśraṇādvarṇaḥ saṃcārī tu bhavediti
+9.165ab: atrādyapādadvitayamudgrāha iti kīrtyate 
+9.165cd: dvitīyaṃ pādayugalaṃ dhruva ityabhidhīyate
+9.166ab: pādāntaraiḥ syādābhogastenoktoyaṃ tridhātukaḥ 
+9.166cd: tālādiniyamābhāvādaniryuktaśca kīrtitaḥ
+9.167ab: pañcāṅgo birudābhāvādānandinyākhyajātimān 
+9.167cd: paddhaḍīti prabandhotha prabodhāya nirūpyate
+9.168ab: svarāntairbirudairyasyāḥ prathamārdhe viracyate 
+9.168cd: pāṭāntairbirudaiścaiva dvitīyārdhaṃ nibadhyate
+9.169ab: yasyāśca pratipādaṃ syādantenuprāsasaṃbhavaḥ 
+9.169cd: chandasā paddhaḍīnāmnā yuktā sā paddhaḍī matā 
+9.170ab: paddhaḍīcchandaso lakṣma cchandaḥśāstre nirūpitam
+``ṣoḍaśa mātrāḥ pāde pāde
+yatra bhavanti nirastavivāde 
+paddhaḍikā jagaṇena viyuktā
+caramaguruḥ sā sadbhirihoktā ''
+9.170cd: idameva ca paddhaḍyā udāharaṇalakṣaṇe
+
+9.171ab: tatrādyamardhamudgrāho dvitīyārdhaṃ dhruvaḥ smṛtaḥ 
+9.171cd: ābhogaśca padaiḥ kāryastenāyaṃ syāttridhātukaḥ
+9.172ab: niryuktaśca yataśchandoniyamotenakastataḥ 
+9.172cd: ānandinījātimāṃścāpyaṅgapañcamasaṃgataḥ
+9.173ab: atha śrīvardhano nāma prabandhoyaṃ nirūpyate 
+9.173cd: yatodgrahastu birudaiḥ padairapi bhavetkramāt 
+9.174ab: padaiḥ svaradhruvaḥ syāccetsa śrīvardhana ucyate 
+9.174cd: padāntarairihābhogaḥ kāryastena tridhātukaḥ
+9.175ab: prabandhoyamaniryuktastālādiniyamāvidheḥ  
+9.175cd: pañcaṅgastenakābhāvadānandinyākhyajātimān
+9.176ab: athoddeśakramaprāpto lakṣyate harṣavardhanaḥ 
+9.176cd: padaiśca birudairyasminnudgrāho vinibadhyate
+9.177ab: svaraiḥ pāṭairdhruvaiścaiva sa smṛto harṣavardhanaḥ 
+9.177cd: anyatsarvamapi jñeyaṃ śrīvardhanavadatra ca
+9.178ab: evamānandinījātiprabandhā daśa varṇitāḥ 
+9.178cd: atha yo dīpanījātiprabandheṣvapi pañcasu
+9.179ab: sudarśanaḥ puroddiṣṭaḥ sa prabandho nirūpyate 
+9.179cd: yatodgrāhaḥ padaiḥ kḷpto birudaistenakairdhruvaḥ
+9.180ab: pādāntaraistathābhogastaṃ vadanti sudarśanam 
+9.180cd: tridhātukaḥ prabandhoyamaniryuktastathaiva ca 
+
+9.181ab: tālādiniyamābhāvātsvarapāṭavivarjitaiḥ 
+9.181cd: aṅgaiścaturbhirbaddhatvāddīpanījātimānsmṛtaḥ 
+9.182ab: athocyate svarāṅkasya prabandhasyeha lakṣaṇam 
+9.182cd: yatrodgrāhaḥ padairbaddhaḥ svarairmelāpakastathā
+9.183ab dhruvaśca birudaistatra tūdgrāhe tāla ekakaḥ 
+9.183cd: melāpake tu dvau tālau dhruve tālāstrayaḥ punaḥ
+9.184ab: sa svarāṅka iti prokto gātavyo mālavaśriyā 
+9.184cd: ābhogaḥ pūrvavatkāryaścaturdhāturatastvayam
+9.185ab: niryukto rāganiyamātpāṭatenakavarjitaiḥ 
+9.185cd: caturaṅkairnibaddhatvāddīpanījātimānsmṛtaḥ
+9.186ab: athocyate tribhaṅgyākhyaprabandhasyeha lakṣaṇam 
+9.186cd: svaraiḥ pāṭaiḥ padaiścaiva krameṇa vinibaddhatā
+9.187ab: sāmānyalakṣaṇaṃ tasya sa ca pañcavidhaḥ smṛtaḥ 
+9.187cd: tribhaṅgitāle ti laghudvayaṃ gurūrathocyate
+9.188ab: ityevaṃlakṣaṇopetatribhaṅgītālasaṃgataḥ 
+9.188cd: tribhaṅgyākhyaḥ prabandhaḥ syādityeko bheda īritaḥ
+9.189ab: tribhaṅgyākhyena vṛttena cchandaḥśāstoditena yaḥ 
+9.189cd: baddhyate sa tribhaṅgiḥ syāditi bhedo dvitīyakaḥ
+9.190ab: tribhiraṅgaistribhistālaistṛtīyo bheda ucyate 
+9.190cd: tribhirvṛttairanvitatvāccaturtho bheda iṣyate
+
+9.191ab: tathā devatrayastutyā pañcamo bheda ucyate 
+9.191cd: eteṣu pañcabhedeṣu yojyaṃ sāmānyalakṣaṇam
+9.192ab: yathāyogamihonneyamudgrāhādivibhājanam 
+9.192cd: ābhogaśca padaiḥ kāryastenāyāṃ syāttridhātukaḥ
+9.193ab: chandastālādiniyamātveṣa niryukta ucyate 
+9.193cd: dīpanījātimāṃścāpi lopādbirudatenayoḥ
+9.194ab: nirūpyate kandukotha yatrādyacaraṇaḥ padaiḥ 
+9.194cd: pāṭairdvitīyacaraṇo birudaiśca tṛtīyakaḥ
+9.195ab: udgrāhe ca samāptiśca sa kanduka iti smṛtaḥ 
+9.195cd: atrādyapādadvitayamudgrāha iti kathyate 
+9.196ab: dhruvastritīyapāde syātpadairābhogakalpanā 
+9.196cd: tattridhāturaniryuktastālādiniyamo na yat 
+9.197ab: dīpanījātimāṃścāpi svaratenakavarjanāt 
+9.197cd: nirūpyatetha vadanaprabandhasyeha lakṣaṇam
+9.198ab: prabandhoyaṃ tridhā proktastatrādyo vadanābhidhaḥ 
+9.198cd: athopavadanābhikhyaḥ syādvastuvadanāhvayaḥ
+9.199ab: trayāṇāmapi caiteṣāṃ kramāllakṣaṇamucyate 
+9.199cd: chagaṇau pagaṇau caiva dagaṇaścetyamī trayaḥ
+9.200ab: mātrāgaṇāḥ syuḥ prathame pāda udgrāhasaṃjñake 
+9.200cd tādṛgeva dvitīyāṅghriḥ kartavyo dhruvasaṃjñakaḥ 
+
+9.201ab: viśeṣastvatra caraṇe svarapāṭaṃ prakalpayet 
+9.201cd: padāntarairathābhoga ityevaṃ vadanaṃ smṛtam
+9.202ab: vadane tritayopyanyaiḥ padairābhogakalpanam 
+9.202cd: ṣaṇmātrakaḥ syācchagaṇaḥ pagaṇaḥ pañcamātrakaḥ
+9.203ab caturmātrastu cagaṇastrimātrastagaṇaḥ smṛtaḥ 
+9.203cd: dagaṇastu dvimātraḥ syādityetadgaṇalakṣaṇam
+9.204ab: tridhātukaḥ prabandoyamaniryuktastathaiva ca 
+9.204cd: hīno birudatenābhyāṃ caturaṅgasamanvitaḥ
+9.205ab: dīpanījātimāneṣa bhavatītyavadhāryatām 
+9.205cd: tadevaṃ dīpanījātiprabandhāḥ pañca lakṣitāḥ
+9.206ab: atha dvyaṣṭaprabandheṣu bhāvanījātibhāgiṣu 
+9.206cd: varṇaḥ prathamamuddiṣṭo varṇyate tasya lakṣaṇam
+9.207ab: birudairvinibadhyete yatrodgrāhadhruvau punaḥ 
+9.207cd: ābhogaśca padairyatra yaśca karṇāṭabhāṣayā
+9.208ab: varṇatālena copetaḥ sa varṇa iti kathyate 
+9.208cd: trividhaḥ sa ca varṇākhyatālatraividhyataḥ smṛtaḥ
+9.209ab: varṇatālastryaśramiśracaturaśrayā tridhā 
+9.209cd: tryaśravarṇe laghuścaiva drutadvandvaṃ laghutrayam
+9.210ab: catuṣkāṇi virāmāntadrutānāṃ trīṇyatha smṛtaḥ 
+9.210cd: gururdrutadvayaṃ miśre punargururlaghuḥ plutaḥ
+
+9.211ab: gururlaghurdrutaścaiva guruśca caturaśrake 
+9.211cd: tridhātukaḥ prabandhoyaṃ niyamāttālabhāṣayoḥ
+9.212ab: niryuktastālabirudapadairaṅgaistribhiḥ punaḥ 
+9.212cd: baddhatvena parijñeyo bhāvanījātimāniti
+9.213ab: atha gadyaprabandhasya kathyate lakṣaṇaṃ sphuṭam 
+9.213cd: gadyaṃ nāma smṛtaṃ chandohīnaṃ padakadambakam
+9.214ab: tadapyutkalikā caiva cūrṇikā lalitaṃ tathā 
+9.214cd: vṛttagandhi ca khaṇḍaṃ ca citraṃ cetyapi ṣaḍvidham
+9.215ab: eteṣāṃ rasabhedāśca varṇaścāpyadhidevatāḥ 
+9.215cd: niyatā vṛttibhedhāśca gatibhedā drutādayaḥ
+9.216ab: dvaividhyamabhyupetasya veṇīmiśratvabhedataḥ 
+9.216cd: sarvaṃ ratnākare proktaṃ tatratyamavagamyatām
+9.217ab: phalato na viśeṣostītyasmābhistadupekṣitam 
+9.217cd: atha gadyasya racanāprakāraḥ pratipādyate 
+9.218ab: praṇavādyamatālaṃ ca gamakai racitairyutam 
+9.218cd: yuktaṃ sthāyyādivarṇaiśca gāyetpadakadambakam
+9.219ab: tataḥ prabandhanāmāṅkaṃ baddhamaicchikatālataḥ 
+9.219cd: avāntarānekapadasamudāyātmakaṃ tathā
+9.220ab: padadvayaṃ nibadhnīyād dvirgeyaṃ tatpṛthaktvataḥ 
+9.220cd: vilambitalayopetaṃ prayogaṃ parikalpayet
+
+9.221ab: tato vāggeyakārasya gāyakasya ca nāmanī 
+9.221cd: satāle vinibadhnīyādvilambitalayānvite
+9.222ab: punaśca drutamānena prabandhaḥ sakalopi ca 
+9.222cd pūrvoktena krameṇaiva gātavyastadanantaram
+9.223ab pūrvorjitapadadvandve prathamasya padasya tu 
+9.223cd: ādimārabhya tattālaṃ vilambitalayānvitam
+9.224ab: ekavāraṃ prayujyātha nyāsaṃ kuryāditi sthitiḥ 
+9.224cd: atrādyabhāga udgrāho jñeyo yastālavarjitaḥ
+9.225ab: yastu tālena sahitaḥ padadvandvātmakaḥ pṛthak 
+9.225cd: dvirgātavyo dvitīyaḥ sa bhāgastu dhruva ucyate
+9.226ab: prayogādiḥ satālaśca yastu bhāgastṛtīyakaḥ 
+9.226cd: sa ābhoga iti grāhyastata eva tridhātukaḥ
+9.227ab: aniryuktaśca tālādiniyamasyānapekṣaṇāt 
+9.227cd: padatālasvarairyogāttryaṅgoyaṃ bhāvanīyutaḥ
+9.228ab: atha kaṃdaprabandhasya lakṣma samyakpracakṣmahe 
+9.228cd: yastu karṇāṭabhāṣādyaiḥ padaiḥ saṃskṛtavarjitaiḥ
+9.229ab: pāṭaiśca birudaiścaiva gīyate tālavarjitaḥ 
+9.229cd: āryāgītyabhidhānena yaśca vṛttena badhyate
+9.230ab: geyaḥ vīrarase yaśca sa kaṃda iti kathyate 
+9.230cd: vṛttaratnākare proktamāryāgītestu lakṣaṇam
+``āryāprathamadaloktaṃ
+yadi kathamapi lakṣaṇaṃ bhavedubhayoḥ 
+dalayoḥ kṛtayatiśobhāṃ
+tāṃ gītiṃ gītavānbhujaṅgeśaḥ
+''
+
+9.231ab: idamevāsya vṛttasya lakṣmodāharaṇaṃ tathā 
+9.231cd: asyāyamartha āryāyāṃ prathamārdhe prakīrtitāḥ
+9.232ab: triṃśanmātrā dvitīyārdhe saptaviṃśatirīritāḥ 
+9.232cd: āryāgītau tu pūrvārdhavad dvitīyārdhakepi ca
+9.233ab: triṃśanmātrāḥ prayoktavyā evaṃlakṣaṇalakṣitā 
+9.233cd: āryāgītirihodgrāhaṃ prathamārdhaṃ prakalpya tu
+9.234ab: padairgāyed dvitīyārdhaṃ dhruvaṃ kṛtvā tataḥ param 
+9.234cd: pāṭaiśca birudairgāyettata ābhogakalpanam
+9.235ab: dhruvākhyasya dvitīyārdhasyādau pāṭānsthitānpunaḥ 
+9.235cd: upakramya prabandhasya nyāsaṃ kuryāditi sthitiḥ
+9.236ab: tridhātukaḥ prabandhoyaṃ chandoniyamakīrtanāt 
+9.236cd: niryuktaḥ pāṭabirudapadairaṅgaistribhiryutaḥ
+9.237ab: bhāvanījātimāṃścāpi bhavatītyavadhāryatām 
+9.237cd: ekonatriṃśadākhyātāḥ kaṃdabhedāstu śārṅgiṇā
+9.238ab: nirūpyatetha kaivāḍaprabandhasyeha lakṣaṇam 
+9.238cd: yatrodgrāho dhruvaścaiva pāṭaireva nibadhyate
+9.239ab: ābhogastu padairyasminnudgrāhe ca samāpanam 
+9.239cd: sa kaivāḍa iti proktaḥ karapāṭapradhānakaḥ
+9.240ab: prabandhaḥ karapāṭākhyastadapabhraṃśanāmataḥ 
+9.240cd: kaivāḍa iti lokesminsarvatra vyavahārabhāk
+
+9.241ab: sārthakairarthahīnaiśca pāṭaiḥ sa dvividho mataḥ 
+9.241cd: sa śuddhairmiśritaiḥ pāṭaiḥ śuddho miśra iti dvidhā 
+9.242ab: śuddhatvaṃ nāma pāṭānāṃ mukhavādyākṣaraiḥ saha 
+9.242cd: ayuktatvaṃ miśratā tu tairyuktatvamitīryate
+9.243ab: tridhāturapyaniryuktaḥ pāṭatālapadaistribhiḥ 
+9.243cd: aṅgairupanibaddhatvādbhāvanījātimāṃstathā
+9.244ab: athāṅkacāriṇī nāma prabandhaḥ pratipādyate 
+9.244cd: yatrodgrāhadhruvau vīraraudrākhyarasasaṃhitaiḥ
+9.245ab: birudairvinibadhyete tāleneṣṭena kenacit 
+9.245cd: gātṛnetṛprabandhākhyāvikhyāpanamanoharaiḥ
+9.246ab: ābhogaśca padairyasyāṃ kathitā sāṅkacāriṇī 
+9.246cd: tridhātukaḥ prabandhoyamaniryuktaśca kīrtitaḥ
+9.247ab: aṅgaistribhiśca birudapadatālairnibandhanāt 
+9.247cd: bhāvanījātimāṃścāpi bhavedratnākare punaḥ
+9.248ab: bhedāḥ ṣaḍaṅgacāriṇyā vāsavādyā nirūpitāḥ 
+9.248cd: te tatraivāvagantavyā iti sarvaṃ  samajjasam 
+9.249ab: nirūpyatetha vartanyāḥ prabandhasyeha lakṣaṇam 
+9.249cd: svarādyakaraṇasya prākprabandhasya yadoritam
+9.250ab: lakṣmodgrāhe dhruve caiva nibiḍasvarabaddhatā 
+9.250cd: ābhoge padabaddhatvaṃ bhavediti tathaiva ca 
+
+9.251ab: vartanyāmapi vijñeyaṃ viśeṣastu pradarśyate 
+9.251cd: svarādyakaraṇo prokto rāsastālo druto layaḥ
+9.252ab: vartanyāṃ tu na rāsaḥ syāttālaḥ kiṃ caicchiko bhavet 
+9.252cd: vilambitalayaścātha gāne rītiḥ pradarśyate
+9.253ab: udgrāhaṃ tu dvirudgāyed dhruvābhogau sakṛtpunaḥ 
+9.253cd: dhruve nyāsastato yasyāṃ vartanī sā prakīrtitā
+9.254ab: tridhātukaḥ prabandhoyamaniryuktastathaiva ca 
+9.254cd: padatālasvarairyogāttryaṅgoyaṃ bhāvanīyutaḥ 
+9.255ab: atha lakṣaṇamāryāyāḥ prabandhasya nirūpyate 
+9.255cd: āryāvṛttena racitāmāryāmāryāḥ pracakṣate
+9.256ab: āryāvṛttasya cārdhānte caraṇāntetha vā svarāḥ 
+9.256cd: prayojyāstatra cādyārdhamudgrāhaṃ parikalpayet
+9.257ab: tattad dvivāraṃ gātavyaṃ dvitīyārdhaṃ bhaved dhruvaḥ 
+9.257cd: tattu geyaṃ sakṛtpaścādābhogaṃ parikalpayet
+9.258ab: gātṛnetṛprabandhāṅkamudgrāhe ca samāpayet 
+9.258cd: idamāryāprabandhasya lakṣaṇaṃ paricakṣate
+9.259ab: vṛttaratnākare proktamāryāvṛttasya lakṣaṇam 
+
+``lakṣmaitatsapta gaṇā
+gopitā bhavati neha viṣame jaḥ 
+ṣaṣṭhoyāṃ na laghū vā
+prathamerdhe niyatamāryāyāḥ
+
+ṣaṣṭhe dvitīyalān nle 
+parake mukhalācca sa yatipadaniyamaḥ 
+caramerdhe pañcamake  
+tasmādiha bhavati ṣaṣṭho laḥ ''
+
+9.259cd: udāharaṇamapyetadāryāvṛttasya saṃmatam
+9.260ab: asyāyamarthaḥ āryāyāḥ prathamārdhe prakīrtitāḥ 
+9.260cd: gaṇāḥ sapta guruścaiva viṣame jagaṇo na ca
+
+9.261ab: ṣaṣṭhoyaṃ jagaṇaḥ proktastatsthāne na laghū ca vā 
+9.261cd: nagaṇaśca laghuśceti jātaṃ laghucatuṣṭayam
+9.262ab: ityāryāprathamārdhasya lakṣaṇaṃ viśadīkṛtam 
+9.262cd: taduttarārdhepi gaṇāḥ saptaiva ca gurustathā 
+9.263ab kiṃ tu ṣaṣṭho gaṇastasminneka eva laghurbhavet 
+9.263cd: āryāvṛtte caturmātrā gaṇā grāhyā iti sthitiḥ
+9.264ab: āryābhedāstu lakṣmyādyāḥ ṣaḍviṃśatirudāhṛtāḥ 
+9.264cd: ratnākare na te lakṣye prasiddhā ityupekṣitāḥ
+9.265ab: tridhātukaḥ prabandhoyaṃ chandoniyamabandhanāt 
+9.265cd: niryuktastribhiraṅgaiśca padatālasvarātmakaiḥ
+9.266ab: baddhatvādavagantavyo bhāvanījātimāniti 
+9.266cd: adya gāthāprabandhasya svarūpamabhidhīyate
+9.267ab: āryālakṣaṇamevedaṃ gāthāyā api lakṣaṇam 
+9.267cd: kiṃ tvāryā saṃskṛtapadairbaddhavyeti vyavasthitiḥ
+9.268ab: gāthā tu prākṛtapadairbaddhavyetyanayorbhidā 
+9.268cd: niryuktatvatridhātutvabhāvanījātiśālitāḥ
+9.269ab: gāthāyāmiha vijñeyāstvāryālakṣmātideśataḥ 
+9.269cd: atha krauñcapado nāma prabandhaḥ pratipādyate
+9.270ab: yatrodgrāhaḥ svarairbaddhaḥ padaistu dhruva iṣyate 
+9.270cd: padāntaraistathābhogo gātṛnāmādicihnitaḥ 
+
+9.271ab: pratitālākhyatālena vakṣyamāṇena yo yutaḥ 
+9.271cd: yaścodgrāhadhṛtanyāsaḥ sa tu krauñcapadaḥ smṛtaḥ
+9.272ab: laghudhrutadvayaṃ caiva pratitāle pracakṣate 
+9.272cd: sa ca dvedhā krauñcapadanāmavṛttasamanvitaḥ
+9.273ab tadvṛttarahitaśceti tatra krauñcapadābhidham 
+9.273cd: vṛttaṃ kīdṛśamityukte tallakṣaṇamudīryate
+9.274ab: ādau tu bhagaṇaḥ prokto magaṇastadanantaram 
+9.274cd: sagaṇo bhagaṇaścaiva catvāro nagaṇāstathā
+9.275ab:  guruśca yatra dṛśyante caraṇeṣu caturṣvapi 
+9.275cd: vṛttaṃ krauñcapadaṃ tatsyādasyodāharaṇaṃ punaḥ
+
+``yā kapilākṣī piṅgalakeśī kaliruciranudinamanunayakaṭhinā 
+dīrghatarābhiḥ sthūlaśirābhiḥ parivṛtavapuratiśayakuṭilagatiḥ 
+āyatajaṅghā nimnakapolā laghutarakucayugaparicitahṛdayā
+sā parihāryā krauñcapadā strī dhruvamiha niravadhisukhamabhilaṣatā ''
+
+9.276ab: tridhātukaḥ prabandhoyaṃ niryuktaśca tathā smṛtaḥ 
+9.276cd: tālādiniyamādaṅgaiḥ svaratālapadābhidhaiḥ
+9.277ab: baddhatvāttribhirapyeṣa bhāvanījātimānbhavet 
+9.277cd: kalahaṃsaprabandhasya kathayāmyatha lakṣaṇam
+9.278ab: kalahaṃsākhyavṛttena prabandho yaḥ prabadhyate 
+9.278cd: tamāhuḥ kalahaṃsākhyaṃ tasya vṛttasya lakṣaṇam
+9.279ab: ākhyātamādibharate bharatena mahātmanā 
+
+``dvitīyasaptamāntyaśca turīyako
+gururyadā ca ṣaṣṭho daśamopi vā 
+athodito hi pāde tvatha jāgate
+bhavedidaṃ tu haṃsākhyamiti smṛtam ''
+
+9.279cd: idamevāsya vṛttasya lakṣyamasyārtha ucyate
+9.280ab: caturṣvapi ca pādeṣu dvādaśākṣaraśāliṣu 
+9.280cd: pratipādaṃ dvitīyaśca turyaḥ ṣaṣṭhaśca saptamaḥ
+
+
+9.281ab: daśamo dvādaśaścaiva varṇo yadi gururbhavet 
+9.281cd: tadānīṃ kalahaṃsākhyaṃ chanda ityatra cocyate
+9.282ab: prayuñjyātpratipādāntaṃ svarāñjhampākhyatālataḥ 
+9.282cd: gāyeccādimapādāntaprayukteṣu svareṣvatha
+9.283ab: nyāsaṃ kuryātprabandhasya jhampātālasya lakṣaṇam 
+9.283cd: svaraprakaraṇe proktamalaṃkāranirūpaṇe
+9.284ab: atrādyamardhamudgrāhaṃ vṛttasya parikalpayet 
+9.284cd: uttarārdhe dhruvaṃ kuryādābhogaṃ ca pṛthaktvataḥ
+9.285ab: atastridhātukaḥ soyaṃ niyamād vṛttatālayoḥ 
+9.285cd: niryuktaśca bhavatyaṅgaiḥ svaratālapadaistribhiḥ
+9.286ab: nibaddhatvena vijñeyo bhāvanījātimāṃstathā 
+9.286cd: lakṣaṇaṃ toṭakasyātha kathyate yaḥ prabadhyate
+9.287ab: toṭakākhyena vṛttena sa toṭaka iti smṛtaḥ 
+9.287cd: lakṣma toṭakavṛttasya vṛttaratnākare sphuṭam
+``iha toṭakamambudhisaiḥ kathitam''
+9.288ab: asyāyamarthaḥ sagaṇaiścaturbhistoṭakaṃ smṛtam 
+9.288cd: idamevāsya lakṣyaṃ ca jñeyamatra ca toṭakam
+9.289ab: prayojyāḥ pratipādāntaṃ svarāḥ pūrvavadatra ca 
+9.289cd: udgrāhaḥ prathamārdhaṃ syāduttarārdhaṃ dhruvaḥ smṛtaḥ 
+9.290ab: ābhogaḥ pūrvavatkāryastenāyaṃ syātridhātukaḥ 
+9.290cd: niryukto vṛttaniyamātsvaratālapadaistribhiḥ
+
+9.291ab: aṅgairupanibaddhatvādbhāvanījātimāṃstathā 
+9.291cd: haṃsalīlaprabandhasya lakṣaṇaṃ pratipādyate
+9.292ab: padairyatrādyapādaḥ syatpāṭaireva dvitīyakaḥ 
+9.292cd: haṃsalīlākhyatālena yuktoyaṃ haṃsalīlakaḥ 
+9.293ab: haṃsalīlākhyatāle ca yagaṇaśca laghurguruḥ 
+9.293cd: atrādyapāda udgrāho dvitīyastu dhruvaḥ smṛtaḥ
+9.294ab: padāntaraistathābhogastenāyaṃ syāttridhātukaḥ 
+9.294cd: niryuktastālaniyamātpāṭatālapadātmakaiḥ
+9.295ab: tribhiraṅgairnibaddhatvādbhāvanījātimānapi 
+9.295cd: catuṣpadīprabandhotha lakṣyate lakṣyasaṃmataḥ
+9.296ab: yasyā dvitīyake pāde turyapāde pṛthakpṛthak 
+9.296cd: bhavanti dvyaṣṭasaṃkhyākā mātrā laghvakṣarātmikāḥ
+9.297ab: prathame ca tṛtīyeṅghrau mātrāḥ pañcadaśaiva ca 
+9.297cd: bhinnārthayamakopetaṃ yasyāmardhadvayaṃ bhavet
+9.298ab: ādyamardhaṃ svarāntaṃ syāttenāntaṃ syād dvitīyakam 
+9.298cd: tenakanyāsasaṃyuktā geyā karṇāṭabhāṣayā
+9.299ab: tālena rahitā seyaṃ catuṣpadyabhidhīyate 
+9.299cd: atha satyarthabhinnānāṃ varṇānāṃ yā punaḥśrutiḥ 
+9.300ab: yamakaṃ tadbhaveditthaṃ yamakajñāḥ pracakṣate 
+9.300cd: atra svarāntamādyārdhamudgrāhaṃ parikalpayet
+
+9.301ab: tenakāntaṃ dvitīyārdhaṃ dhruvatvena prakalpayet 
+9.301cd: ābhogaḥ pūrvavatkāryastenāyaṃ syāttridhātukaḥ
+9.302ab: bhāṣaniyamayuktatvānnityuktaśca prakīrtitaḥ 
+9.302cd: padatenasvaraistryaṅgairbaddhatvādbhāvanīyutaḥ
+9.303ab: nirūpyatetha vīraśrīprabandhasyeha lakṣaṇam 
+9.303cd: yatodgrāhaḥ padairbaddho birudaistu dhruvo bhavet
+9.304ab: padāntaraistathābhogo vīraśrīriti sa smṛtaḥ 
+9.304cd: tridhātukaḥ prabandhoyamaniryuktaśca kīrtitaḥ
+9.305ab: tālādyaniyamāttālapadābhyaṃ birudena ca 
+9.305cd: baddhoyamaṅgatrayayugbhāvanījātimāṃstathā
+9.306ab: ucyate maṅgalācāraprabhandasyeha lakṣaṇam 
+9.306cd: yaḥ kaiśikyākhyarāgeṇa gīto niḥsārusaṃjñinā
+9.307ab: tālena ca nibaddhoyaṃ maṅgalācāra ucyate 
+9.307cd: trividhaḥ sa ca gadyātmā padyātmā cobhayātmakaḥ
+9.308ab: pādānte vātha vārdhānte prayojyāstatra ca svarāḥ 
+9.308cd: rāgastu kaiśikīnāmabhāṣārāgaḥ prakīrtitaḥ 
+9.309ab: sa ca gāndharvarāgāntarbhūto ratnakare tviti 
+9.309cd: jñeyaṃ niḥsārutāle ca virāmāntaṃ laghudvayam
+9.310ab: atra sasvaramādyārdhamudgrāhaḥ parikīrtitaḥ 
+9.310cd: sasvaraṃ tu dvitīyārdhaṃ dhruvo jñeyaḥ pṛthakpadaiḥ 
+
+9.311ab: ābhogaḥ pūrvavatkāryastenāyaṃ syātridhātukaḥ 
+9.311cd: niryuktaśca bhavatyeṣa niyamādrāgatālayoḥ
+9.312ab: padatālasvaraistryaṅgairbaddhatvādbhāvanīyutaḥ 
+9.312cd: athoddeśakramaprāpto daṇḍakaḥ pratipādyate
+9.313ab: daṇḍakākhyena vṛttena yaḥ svaraśca nibadhyate 
+9.313cd: sa daṇḍako daṇḍakasya lakṣaṇaṃ nagaṇadvayam
+9.314ab: ragaṇāḥ sapta yasya syuḥ pāde pāde sa daṇḍakaḥ
+
+yathā --- ``iha hi bhavati daṇḍakāraṇyadeśe sthitiḥ 
+puṇyabhājāṃ munīnāṃ manohāriṇi 
+tridaśavijayavīryaddṛpyaddaśagrīvala-
+kṣmyā virāmeṇa rāmeṇa saṃsevite 
+janakayajanabhūmisaṃbhūtasīmantinī-
+sīmasītāpadasparśapūtāśraye 
+bhuvananamitapādapampābhidhānāmbikā
+tīrthayātrāgatānekasiddhākule ''
+
+9.314cd: atra daṇḍakavṛttasthapadaiḥ pūrvārthamucyate
+9.315ab: sa codgrāho dvitīyārdhaṃ svarairjñeyaṃ sa ca dhruvaḥ 
+9.315cd: padāntaraistathābhogastata eṣa tridhātukaḥ
+9.316ab: niryukto vṛttaniyamātsvaratālapadaistribhiḥ 
+9.316cd: aṅgairupanibaddhatvādbhāvanījātimānbhavet
+9.317ab: tadevaṃ varṇitā dvyaṣṭaprabandhā bhāvanīyutāḥ 
+9.317cd: atha dvāviṃśatistārāvalījātisamanvitāḥ
+9.318ab: prabandhāḥ pūrvamuddiṣṭāstatrāpyādau prakīrtitāḥ 
+9.318cd: elāprabandhastasyeha lakṣma samyakpracakṣmahe
+9.319ab: elāyāstāvadudgrāhe trayaḥ pādāḥ prakīrtitāḥ 
+9.319cd: tarādyapāde prathamaṃ dve khaṇḍe parikalpayet
+9.320ab: tayośca khaṇḍayordhātureko mātustu bhidyate 
+9.320cd: dhāturnāma svaraḥ prokto māturakṣaramucyate
+
+9.321ab: etaśca khaṇḍayugalaṃ sānuprāsaṃ prakalpayet 
+9.321cd: varṇasāmyamanuprāsa ityanuprāsalakṣaṇam
+9.322ab: tataḥ paraṃ prayogastu gamakālaptilakṣaṇaḥ 
+9.322cd: kiṃcitpadānvitaścānte kartavyastadanantaram
+9.323ab: pallavākhyāni geyāni padāni trīṇi tatra ca 
+9.323cd: ādye vilambamānena tṛtīyaṃ dhrutamānataḥ
+9.324ab: atra khaṇḍadvayaṃ tāraprathamaṃ padamucyate 
+9.324cd: tataḥ paraṃ prayogo yastad dvitīyaṃ padaṃ smṛtam
+9.325ab: tṛtīyaṃ ca caturthaṃ ca pañcamaṃ ca yathākramam 
+9.325cd: padāni pallavākhyāni bhavanti trīṇyathaḥ punaḥ
+9.326ab: padāni pañca jātāni tadetatpadapañcakam 
+9.326cd: udgrāhaḥ prathamaḥ pādo bhavatītyavadhāryatām
+9.327ab: etatprathamapādoktalakṣaṇenaiva kalpayet 
+9.327cd: dvitīyamapi codgrāhe pādaṃ pañcapadātmakam
+9.328ab: ādyadvitīyayoretatpādayorekadhātutā 
+9.328cd: mātustu bhinna eveti mataṅgādyāḥ pracakṣate
+9.329ab: evaṃlakṣaṇa eva syāttṛtīyacaraṇopi ca 
+9.329cd: kiṃ tu tatra viśeṣosti kaścittadabhidadhmahe
+9.330ab: ādau khaṇḍadvayaṃ gītvā sānuprāsaikadhātukam 
+9.330cd: tataḥ kevalasaṃbuddhipadairante samanvitam 
+
+
+9.331ab: pūrvapādadvayayutaprayogāpekṣayā punaḥ 
+9.331cd: bhinnadhātuṃ prakurvīta prayogamiti nirṇayaḥ
+9.332ab: someśvarādayastveke caturdhātutvavādinaḥ 
+9.332cd: eteṣu dvādaśapadeṣvekādaśapadātmakam
+9.333ab: udgrāhamurarīkṛtya padaṃ dvādaśakaṃ punaḥ 
+9.333cd: āhurmelāpakaṃ tena matabhedotra vidyate
+9.334ab: evamudgrāgamelāpau nibadhya tadanantaram 
+9.334cd: dhruvaṃ viracayetsopi tripadātmā prakīrtitaḥ
+9.335ab: tatrādyaṃ ca dvitīyaṃ ca padaṃ syānmadhyamānataḥ 
+9.335cd: nibaddhaṃ dhātunaikena mātubhedayutaṃ tathā
+9.336ab: tṛtīyaṃ tu padaṃ pūrvapadābhyāṃ bhinnadhātukam 
+9.336cd: syādvilambitamānaṃ ca triṣveteṣu padeṣvapi
+9.337ab: yatra kutrāpi kartavyaṃ netṛnāmāṅkanaṃ punaḥ 
+9.337cd: evaṃ dhruve trīṇi padānyudgrāhe dvādaśeti ca
+9.338ab: yoge pañcadaśābhūvanpadānītyavadhāryatām 
+9.338cd: gātṛprabandhanāmāṅkamābhogamatha kalpayet
+9.339ab: ābhogaḥ sarva evaiṣa padamekamiti sthitiḥ 
+9.339cd: tasmādelāprabandhoyaṃ jāto dvyaṣd tapadātmakaḥ
+9.340ab: evaṃvidhaṃ punargītvā prabandhaṃ sarvamapyatha 
+9.340cd: nyāsaṃ kuryād dhruve tālaniyamastvatha kathyate
+
+9.341ab: maṭṭhadvitīyakaṅkālapratitāleṣu kaścana 
+9.341cd: tāla elāprabandhesminyojanīyo na cāparaḥ
+9.342ab: caturṇāmapi tālānāmeteṣāṃ lakṣaṇaṃ bruve 
+9.342cd: svaraprakaraṇe pūrvaṃ maṭṭhalakṣaṇamīritam
+9.343ab: dvitīyatāle kathitaṃ drutadvandvaṃ laghudvayam 
+9.343cd: uktaścaturdhā kaṅkālaḥ pūrṇaḥ khaṇḍaḥ samosamaḥ 
+9.344ab: caturdrutau galau pūrṇaḥ khaṇḍo dvau ca gurudvayam 
+9.344cd: samo gurū dvau laghvantau viṣamo lād gurudvayam
+9.345ab: lo drutau pratitālaḥ syādityevaṃ tālalakṣaṇam 
+9.345cd: ityuktastālaniyamaḥ prabandhesmingrahastviha
+9.346ab: atīto vānāgato va bhavedicchānusārataḥ 
+9.346cd: tatrātītagraho nāma yatra tālaṃ vinā purā
+9.347ab: sakṛd gītvā tu gātavyaṃ tālaṃ gṛhṇāti cetpunaḥ 
+9.347cd: tathātītagrahaḥ proktonāgatagraha ucyate
+9.348ab: yatra gītaṃ vinaivādau tālamādāya cetsakṛt 
+9.348cd: geyaṃ gāyati soyaṃ syādanāgata iti grahaḥ
+9.349ab: evamelāprabandhasya proktaṃ sāmānyalakṣaṇam 
+9.349cd: atra ca dvyaṣṭasaṃkhyānāṃ padānāṃ nāmadevatāḥ
+9.350ab: uktā ratnākare tattu bodhyaṃ tatraiva vartatām 
+9.350cd: nirūpyante daśa prāṇāḥ saṃpratyelāpadasthitāḥ
+
+
+
+9.351ab: samāno madhuraḥ sāndraḥ kānto dīptaḥ samāhitaḥ 
+9.351cd: agrāhyaḥ sukumāraśca prasannaujasvināviti
+9.352ab: daśa praṇāḥ samuddiṣṭā dvyaṣṭasu syuḥ padeṣvapi 
+9.352cd: kathaṃ nanu daśa prāṇāḥ padeṣu dvyaṣṭasu sthitāḥ
+9.353ab: saṃkhyāvirodha iti cedatredamabhidhīyate 
+9.353cd: dvayostrayāṇamapivā padānāmeka eva cet 
+9.354ab: prāṇaḥ saṃyojyate kutra virodhenāvarodhanam 
+9.354cd: tathāpi prathame pāde prayogātmakamasti yat 
+9.355ab: padaṃ dvitīyaṃ yadapi dvitīyāṅghrau dvitīyakam 
+9.355cd: prayogākhyaṃ padaṃ prāṇamekameva tayordvayoḥ
+9.356ab: yojayedekadhātutvātsamānaṃ nāma nāmataḥ 
+9.356cd: tayā prathamapādasthaṃ yatpallavapadatrayam
+9.357ab: yacca dvitīyapādasthaṃ pallavākhyaṃ padatrayam 
+9.357cd: ṣaṇṇāmapyekadhātutvātkrameṇaiva dvayordvayoḥ
+9.358ab: madhurākhyaṃ sāndrasaṃjñaṃ kāntākhyaṃ caiva yojayet 
+9.358cd: tathā pādatrayasthānaṃ dvikhaṇḍātmatvameyuṣām
+9.359ab: padānamekadhātutvāttrayāṇāmapi teṣvataḥ 
+9.359cd: ekaḥ eva punaḥ prāṇo dīptasaṃjñaḥ prakīrtitaḥ
+9.360ab: padeṣvekādaśasvevaṃ pañca prāṇāstu yojitāḥ 
+9.360cd: eteṣu dvādaśādyeṣu pañcasvatha yathākramam
+
+
+9.361ab: samāhitāgrāmyamukhānprāṇānpañcāpi yojayet 
+9.361cd: evamelāprabandhasya dvyaṣṭasaṃkhyapadeṣvapi
+9.362ab: prāṇā daśa vasantīti kallināthena darśitam 
+9.362cd: kathaṃ lakṣaṇameteṣāṃ prāṇānāmabhidhīyate
+9.363ab: alpākṣarolpasvaraśca samāna iti kathyate 
+9.363cd: ayaṃ prāṇo bhavatyādyadvitīyāṅghrigayordvayoḥ
+9.364ab: prayogātmakayoryojyaḥ padayorata eva hi 
+9.364cd: alpākṣaratvametasya prayogāśrayaṇādbhavet
+9.365ab: nanvakṣaravihīnatvātprayogasya kathaṃ punaḥ 
+9.365cd: alpākṣaratvamiti cenmā vismārṣīḥ puroditam
+9.366ab: uktaṃ hyetatpuraivādyadvitīyāṅghriprayogayoḥ 
+9.366cd: ante kiṃcitpadanyāsopyastītyetadanusmara
+9.367ab: atha dvitīyaprāṇasya madhurākhyasya lakṣaṇam 
+9.367cd: yaḥ svalpamūrchanāyuktaḥ sa prāṇo madhuraḥ smṛtaḥ 
+9.368ab: alpatvaṃ mūrchanāyāstu tānīkaraṇato bhavet 
+9.368cd: tattānīkaraṇaṃ yatsyādatāne tānatā punaḥ
+9.369ab: tānādyasvaramuccāryārohe vāpyavarohake 
+9.369cd: kramānmadhyasvarāṇāṃ ca kiṃcitsaṃsparśamātrataḥ 
+9.370ab: anyasvaroccāraṇaṃ cettattānīkaraṇaṃ smṛtam 
+9.370cd: prāṇoyaṃ madhurastvādyadvitīyāṅghrigayordvayoḥ 
+
+9.371ab: pallavākhyeṣvādimayoḥ padayoryojayiṣyate 
+9.371cd: tatastṛtīyaprāṇasya sāndrasaṃjñasya lakṣaṇam
+9.372ab: yatrākṣarāṇāṃ naibiḍyamalpatvaṃ ca svarāvaleḥ 
+9.372cd: tārasthānapratiṣṭho yaḥ sa sāndra iti kathyate
+9.373ab: atrākṣarāṇāṃ naibiḍyaṃ mātrādikyakṛtaṃ vidhuḥ 
+9.373cd: svarāṇāṃ punaralpatvaṃ dhātoralpatvataḥ smṛtaḥ
+9.374ab: tarasthānotthitasyādyadvitīyacaraṇasthayoḥ 
+9.374cd: dvitīyayoḥ pallavākhyapadayorubhayorapi
+9.375ab: svapūrvapadataḥ kiṃciduccatvena nibandhanam 
+9.375cd: sāndraprāṇasamādeśātkartavyamiti sūcitam
+9.376ab: kanto nāma caturthastu prāṇaḥ kāntadhvanirmataḥ 
+9.376cd: dhvaneśca kāntatā raktiviśeṣasamavetatā
+9.377ab: prāṇoyaṃ kāntanāmādyadvitīyacaraṇasthayoḥ 
+9.377cd: antyayoḥ pallavākhyānapadayorviniyujyate  
+9.378ab: dīptanādo bhaveddīptanāmā prāṇastu pañcamaḥ 
+9.378cd: svarasya dīptatā nāma paripūrtiriti smṛtā
+9.379ab: ayamaṅghritrayeṣveṣu dvikhaṇḍātmasu ca triṣu 
+9.379cd: padeṣu yojanīyaḥ syādityāhurgītakovidāḥ
+9.380ab: samāhitākhyo yaḥ prāṇaḥ ṣaṣṭhastasya tu lakṣaṇam 
+9.380cd: sthāyivarṇaniviṣṭatvamasya tātparyamucyate
+
+9.381ab: tṛtīyasya tu pādasya prayogātmakamasti yat 
+9.381cd: padamādyadvitīyāṅghriprayogābhyāṃ vilakṣaṇam
+9.382ab: tatrocitasvarāṃstārasthāyitvena prakalpya ca 
+9.382cd: kṛtāyāṃ gamakālaptau sthāyisthaḥ syātsamāhitaḥ
+9.383ab: athāgrāmyābhidhaḥ prāṇaḥ saptamastasya lakṣaṇam 
+9.383cd: akṣarāṇāṃ svarāṇāmapyāvṛttyāgrāmya ucyate
+9.384ab: svarākṣarāṇāmavṛttiścakravālavaducyate 
+9.384cd: prāṇoyaṃ dhruvakhaṇḍasya prathame yojyatāṃ pade
+9.385ab: prasanno nāma navamaḥ prāṇastasya tu lakṣaṇam 
+9.385cd: yatra tāvatpadānāṃ syājjhaṭityarthaprabodhanam
+9.386ab: viviktarūpatā mandrasthānādīnāṃ svarāvaleḥ 
+9.386cd: prasanno navamaḥ prāṇaḥ kathiro bharatādibhiḥ
+9.387ab: ojasvī nāma daśamaḥ prāṇastasya tu lakṣaṇam 
+9.387cd: yasminsamāsabhūyastvaṃ sa ojasvīti kathyate
+9.388ab: kartavyaṃ tacca bhūyastvaṃ tāneṣu ca padeṣu ca 
+9.388cd: ayamābhogarūpentye viniyojya pade smṛtaḥ
+9.389ab: evamelāprabandhasya dvyaṣṭasaṃkhyapadeṣvapi 
+9.389cd: nirūpitā daśa prāṇā yojanīyā iti sthitiḥ
+9.390ab: no cetprabandhapuruṣo niṣprāṇaḥ kimu śobhate 
+9.390cd: tasmādvāggeyakāreṇa yathā prāṇā daśāpyamī
+
+
+9.391ab: elāpadaniviṣṭāḥ syustathā yatno vidhīyatām 
+9.391cd: tādṛgeva bhavatyelā karturnetuśca saukhyadā
+9.392ab: no cedaniṣṭadetyuktaṃ mataṅgena mahātmanā 
+9.392cd: elaivaṃ lakṣitā seyaṃ caturdhā parikīrtitā
+9.393ab: gaṇailādyātha mātrailā varṇailātha tataḥ param 
+9.393cd: deśailā ceti tatrādau gaṇailāyāstu lakṣaṇam 
+9.394ab: vaktuṃ gaṇā nirūpyante samūho gaṇa ucyate 
+9.394cd: sa ca dvedhā varṇagaṇo mātrāgaṇa iti kramāt
+9.395ab: varṇopi dvividhaḥ prokto gururlaghuriti kramāt 
+9.395cd: tatrānusvārasaṃyukto visargeṇa samanvitaḥ
+9.396ab: vyañjanāntastathā dīrgho yuktākṣaraparastathā 
+9.396cd: varṇo yaḥ sa gururjñeyastadanyo laghurucyate
+9.397ab: sānusvāro yathā kaṃ khaṃ caṃ chamityādiko guruḥ 
+9.397cd: savisargo yathā kaḥ kha ityādirgururucyate
+9.398ab: vyañjanāntastadityatra tavarṇo gururucyate 
+9.398cd: dīrghaḥ kākhādiko varṇo yuktākṣaraparo yathā
+9.399ab: sarvetyatra sa ityeṣa varṇo gururiti smṛtaḥ 
+9.399cd: pādāntastho laghurvarṇo vikalpena gururbhavet
+9.400ab: gururdvimātrako jñeyo laghuḥ syādekamātrakaḥ 
+9.400cd: ṛjutvena laghurlekhyo vakratvena gururlipau
+
+9.401ab: jihvāmūlīyayoge vāpyupadhmānīyasaṃgatau 
+9.401cd: rahayoge laghurvarṇo vikalpena gururbhavet
+9.402ab: tena yuktaparatvotthagurutvasyāpavādanam 
+yathā --- ``taruṇaṃ sarṣapaśākaṃ navodanaṃ picchilāni ca dadhīni 
+alpavyayena sundari grāmyajano mṛṣamaśnāti ''
+9.402cd: atra tāvatsundarīti pade rītyetadakṣaram
+9.403ab: yuktākṣaraparatvepi laghveva bhavati dhruvam 
+9.403cd: e au iṃ hiṃ tu catvāro dīrghatvepi vikalpataḥ 
+9.404ab: laghavaḥ syuḥ padāntasthāḥ prākṛtādiṣviti sthitiḥ 
+9.404cd: padamadhyepyapabhraṃśe haṃ he e oimityamī
+9.405ab: 9.401ab: pañca varṇā vikalpena laghavaḥ syuriti sthitiḥ 
+9.405cd: sānusvāratvasaṃprāptaṃ gurutvamiha bādhyate
+9.406ab: evaṃ nirūpitā varṇāstādṛgvarṇatrayaṃ punaḥ 
+9.406cd: ukto varṇagaṇaḥ sopi bhavatyaṣd tavidho yathā
+9.407ab: magaṇo yagaṇaścaiva ragaṇaḥ sagaṇastathā 
+9.407cd: tagaṇo jagaṇaścātha bhagaṇo nagaṇastataḥ
+9.408ab: evamaṣṭau gaṇāstatra magaṇastrigururyathā 
+9.408cd: kāmākṣītyādi yagaṇasvarūpamatha kathyate
+9.409ab: ādau laghurgurudvandvamante cedyagaṇo bhavet 
+9.409cd: bhavānītyatra dṛṣṭānto ragaṇotha nirūpyate
+9.410ab: ādyantayorgururmadhye laghuścedragaṇo yathā 
+9.410cd: ambiketyādi sagaṇasvarūpamatha kathyate 
+
+9.411ab: ādau laghudvayaṃ paścād guruścetsagaṇo yatha 
+9.411cd: girijā nagajetyādi tagaṇotha nirūpyate
+9.412ab: ādau gurudvayaṃ paścāllaghuścettagaṇo yathā 
+9.412cd: gaurīśetyādi jagaṇasvarūpamatha kathyate
+9.413ab: ādyantayorlaghurmadhye guruścejjagaṇo yathā 
+9.413cd: maheśetyādi tadanu bhagaṇaḥ pratipādyate
+9.414ab: gururādau laghudvandvamante cetbhagaṇo yathā 
+9.414cd: śaṃkaretyādi nagaṇaḥ smṛtaḥ sarvalaghuryathā
+9.415ab: giriśetyevamaṣṭau ca gaṇaḥ samyaṅ nirūpitāḥ 
+9.415cd: athaiṣāṃ devatā bhūmijalāgnimarutombaram 
+9.416ab: sūryacandrau tathā svargaḥ kramādeṣāṃ phalāni tu 
+9.416cd: śrīvṛddhinidhanasthānabhraṃśanirdhanatārujaḥ
+9.417ab: kīrttimāuśca śaṃsanti cchandaḥśāstraviśāradāḥ 
+9.417cd: tasmātsvasya ca varṇasya rājādeśca sukhārthinā
+9.418ab: nityaṃ vāggeyakāreṇa magaṇo yagaṇastathā 
+9.418cd: bhagaṇo nagaṇaśceti gaṇāścatvāra eva hi
+9.419ab: prayoktavyāḥ prabandhādau nānya ityavadhāryatām 
+9.419cd: diṅmātramuktamatrānyad vṛttaratnākare sphuṭam
+9.420ab: akārādyaṣṭavarṇānāmucyate devatādikam 
+9.420cd: somo bhaumo budho jīvaḥ śukaḥ saurī ravistamaḥ
+
+9.421ab: kramādakacaṭānāṃ tapayaśānāṃ ca devatāḥ 
+9.421cd: dvaṣṭasvarā akārādyā avargaḥ parikīrtitaḥ
+9.422ab: kādivargāḥ sphuṭāḥ pañca yavargastu yarau lavau 
+9.422cd: varṇāḥ śaṣasahā jñeyāḥ śavarga iti nirṇayaḥ
+9.423ab: vargāṇāṃ syuḥ phalānyeṣāmāyuḥ kīrttirasadvyayaḥ 
+9.423cd: saṃpatsubhagatā kīrttimāndyaṃ mṛtyuśca śūnyatā 
+9.424ab: prayoge ślokagītādau stustasyoktāni sūribhiḥ 
+9.424cd: evaṃ varṇagaṇāḥ proktā vakṣye mātrāgaṇānatha
+9.425ab: mātrā kalā laghurlaścetyete paryāyavācakāḥ 
+9.425cd: te ca pañcavidhāḥ proktāśchagaṇaḥ pagaṇastataḥ
+9.426ab: cagaṇastagaṇaścaiva dagaṇaścetyanukramāt 
+9.426cd: ṣaṇmātraśchagaṇastatra yathā giriśatanaya 
+9.427ab: pagaṇaḥ pañcamātrākaḥ sa yathā gajavadana 
+9.427cd: caturmātrastu cagaṇo yathā puraharetyayam
+9.428ab: trimātrastagaṇaḥ prokto giriśeti nidarśanam 
+9.428cd: dagaṇastu dvimātraḥ syādyathā haraśivādikaḥ
+9.429ab: athānyepi nirūpyante gaṇā mātrāgaṇābhidhāḥ 
+9.429cd: atyuktā caiva madhyā ca pratiṣṭhā ceti viśrutāḥ
+9.430ab: chandoviśeṣāsteṣaṃ ca cchandaḥśāstoktamātrakāḥ 
+9.430cd: prastāre ye gaṇā jātā vṛttabhedopapādakāḥ
+
+9.431ab: mātrāgaṇā iti proktāste gaṇā bharatādibhiḥ 
+9.431cd: atyuktāyāstu catvaro bhedāstatra prakīrtitāḥ
+9.432ab: catvāraścāpi te bhedā jñeyā ratigaṇā iti 
+9.432cd: kiṃ tu tatra lapūrva ye teṣvādāvadhiko laghuḥ
+9.433ab: evaṃ madhyābhavā bhedā aṣṭau kāmagaṇāḥ smṛtāḥ 
+9.433cd: tadvatkāmagaṇā bhedāḥ pratiṣthāyāstu ṣod daśa
+9.434ab: evaṃ nirūpitā varṇagaṇā mātrāgaṇāstathā 
+9.434cd: tatra varṇagaṇairbaddhā gaṇailā parikīrtitā
+9.435ab: sā bhavettrividhā śuddhā saṃkīrṇā vikṛtā tathā 
+9.435cd: śuddhā caturvidhā nādāvatī haṃsāvatī tathā
+9.436ab: nandāvatī ca bhadrāvatyetāsāṃ lakṣma kathyate 
+9.436cd: pañcabhirbhagaṇairante nagaṇena samanvitaḥ
+9.437ab: magaṇādyairvarṇagaṇairbaddhā nādāvatī smṛtā 
+9.437cd: gaṇānāṃ niyamastvādyapāde khaṇḍadvaye param
+9.438ab: tataḥ paraṃ tvicchayaiva prayoktavyā gaṇā iha 
+9.438cd: asyāṃ ṭakkābhidho rāgo maṭṭatālaśca kīrtitaḥ
+9.439ab: atha haṃsāvatīṃ brūmo yasyāṃ khaṇḍadvayaṃ punaḥ 
+9.439cd: pañcabhī ragaṇairante sagaṇena yutairbhavet
+9.440ab: dvitīyatālahindolarāgābhyāṃ sahitopyayam 
+9.440cd: haṃsāvatī gaṇānāṃ ca niyamotrāpi pūrvavat
+
+9.441ab: pade khaṇḍadvaye jñeyastato nandāvatīṃ bruve 
+9.441cd: pañcabhistagaṇairante jagaṇena samanvitaiḥ 
+9.442ab: yasyāḥ khaṇḍadvayaṃ seyaṃ nandāvatyabhidhīyate 
+9.442cd: tālotra pratitālākhyo rāgo mālavakaiśikaḥ
+9.443ab: gaṇānāṃ niyamaścātra pade khaṇḍadvaye param 
+9.443cd: atha bhadrāvatīṃ brūmo yasyāṃ khaṇḍadvayaṃ punaḥ
+9.444ab: pañcabhirmagaṇairante yagaṇena yutairbhavet 
+9.444cd: iti bhadrāvatī tasyaṃ tālaḥ kaṅkālanāmakaḥ
+9.445ab: rāgastu kukubho nāma gaṇānāṃ niyamotra ca 
+9.445cd: draṣṭavyaḥ pūrvavacchuddhagaṇailā iti varṇitāḥ
+9.446ab: catasṛṣvapi caitāsu gaṇailāsu puroditam 
+9.446cd: elāprabandhasāmānyalakṣaṇaṃ yojyamiṣyate
+9.447ab: viśeṣamātramatroktaṃ saṃkīrṇavikṛtāḥ punaḥ 
+9.447cd: elāstu bahuśaḥ santi mataṅgādyāgamoditāḥ
+9.448ab: śrīmatā śārṅgadevena saṃkṣipyoktāsu tāḥ punaḥ 
+9.448cd: idānīṃ naiva lakṣye tāḥ saṃlakṣyantepi kutracit
+9.449ab: ityasmābhirvisṛjyaitā mātrailā pratipādyate 
+9.449cd: mātrāgaṇairyā cchagaṇapagaṇādyairnibadhyate
+9.450ab: sā mātrailā tu tadbhedā bahudhā matabhedataḥ 
+9.450cd: tatra vistarasaṃtrastairasmābhiriha kathyate
+
+9.451ab: ratirekhābhidhānaikā mātrailā pārvatīmatā 
+9.451cd: tasyāṃ tāvattripādātmanyudgrāhe prathamāṅghrigāḥ
+9.452ab: mātrāstvekādaśaiva syustathaivāṅghrau dvitīyake 
+9.452cd: ekādaśaiva mātrāḥ syustṛtīye tu daśa smṛtāḥ
+9.453ab: ratilekheti tāmāha śrīmaheśvaravallabhā 
+9.453cd: mātrailetthaṃ nigaditā varṇailādya nirūpyate 
+9.454ab: gaṇānamapi mātrāṇāṃ niyamena vinaiva yā 
+9.454cd: vibhajyate sā varṇailā caturviṃśatidhā ca sā
+9.455ab: ṣaḍakṣarāṅghrikhaṇḍāderekonatriṃśadakṣaram 
+9.455cd: yāvadekaikavṛddhāḥ syuścaturviṃśatiratra tu 
+9.456ab: maṭṭadvitīyakaṅkālapratitāleṣu kaścana 
+9.456cd: tālaḥ syāditi varṇailā varṇitātha nirūpyate 
+9.457ab: deśailā deśabhāṣābhirnibaddhāḥ parikīrtitāḥ 
+9.457cd: karṇāṭalāṭagaulāndhradraviḍānāṃ prabhedataḥ
+9.458ab: sā ca pañcavidhā proktā tatra karṇāṭabhāṣayā 
+9.458cd: nibaddhā yā bhavedeṣā karṇāṭaileti kathyate
+9.459ab: lāṭabhāṣānibaddhā tu lāṭailā parikīrtitā 
+9.459cd: gauḍabhāṣāviracitā gauḍailā samudāhṛtā
+9.460ab: āndhrabhāṣānibaddhāḥ syurāndhrailā samudīritāḥ 
+9.460cd: drāviḍyā bhāṣayā baddhā drāviḍaileti kathyate
+
+9.461ab: elāprabandhasāmānyalakṣaṇaṃ yadudāhṛtam 
+9.461cd: tallakṣaṇayutaivailā baddhā deśīyabhāṣayā
+9.462ab: deśailāpadavācyatvaṃ bhajatītyavadhāryatām 
+9.462cd: karṇād tailādimadhyāntavarṇānuprāsabhāsurā 
+9.463ab: antyaprāsā tu lāṭī syād bhūyo rasavirājitā 
+9.463cd: gamakaprāsanirmuktā gauḍītvekarasā matā
+9.464ab: nānāprayogarāgāṃśarasabhāvotkaṭāndhrikā 
+9.464cd: bhūribhāvarasotkarṣaṃ drāviḍī prāsavarjitā
+9.465ab: itthamelātra saṃkṣipya proktā lakṣyajñasaṃmatā 
+9.465cd: elānāṃ triśatī proktā ṣad tpañcāśatsamanvitā 
+9.466ab: niryuktoyaṃ prabandhaḥ syāttālādiniyamo yataḥ 
+9.466cd: tridhāturvā caturdhāturmelāpakavikalpataḥ
+9.467ab: padatālāṅgayugalabaddhastārāvalīyutaḥ 
+9.467cd: athoddeśakramaprāptaḍheṅkīlakṣaṇamucyate
+9.468ab: yatodgrāhasya pūrvārdhaṃ dvivāraṃ parigīyate 
+9.468cd: uttarārdhaṃ sakṛccaiva prayogātmā tataḥ param
+9.469ab: melāpakaḥ sa tu bhavenna bhavedvā vikalpataḥ 
+9.469cd: etāvudgrāhamelāpau tālena rahitau smṛtau 
+9.470ab: atha vā ḍheṅkikātālakaṅkālānyatarānvitau 
+9.470cd: vilambitalayau caiva kartavyāviti nirṇayaḥ
+
+9.471ab: layāntarenyatālena dhruvābhogau tatastu tau 
+9.471cd: dhruvastrikhaṇḍastatrādye khaṇḍe dve samadhātuke
+9.472ab: tṛtīyaṃ bhinnadhātu syād dvirgeyastādṛśo dhruvaḥ 
+9.472cd: ābhogotha sakṛdgeyaḥ prabandhaṃ sakalaṃ punaḥ
+9.473ab: gītvā bhaved dhruve nyāso yasyāṃ sā ḍheṅkikā smṛtā 
+9.473cd: ragaṇo ḍheṅkikā kaiścideṣā proktā tathā janai
+9.474ab: ḍheṅkitālasya lakṣmedaṃ kaṅkālasya tu lakṣaṇam 
+9.474cd: uktaścaturdhā kaṅkālaḥ pūrṇaḥ khaṇḍaḥ samosamaḥ
+9.475ab: caturdrutī galau pūrṇaḥ khaṇḍo dvau ca gurudvayam 
+9.475cd: samo gurū laghvantau viṣamo lād gurudvayam
+9.476ab: caturdhā ḍheṅkikā muktāvalī syād vṛttabandhinī 
+9.476cd: yugminī vṛttamālā ca tatra vṛttaṃ na vidyate
+9.477ab: yasyāṃ muktāvalī sā syād vṛttaṃ yatraikameva cet 
+9.477cd: sā vṛttabandhinī yasyāṃ dve vṛtte sā tu yugminī 
+9.478ab: bahūni yatra vṛttāni vṛttamālā tu sā bhavet 
+9.478cd: tridhā tisro dvitīyādyā varṇikā gaṇikā tathā
+9.479ab:  mātrikā varṇajairvṛttairgaṇajairmātrikairapi 
+9.479cd: daśāpi syuḥ punastredhā samālaṃkaraṇā yathā
+9.480ab: viṣamālaṃkṛtiścitrālaṃkṛtirlakṣaṇāni tu 
+9.480cd: samālaṃkarasaṃkhyā ca viṣamā miśritā kramāt
+
+9.481ab: niryuktoyaṃ prabandhaḥ syācchandastālādiyantraṇat 
+9.481cd: tridhāturvā caturdhāturmelāpakavikalpitaḥ 
+9.481ef: padatālāṅgayugalabaddhastārāvalīyutaḥ
+
+
+
+
+
+
+
+
+
+
+
+
